@@ -6,6 +6,6 @@ coverage
 tmp
 *.pem
 *.json
-
+*.csv
 !package.json
 !package-lock.json
