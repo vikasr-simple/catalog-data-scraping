@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Thai Coconut Chicken Satay",
+        "brand": "Culinary Master",
+        "packSize": "80/1.5 OZ",
+        "itemNumber": "10084",
+        "description": "Culinary Masters Thai Coconut Chicken Satay is inspired by flavors from Indonesia. They feature classic flavors of lemon grass, ginger, coconut, peanut sauce, and chicken thigh meat.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/10084-culinary-master-thai-coconut-chicken-satay-10084"
+    },
+    {
+        "name": "Shrimp Vegetable Spring Roll",
+        "brand": "Les Chateaux",
+        "packSize": "90/1.5 OZ",
+        "itemNumber": "125015",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/springrollcb_20231115-112426_oweandxyloljdagb.jpg",
+        "contentUrl": "https://www.gfifoods.com/125015-les-chateaux-shrimp-vegetable-spring-roll-125015"
+    },
+    {
+        "name": "Tomato Soup Gluten Free",
+        "brand": "Beecher's",
+        "packSize": "2/8.5 LB",
+        "itemNumber": "110000",
+        "description": "Beecher's Tomato Soup, Made daily with fresh tomatoes and Beecher's Flagship cheese. Everything we produce, from the handcrafted cheeses to the delicious side dishes and crackers, is authentic, original, full-flavored food made with ingredients we trust and are proud of.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/c/bc-tomatosoup-front_20220503-112412_u4l7w3g5toblxm74.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/110000-long-clawson-flagship-tomato-soup"
+    },
+    {
+        "name": "Meatballs 1 OZ Cooked",
+        "brand": "Fontanini",
+        "packSize": "1/10 LB",
+        "itemNumber": "271",
+        "description": "Fully cooked signature meatballs made with beef, pork, and a fresh Italian spice blend. The product has an authentic meaty bite and a delicious made from scratch flavor. Each meatball average weight is 1/2 oz.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00039437000666_c1cb_20210917_1024474_hw1flzczxturic31.jpg",
+        "contentUrl": "https://www.gfifoods.com/271-fontanini-meatballs-cooked-1-oz"
+    },
+    {
+        "name": "BBQ Pork Slider on Biscuit",
+        "brand": "Kabobs",
+        "packSize": "96/1 OZ",
+        "itemNumber": "501551",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/501551-kabobs-bbq-pork-biscuit-slider"
+    },
+    {
+        "name": "Butter Chicken Meatballs Gluten Free",
+        "brand": "Cafe Spice",
+        "packSize": "1/10 LB",
+        "itemNumber": "27925",
+        "description": "Cafe Spices Butter Chicken Meatballs are a culinary twist on the popular Butter Chicken dish.  Spiced North Indian-style meatballs, made with chicken, are simmered in a rich, aromatic tomato-cream sauce.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00825120002914_a3_2_20220122-130306_raczmgq15srngyam.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/27925-cafe-spice-butter-chicken-meatballs-27925"
+    },
+    {
+        "name": "Turkey Patty Grilled",
+        "brand": "Gourmet Boutique",
+        "packSize": "2/12 PC",
+        "itemNumber": "384721",
+        "description": "GRILLED TURKEY PATTY (AZ)\nLightly seasoned, fresh ground, all-white-meat turkey grilled to perfection over a real open flame\nExcellent for in-store hot sandwich program",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/38472_20220912_1110355_tyiuibznzldfaayx.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/384721-gourmet-boutique-grilled-turkey-patty-384721"
+    },
+    {
+        "name": "Chicken Matzo Ball Soup",
+        "brand": "Brett Anthony",
+        "packSize": "12/24 OZ",
+        "itemNumber": "100018",
+        "description": "Classic Matzo Ball Soup for Passover, Hanukkah, Yom Kippur, or when you’re feeling under the weather! Anyone can enjoy this soup, any time of year. It’s pure comfort and like a warm hug from your grandma!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chicken20matzo20ball20soup20100018_nlxbkcblfo2wkz2j.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100018-brett-anthony-chicken-matzo-ball-soup-100018"
+    },
+    {
+        "name": "Dutch Beef Croquettes",
+        "brand": "Voorn Gourmet",
+        "packSize": "50/2.2 OZ",
+        "itemNumber": "12882",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/r/croquettes_003-324x324_20211123_1444128_ubkekuzig8arg4jo.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/12882-voorn-gourmet-dutch-beef-croquettes"
+    },
+    {
+        "name": "Bacon, Sausage & Egg Wrap",
+        "brand": "Starbucks",
+        "packSize": "9/7.52 OZ",
+        "itemNumber": "17632",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/7/17632silo.jpg",
+        "contentUrl": "https://www.gfifoods.com/17632-starbucks-bacon-sausageegg-wrap"
+    },
+    {
+        "name": "Seared Chicken Breast with Thyme",
+        "brand": "Cuisine Solutions",
+        "packSize": "28/9 OZ",
+        "itemNumber": "101899",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chickenbreastthyme_20231025-152640_cc63f377gnqczvp6.jpg",
+        "contentUrl": "https://www.gfifoods.com/101899-cuisine-solutions-seared-chicken-breast-with-thyme-101899"
+    },
+    {
+        "name": "Bacon Egg & Cheese Biscuit",
+        "brand": "Kabobs",
+        "packSize": "112/2.45 OZ",
+        "itemNumber": "7989",
+        "description": "Mini Bacon Egg and Cheese Breakfast Biscuit",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-11-0720at205.00.2720pm_20221007-170034_k3j3d5k1ptvpcz1a.jpg",
+        "contentUrl": "https://www.gfifoods.com/7989-kabobs-biscuit-mini"
+    }
+]

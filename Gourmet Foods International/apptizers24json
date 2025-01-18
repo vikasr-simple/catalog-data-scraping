@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Chicken & Pineapple Kabobs",
+        "brand": "Kabobs",
+        "packSize": "100/1.25 OZ",
+        "itemNumber": "5101",
+        "description": "Chicken-Pineapple Kabob",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/5101-kabobs-chicken-pineapple-kabobs"
+    },
+    {
+        "name": "Spanakopita",
+        "brand": "Van Lang",
+        "packSize": "200/0.90 OZ",
+        "itemNumber": "1611001",
+        "description": "SPANAKOPITA (#161100) A delicious combination of spinach, zesty feta cheese, herbs and spices. A well-known classic that needs no introduction!  Quantity: 1 oz. pieces, 200 per case (5 trays of 40).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/16110020spanakopita20_20220007-123954_ubcdibmwjvi8ybwh.jpg",
+        "contentUrl": "https://www.gfifoods.com/1611001-van-lang-spanakopita"
+    },
+    {
+        "name": "Fresh Quail Eggs",
+        "brand": "Manchester Farms Quail",
+        "packSize": "6/4.5 OZ",
+        "itemNumber": "104738",
+        "description": "Quail Eggs are consumed for high protein, minerals, vitamins, and terrific flavor. Quail eggs are excellent sources of nutrients, vitamins, minerals and high protein. We've been told many folks also feed quail eggs to their pets for wellness and to help with allergies.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mantis20egg20image209-10-24_7vhizlsibg5jlfv6.jpg",
+        "contentUrl": "https://www.gfifoods.com/104738-manchester-farms-quail-fresh-quail-eggs-104738"
+    },
+    {
+        "name": "Bacon, Sausage & Egg Wrap",
+        "brand": "Starbucks",
+        "packSize": "9/7.52 OZ",
+        "itemNumber": "17632",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/7/17632silo.jpg",
+        "contentUrl": "https://www.gfifoods.com/17632-starbucks-bacon-sausageegg-wrap"
+    },
+    {
+        "name": "Dolmas Stuffed Grape Leaves",
+        "brand": "Ficacci",
+        "packSize": "2/4.2 LB",
+        "itemNumber": "30694",
+        "description": "Dolmas, from the Turkish verb “to stuff”, are the culinary legacy of the mighty Ottoman Empire. Dolmas are very versatile; they can be eaten cold or warm. Fresh Pack's Dolmas are the perfect portion for snacking or as an appetizer!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/d/9dolmas_20210302-132419_gxcytjncncqin6p9.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/30694-ficacci-dolmas-stuffed-grape-leaves"
+    },
+    {
+        "name": "Chicken Quesadilla Cone",
+        "brand": "Van Lang",
+        "packSize": "200/1 OZ",
+        "itemNumber": "302010",
+        "description": "Flavorful ground chicken, cheese, cilantro and a southwest spice blend presented in a flour tortilla cone.  Quantity: 1 oz. pieces, 200 per case (4 packs of 50) Preparation Method: Bake from frozen in 350°F oven for 10-12 minutes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/30111020-20chicken20quesadilla20cone_20211103-093939_9hhtguklvupmby85.jpg",
+        "contentUrl": "https://www.gfifoods.com/302010-hf-bread-co-chicken-quesadilla-cone"
+    },
+    {
+        "name": "Roasted Vegetable Lasagna",
+        "brand": "Kabobs",
+        "packSize": "24/8.5 OZ",
+        "itemNumber": "401003",
+        "description": "Roasted Vegetable Lasagna",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/4/k40120vegetable20lasagna_20220305-010452_7dmqftanjeci1b19.jpg",
+        "contentUrl": "https://www.gfifoods.com/401003-kabobs-lasagna-roasted-vegetable-k401"
+    },
+    {
+        "name": "Sausage & Peppers in Tomato Basil Sauce",
+        "brand": "Perfect Pasta",
+        "packSize": "6/10 OZ",
+        "itemNumber": "32740",
+        "description": "Cooked full link mild Italian Sausage married with Perfect Pasta’s own Basilico inspired Tomato Basil Sauce and topped with fresh sliced green & red bell peppers and Italian seasonings – Perfect for a sandwich or as a plated meal.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10097137353526_main_20210923_125581_3hueu6ahfrnb4rla.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/32740-perfect-pasta"
+    },
+    {
+        "name": "Bacon & Swiss Sous-Vide Egg Bite Gluten Free",
+        "brand": "Trois Petits Cochons",
+        "packSize": "12/2.5 OZ",
+        "itemNumber": "904352",
+        "description": "Sous-Vide Egg Bite Bacon & Swiss Great for Breakfast or Snack on the go, Fully Cooked, Cage-free eggs, High Protein, All Natural, Gluten-Free, Low Carbohydrates, No Sugar",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00045885904357_fce_12042022_20220521-134602_kbeoppshxputkl02.jpg",
+        "contentUrl": "https://www.gfifoods.com/904352-three-pigs-sous-vide-egg-bites-bacon-swiss"
+    },
+    {
+        "name": "Beef Barbacoa Taquito",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/100 CT",
+        "itemNumber": "222560",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/case_20231212_1623761_lsfzw14ltcxrxwvp.jpg",
+        "contentUrl": "https://www.gfifoods.com/222560-gourmet-kitchen-beef-barbacoa-taquito-222560"
+    },
+    {
+        "name": "Jamaican Beef Patty",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "87115",
+        "description": "Jamaican Beef Patty",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/a/jamaican20beef20patty20main_20190917_0831510_jeaby7nakwfttmwt.jpg",
+        "contentUrl": "https://www.gfifoods.com/87115-kabobs-jamaican-beef-patty"
+    },
+    {
+        "name": "Sweet Potato Souffle",
+        "brand": "Kabobs",
+        "packSize": "60/3 OZ",
+        "itemNumber": "24128",
+        "description": "Sweet Potato Souffle",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/24128-kabobs-sweet-potato-souffle"
+    }
+]

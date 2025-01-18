@@ -1,0 +1,110 @@
+[
+    {
+        "name": "White Truffle Mushroom Pizza",
+        "brand": "Table 87",
+        "packSize": "12/12.1 OZ",
+        "itemNumber": "21143",
+        "description": "Our Mushroom Truffle pizza features  Crispy crust, homemade sauce, mozzarella and grana cheese, fresh mushrooms, white truffle oil. Its ready to eat in less than 10 minutes",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/table-87-mushroom-pizza-2_20201001_1032726_nnlxbxv1fbyefivm.jpg",
+        "contentUrl": "https://www.gfifoods.com/21143-table-87-white-truffle-mushroom-pizza"
+    },
+    {
+        "name": "Vegan Spiced Chickpea Phyllo Bundle",
+        "brand": "Van Lang",
+        "packSize": "27/5 OZ",
+        "itemNumber": "104390",
+        "description": "Hearty chickpeas, chopped zucchini and spinach simmered in a rich tomato sauce accented with garam masala, cumin, ginger & coriander and hand folded into an elegant entrée sized phyllo star.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/0/501006_20240429-155642_8lxaptbwowzemmae.jpg",
+        "contentUrl": "https://www.gfifoods.com/104390-van-lang"
+    },
+    {
+        "name": "Prosciutto Pizza",
+        "brand": "Table 87",
+        "packSize": "12/10.1 OZ",
+        "itemNumber": "12395",
+        "description": "Our coal fired Prosciutto Pizzas feature a crispy crust that‚Äôs slightly charred, our signature house-made tomato sauce, fresh mozzarella, sprinkled grana cheese and generously topped with thinly sliced Prosciutto.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/prosciutto20pie20update_20200325_1218844_ze9shoai9czcezkt.jpg",
+        "contentUrl": "https://www.gfifoods.com/12395-table-87-coal-oven-prosciutto-pizza-pie"
+    },
+    {
+        "name": "Vegetable Quesadilla Triangle",
+        "brand": "Van Lang",
+        "packSize": "200/1.00 OZ",
+        "itemNumber": "301190",
+        "description": "VEGETABLE QUESADILLA TRIANGLE (#301190) A zesty blend of sweet corn, black beans, cheese and southwest spices presented in a a flour tortilla cone.  Quantity: 1 oz. pieces, 200 per case.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/30119020-20vegetable20quesadilla20triangle_20211117-105157_fhxjrop5bg2rddto.jpg",
+        "contentUrl": "https://www.gfifoods.com/301190-van-lang-vegetable-quesadilla-triangle"
+    },
+    {
+        "name": "Chicken Gyro Cone",
+        "brand": "Grecian Delight",
+        "packSize": "2/19 LB",
+        "itemNumber": "566511",
+        "description": "Chicken Gyro cone medium size or 19lb. per gyro cone. Chicken Gyros contain a special blend of fully cooked chicken breast and thigh meat with tangy paprika and distinct Mediterranean spices.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/n/snag_294afa88_20211021_1015299_xaexkmgibzcxrtok.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/566511-grecian-delight"
+    },
+    {
+        "name": "Vegetable Potstickers",
+        "brand": "Fortune Avenue",
+        "packSize": "6/45.3 OZ",
+        "itemNumber": "31143",
+        "description": "Fortune Avenue’s pork and cabbage potstickers are Chinese dumplings filled with vegetables, these are heat treated and frozen. They require cooking before serving.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/31143-wf-mk-bakehouse-vegetable-potstickers"
+    },
+    {
+        "name": "Beef Wellington",
+        "brand": "Van Lang",
+        "packSize": "200/1 OZ",
+        "itemNumber": "233000",
+        "description": "Juicy chunks of beef combined with red wine reduction & mushroom deluxe a traditional Wellington hors d’oeuvre. Preparation Method: Bake from frozen in 375°F - 400°F oven for 10-15 minutes. Internal temperature must reach 165°F as measured by a thermometer.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/3/23300020-20beef20wellington_20230227-133938_y39t57r4okyrjgcy.jpg",
+        "contentUrl": "https://www.gfifoods.com/233000-girard-s-beef-wellington"
+    },
+    {
+        "name": "Meatloaf with Ketchup Glaze Mini",
+        "brand": "Gourmet Boutique",
+        "packSize": "2/5 PC",
+        "itemNumber": "384691",
+        "description": "MINI MEATLOAF WITH KETCHUP GLAZE (AZ)\nMiniature savory, traditional beef meatloaf garnished with a tangy tomato glaze\nDisplay on large flat platter in the deli case\nPrepack in the Grab‘N’Go section",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/38469m_20220912_1015833_orx9viargng5lnx3.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/384691-gourmet-boutique-mini-meatloaf-with-ketchup-glaze-384691"
+    },
+    {
+        "name": "Chicken Wonton",
+        "brand": "Fortune Avenue",
+        "packSize": "300/.50 OZ",
+        "itemNumber": "41153",
+        "description": "Fortune Avenue Foods’ Chicken wontons are pre-steamed and come frozen. They have a savory ground chicken and variety of vegetable filling wrapped in thin fresh egg noodle dough and formed into a parcel similarly shaped like ancient gold ingots.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/41153-ref"
+    },
+    {
+        "name": "Chicken Cordon Bleu Mini",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "713",
+        "description": "Mini Chicken Cordon Blue",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-10-1920at203.12.5620pm_20220919-155527_ytpc3mbnpfoam3nu.jpg",
+        "contentUrl": "https://www.gfifoods.com/713-kabobs-mini-chicken-cordon-bleu"
+    },
+    {
+        "name": "Lasagna Roll Ups Gluten Free",
+        "brand": "Manini's",
+        "packSize": "6/12 OZ",
+        "itemNumber": "86451",
+        "description": "Manini‚Äôs Heat & Serve Lasagna Roll-Ups are naturally gluten free pasta sheets made exclusively from our proprietary Ancient Grains flour. With delicious cheese and savory marinara sauce, this new twist on the traditional Italian favorite provides a satisfying meal in a hurry.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/product-lasagna-rolls-1_20200219_1113873_vfduxmahj5ixa3u9.jpg",
+        "contentUrl": "https://www.gfifoods.com/86451-manini-s-gluten-free-lasagna-roll-ups"
+    },
+    {
+        "name": "White Bean Hatch Chicken Chili",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700695",
+        "description": "White Bean Hatch Chicken Chili. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700695-town-and-country-white-bean-hatch-chicken-chili-700695"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Plum Tomatoes Italian Whole Peeled",
+        "brand": "La Valle",
+        "packSize": "6/10 CN",
+        "itemNumber": "39100",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/1/61020ital20peel20r8_20211003-123903_cmkqpbb0os5cswe5.jpg",
+        "contentUrl": "https://www.gfifoods.com/39100-la-valle-whole-peeled-italian-plum-tomatoes"
+    },
+    {
+        "name": "Green Picante Olive Pitted",
+        "brand": "Delallo",
+        "packSize": "2/5 LB",
+        "itemNumber": "15006",
+        "description": "Sicilian-cured California Sevillano olives.\n- Briny and buttery with a kiss of red-hot pepper flakes.\n- Pitted for convenient snacking, entertaining and cooking.\n- Ready-to-serve antipasto and gourmet ingredient.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/5/15006_olive20piccante_tb9uowexioenkwet.jpg",
+        "contentUrl": "https://www.gfifoods.com/15006-delallo-olive-picante-green-pitted"
+    },
+    {
+        "name": "Garlic Stuffed Olives",
+        "brand": "Fresh Pack",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "87919",
+        "description": "Rich and Garlicky, these large pale green olives are native to the Halkidiki region of Greece. These olives are pitted and stuffed with a whole garlic clove then marinated in salt and sunflower oil. These olives are perfect for, aperitifs or antipasti.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/offara150_p_20190621_0329556_mgzhv1nqu6osepkj.jpg",
+        "contentUrl": "https://www.gfifoods.com/87919-fresh-pack-garlic-stuffed-olives"
+    },
+    {
+        "name": "Polenta Cake with Garlic Confit",
+        "brand": "Cuisine Solutions",
+        "packSize": "10/9 PC",
+        "itemNumber": "105917",
+        "description": "A crispy outer layer covering a delicious mix of creamy gritty and cheese. These cakes are the perfect mouth-watering side to any meat or poultry dish, just heat and serve.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/3855productphoto_20240909-101839.jpg",
+        "contentUrl": "https://www.gfifoods.com/105917-cuisine-solutions"
+    },
+    {
+        "name": "Tangerine & Chili Marinated Green Olives",
+        "brand": "Divina",
+        "packSize": "2/7.4 LB",
+        "itemNumber": "81371",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0813-1_20200814_1548918_batshhhytopiq4jk.jpg",
+        "contentUrl": "https://www.gfifoods.com/81371-divina-tangerinechili-marinated-green-olives"
+    },
+    {
+        "name": "Balsamic Cipolline Onions",
+        "brand": "Murray's",
+        "packSize": "6/7 OZ",
+        "itemNumber": "13235",
+        "description": "Petite and sweet, these Borettane varietal onions from the Po River Valley in Italy will have you munching with delight. We love these balsamic-marinated sweet and tart onions skewered with veggies and grilled or chopped into a bubbly mac and cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/4091020dv20pro-large_20211103-123154_bumw6udxp60fxdws.jpg",
+        "contentUrl": "https://www.gfifoods.com/13235-murray-s"
+    },
+    {
+        "name": "Gigandes Beans In Vinaigrette",
+        "brand": "Divina",
+        "packSize": "6/4.4 LB",
+        "itemNumber": "508400",
+        "description": "Gigandes beans, named for their massive size, are a knockout ingredient in salads or pastas. Plump and creamy, they're marinated in a tangy vinaigrette with red pepper strips and aromatic herbs.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/0/50840-2_20190913_1125183_urxggdrw6lmjernx.jpg",
+        "contentUrl": "https://www.gfifoods.com/508400-divina-gigandes-beans-in-vinaigrette"
+    },
+    {
+        "name": "Prosciutto Pepper Shooters",
+        "brand": "Di Bruno",
+        "packSize": "12/7 OZ",
+        "itemNumber": "36313",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/b/db_peppershooters_front_20201128-174604_xgjhqow1tprilk9q.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/36313-di-bruno-prosciutto-pepper-shooters"
+    },
+    {
+        "name": "Hot & Spicy Pickle Chips",
+        "brand": "Kretschmar",
+        "packSize": "12/24 OZ",
+        "itemNumber": "89609",
+        "description": "The Hot & Spicy Pickle Chips are fresh, crisp, and crunchy. Pickles are so fresh because cucumbers go from farm to container in seven days. Pickles are bursting with flavor. A chip that packs some heat.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10820581896093main_20220629_1223461_itg16bj0gpovkyus.jpg",
+        "contentUrl": "https://www.gfifoods.com/89609-kretschmar"
+    },
+    {
+        "name": "Tomato Sundried Julienne",
+        "brand": "Del Destino",
+        "packSize": "4/5 LB",
+        "itemNumber": "103798",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/40071270300037_c1c1_q6jqzqvca4hmnomn.jpg",
+        "contentUrl": "https://www.gfifoods.com/103798-tomato-sundried-julienne-103798"
+    },
+    {
+        "name": "Yamagobo Zuke Burdock Root",
+        "brand": "Tetsujin",
+        "packSize": "10/2.2 LB",
+        "itemNumber": "49308",
+        "description": "Pickled burdock roots are used in maki sushi or paired with other ingredients to make Futomaki vegetarian rolls to add extra flavor & crunchy texture, Keep in cooler ready-to-use in sushi rolls",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20220806-131043_7rd5kqcyuoqsiaxk.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/49308-tetsujin"
+    },
+    {
+        "name": "Black Oil Cured Beldi Olives  Unpitted",
+        "brand": "La Medina",
+        "packSize": "2/11 LB",
+        "itemNumber": "20165",
+        "description": "Our Moroccan black Beldi olives are equally rich in color and flavor. With each bite, notes of ripe fruit and freshly turned earth come together in delectable contrast, framed with a supple, almost meaty texture. Try them in a nutty quinoa salad or alongside roast lamb.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/0/2016-1_20211111_1205345_20211029-081959_h9dpxphen1yfqruo.jpg",
+        "contentUrl": "https://www.gfifoods.com/20165-la-medina-black-oil-cured-beldi-unpitted-olives"
+    }
+]

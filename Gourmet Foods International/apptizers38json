@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Lemon Artichoke Girasole Ravioli",
+        "brand": "Severino",
+        "packSize": "9/9 OZ",
+        "itemNumber": "920240",
+        "description": "Severino Pasta is known as the place to find authentic and richly- flavored pasta!\nNEW and EXCLUSIVE Severino fresh pasta line!\nLemon Artichoke Girasole Ravioli\nServes well with ANY Severino Sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-01-1920at202.50.0420pm_20230404-153612_rry2bblrcvfmk7s4.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/920240-severino-lemon-artichoke-girasole-ravioli-920240"
+    },
+    {
+        "name": "Ethiopian Lentil Combo Vegan",
+        "brand": "Global Village Foods",
+        "packSize": "6/11.5 OZ",
+        "itemNumber": "100138",
+        "description": "Two Ethiopian inspired vegan stews: a green split pea stew with flax, fenugreek  and earthy spices, and red lentil stew with ginger,  cardamom and Ethiopian Berebere spice,  served with  hearty brown rice  with nutrient-rich millet. Sell from frozen shelf or slack & date 7 days for PFD Grab & Go.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/t/ethiopian-vegan-lentil-combo_20230018-062527_mtryskdifrgni0gu.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100138-global-village-foods-ethiopian-lentil-combo-vegan-100138"
+    },
+    {
+        "name": "Sautéed Chicken & Peaches",
+        "brand": "Global Village Foods",
+        "packSize": "2/5 LB",
+        "itemNumber": "100156",
+        "description": "Sauteed Chicken & Peaches (BULK ENTREE) \n• GLUTEN FREE / Dairy, Egg, Nut, Sesame & Seafood FREE  \n• Boneless chicken seasoned with tarragon, basil and other herbs, sauteéd and simmered in a sweet-zesty sauce of citrus, garlic and sliced peaches. Ready to heat and serve from boil/steam bag.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chicken2020peahes20-bowl_20230012-151222_9zx4yjmf729ne1hx.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100156-global-village-foods-sauteed-chickenpeaches-100156"
+    },
+    {
+        "name": "Shrimp Gyoza",
+        "brand": "Tetsujin",
+        "packSize": "24/12 PC",
+        "itemNumber": "10165",
+        "description": "Shrimp Gyoza Dumpling Appetizer        \nMing Hong International is the industry’s leading supplier of high quality Sushi & Asian Fusion cuisine ingredients.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/r/tray20copy_20210707_1508588_0ml6cosbpxe4glpm.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/10165-tetsujin-shrimp-gyoza"
+    },
+    {
+        "name": "Cajun Shrimp & Crab Cake",
+        "brand": "Culinary Master",
+        "packSize": "100/1 OZ",
+        "itemNumber": "11062",
+        "description": "Culinary Masters Cajun Shrimp & Crab Cakes are handmade with succulent wild gulf shrimp, crab meat and Andouille sausage blended with traditional BBQ spices, Asiago cheese, mayonnaise, cracker crumbs, and Creole mustard. They can be baked, fried, or sauteed.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/11062_nr33ucenirgjnkux.jpg",
+        "contentUrl": "https://www.gfifoods.com/11062-culinary-master-cajun-shrimpcrab-cake-11062"
+    },
+    {
+        "name": "Vegetable Lo Mein",
+        "brand": "Innovasian",
+        "packSize": "4/4 LB",
+        "itemNumber": "901310",
+        "description": "Packets of lo Mein noodles, vegetable blend and lo Mein sauce. Cabbage, Celery, Onion, Carrots with a delicious sauce of soy sauce, sesame oil, tumeric, onion powder and other natural flavors and spices.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60419vegetablelomeindisplay_20230905-125024_i2x2kz1koujuegta.jpg",
+        "contentUrl": "https://www.gfifoods.com/901310-innovasian-vegetable-lo-mein-901310"
+    },
+    {
+        "name": "Pork Belly Satay",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/100 CT",
+        "itemNumber": "710500",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/pork_belly_skewer_vyfu8kjfv8mere2h.jpg",
+        "contentUrl": "https://www.gfifoods.com/710500-gourmet-kitchen-pork-belly-satay-710500"
+    },
+    {
+        "name": "Dutch Beef Bitterballen",
+        "brand": "Voorn Gourmet",
+        "packSize": "100/1 OZ",
+        "itemNumber": "12909",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/e/beef_bitterballen_11-416x416_20211123_1422105_tzx6ub18z26oxzr3.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/12909-voorn-gourmet-dutch-beef-bitterballen"
+    },
+    {
+        "name": "Vegan Caribbean Risotto Cake",
+        "brand": "Van Lang",
+        "packSize": "200/0.70 OZ",
+        "itemNumber": "104326",
+        "description": "A tropical blend of coconut infused risotto, mango, pineapple, cilantro and lemongrass hand formed into cakes and breaded in panko breadcrumbs and coconut.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/5/251000_20240425-142633_vlqrl97x2xeb8vns.jpg",
+        "contentUrl": "https://www.gfifoods.com/104326-van-lang"
+    },
+    {
+        "name": "Steamed Cakes & Bao Buns 1 oz",
+        "brand": "Peking",
+        "packSize": "12/15 OZ",
+        "itemNumber": "80520",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/0/80520_main_20201015_083725_2oegn8mpevszbh4v.jpg",
+        "contentUrl": "https://www.gfifoods.com/80520-peking-lotus-leaf-steamed-cakes-bao-buns"
+    },
+    {
+        "name": "Green Onion, Egg & Cheese Stuffed Biscuit",
+        "brand": "Gourmet Kitchen",
+        "packSize": "36/4.2 OZ",
+        "itemNumber": "103002",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/b/lb0002biscuitstuffedwithscrambledeggsspringonionandcheddarcheese_20240125-183638_wlxfgtzwxotzhl5i.jpg",
+        "contentUrl": "https://www.gfifoods.com/103002-gourmet-kitchen-green-onion-eggcheese-stuffed-biscuit-103002"
+    },
+    {
+        "name": "Chicken Pot Pie",
+        "brand": "Country Chef",
+        "packSize": "8/24 OZ",
+        "itemNumber": "103231",
+        "description": "Country Chef 24 oz Chicken Pot Pie. We fill our flaky honey crust full of chunky white chicken, peas and carrots in a rich, creamy sauce and bake until golden brown.  The Country Chef Chicken Pot Pie has a home-made look and taste that is exactly what your customer is looking for.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00323ctop_20240325-111456_ojqyx0vrgq2cqpyc.jpg",
+        "contentUrl": "https://www.gfifoods.com/103231-country-chef-chicken-pot-pie-103231"
+    }
+]

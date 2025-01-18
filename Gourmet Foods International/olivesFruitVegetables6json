@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Hot & Sweet Peppers",
+        "brand": "Divina",
+        "packSize": "6/9.9 OZ",
+        "itemNumber": "141001",
+        "description": "Crunchy, sweet, spicy and juicy, these Greek peppers are wonderful in stir-frys, stuffed with goat cheese, tossed into pasta or sautéed with kale. These exotic peppers hit two main flavor trends.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/4/14100_dv_pac_top-large_20240328-160342_hocjtd4whudvy23p.jpg",
+        "contentUrl": "https://www.gfifoods.com/141001-divina"
+    },
+    {
+        "name": "Bonded IQF Broccoli Florets",
+        "brand": "Yupi",
+        "packSize": "1/20 LB",
+        "itemNumber": "B400900",
+        "description": "The Broccoli Florets are Individually quick frozen and are ready to be added to your favourite meals. They are a a nutritious vegetable that can be included in a well balanced meal plan.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/q/iqfbroccoliflorets_20231201-155435_g8bbgmta7l6p83ql.jpg",
+        "contentUrl": "https://www.gfifoods.com/b400900-yupi-bonded-iqf-broccoli-florets-b400900"
+    },
+    {
+        "name": "White Truffle & Mushroom Sauce",
+        "brand": "Urbani Truffles",
+        "packSize": "6/6.35 OZ",
+        "itemNumber": "935057",
+        "description": "Italian White Truffles with Mushrooms sauce. Made in Italy. Shelf stable. Long shelf life. Ready to use. Farm to Table. Mushroom and precious white truffle, come together to give life to a ready-made sauce.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/h/whitesauce_20230727-155044_tivfcegkp1k39tpd.jpg",
+        "contentUrl": "https://www.gfifoods.com/935057-urbani-truffles-white-trufflemushroom-sauce-935057"
+    },
+    {
+        "name": "Filled Dates",
+        "brand": "Jomara",
+        "packSize": "12/7.1 OZ",
+        "itemNumber": "602591",
+        "description": "Premium dates filled with almond, orange peel and pistachio in outstanding clear packs to ensure a full vision of its finest dates, showing the full beauty of the fruit.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/o/jomaraclearpackfilleddatesassorted-aop200g_20240709-165710_qg7b3awsycfblfwx.jpg",
+        "contentUrl": "https://www.gfifoods.com/602591-jomara-filled-dates-602591"
+    },
+    {
+        "name": "Olive Greek Mix Chopped",
+        "brand": "Divina",
+        "packSize": "2/5 LB",
+        "itemNumber": "45411",
+        "description": "Spend your time in the kitchen on more important tasks and enjoy our labor-saving chopped Greek olives. A fruity and smoky mix of classic varietals, we enjoy them tossed and topped over our favorite salads, flatbreads, quesadillas and more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0244-1_20211110_1537165_20211029-080259_zx87hir8kf0b1ph2.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/45411-divina-olive-greek-mix-chopped"
+    },
+    {
+        "name": "Mango Chunk IQF",
+        "brand": "Dole",
+        "packSize": "1/20 LB",
+        "itemNumber": "445816",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chunks_20231027-150802_gydsggxwfyub7j6r.jpg",
+        "contentUrl": "https://www.gfifoods.com/445816-dole-mango-chunk-iqf-445816"
+    },
+    {
+        "name": "Cherries Griottes In Brandy",
+        "brand": "La Cerisaie",
+        "packSize": "1/1 LT",
+        "itemNumber": "162462",
+        "description": "Small, intensely dark cherry macerated in eau de vie (brandy). Black Forest cakes, bonbons, cocktails, layer cake or tart filling. The liqueur can be utilized for syrup or to flavor other elements.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/m/ami70120griotte20cherries20in20brandy201lt20600px_20210722_1017778_kqxeyfuxywhgpouu.jpg",
+        "contentUrl": "https://www.gfifoods.com/162462-la-cerisaie-cherries-griottes-in-brandy"
+    },
+    {
+        "name": "Whole Kernel Sweet Corn",
+        "brand": "Premium",
+        "packSize": "6/106 OZ",
+        "itemNumber": "B77290",
+        "description": "We are a full-service distributor of premium food products. With over 40 years of experience in the food business, we specialize in the importation and distribution of non-perishable canned fruits, vegetables, dry pasta, and canned seafood products.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b77290-premium-whole-kernel-sweet-corn"
+    },
+    {
+        "name": "San Marzano DOP Tomatoes Peeled",
+        "brand": "La Valle",
+        "packSize": "12/28 OZ",
+        "itemNumber": "39105",
+        "description": "San Marzano tomatoes are grown in the Valle del Sarno, near Naples in Italy. They are famed for their rich, balanced flavor and have been the go-to for Italian cuisine for generations. Try them with pasta sauce, pizza sauce, soups or stews.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/a/san_marzano_peeled_tomatoes_d.o.p._800g-pelato_san_marzano_d.o.p_1.jpg",
+        "contentUrl": "https://www.gfifoods.com/39105-la-valle-san-marzano-dop-tomatoes"
+    },
+    {
+        "name": "Pitted Greek Mix Olives",
+        "brand": "Divina",
+        "packSize": "2/5 LB",
+        "itemNumber": "60240",
+        "description": "Greece's most popular olive varietals marinated in herbs and pitted, this mix is convenient to toss in salads, pasta or chop into a tapenade. Our Greek olive mix is non-GMO, harvested, sorted and even mixed by hand to prevent bruising and ensure quality that is second to none.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0240-1_20190910_1059218_ox8u3jxcny4cxgyf.jpg",
+        "contentUrl": "https://www.gfifoods.com/60240-divina-pitted-greek-mix-olives"
+    },
+    {
+        "name": "Guindilla Peppers",
+        "brand": "Donostia Foods",
+        "packSize": "12/10.6 OZ",
+        "itemNumber": "901340",
+        "description": "Basque style guindilla peppers, also known as pipparas, used for pintxos and tapas and other appetizers. Somewhat spicy, long and green pickled peppers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/o/donostia_foods_guindilla_peppers_main_image_20240821-151831_ro8w5ewhcpanevin.jpg",
+        "contentUrl": "https://www.gfifoods.com/901340-donostia-foods-guindilla-peppers-901340"
+    },
+    {
+        "name": "Italian Balsamic Mix",
+        "brand": "Divina",
+        "packSize": "6/2.5 LB",
+        "itemNumber": "30815",
+        "description": "Our ready-to-roast mix of iconic Italian olives (Cerignola, Castelvetrano and Gaeta) and balsamic-marinated onions is fruity, buttery, and aromatic. Roasting them as-is or paired with Parmigiano-Reggiano rind, fresh herbs and citrus brings out a powerful smokiness that warms and excites the senses.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0815-2_20190627_1032653_20190717_1105540_crkszu39fat2byww.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/30815-divina-mix-italian-ready-to-roast-balsamic"
+    }
+]

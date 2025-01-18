@@ -1,0 +1,21 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node jsontocsv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.7.1"
+  }
+}

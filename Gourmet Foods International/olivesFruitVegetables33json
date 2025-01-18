@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Raisins",
+        "brand": "Premium",
+        "packSize": "1/30 LB",
+        "itemNumber": "31756",
+        "description": "Chile produces a very good quality raisin due to the excellent weather conditions. Yummy, they are tasty and Health. Great for Cruise Ships, Bakery's, Schools, Mfg. etc...",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/31756-friend-in-cheeses-jam-co-raisins"
+    },
+    {
+        "name": "Curried Pickled Cauliflower",
+        "brand": "Divina",
+        "packSize": "6/3.1 LB",
+        "itemNumber": "40320",
+        "description": "A perfect flavor combination, cauliflower and curry create an exotic sweet/tangy/umami trio of flavors. A stir-fry star, we also love these florets tossed in a spinach salad or skewered over a Bloody Mary.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/40320-1_20211111_1039754_20211029-094156_6owfvupdohxnsui3.jpg",
+        "contentUrl": "https://www.gfifoods.com/40320-divina-curried-pickled-cauliflower"
+    },
+    {
+        "name": "Broccoli Spear",
+        "brand": "Simplot",
+        "packSize": "12/2 LB",
+        "itemNumber": "138574",
+        "description": "Hand-Cut And Trimmed For Uniform Size And Farm-Fresh Plate Appeal;Compare To Raw Trim Loss Of 25-35%;No Tough, Fibrous Material;Consistent Year-Round Quality And Pricing",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/r/broccoli20spears20main_20220816-091847_dhb5x6rniegiouh7.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/138574-simplot-simple-goodness-broccoli-spear-138574"
+    },
+    {
+        "name": "Tart Red Cherries Pitted - IQF",
+        "brand": "Commodity",
+        "packSize": "1/40 LB",
+        "itemNumber": "365935",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/6/365935_j6hdcma1wgf1a9fg.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/365935-packer-tart-red-cherries-pitted-iqf"
+    },
+    {
+        "name": "Tomato Paste",
+        "brand": "Premium",
+        "packSize": "6/106 OZ",
+        "itemNumber": "902034",
+        "description": "We are a full-service distributor of premium food products. With over 40 years of experience in the food business, we specialize in the importation and distribution of non-perishable canned fruits, vegetables, dry pasta, and canned seafood products.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/902034-premium"
+    },
+    {
+        "name": "Marinated Feta & Olives with Lemon",
+        "brand": "Murray's",
+        "packSize": "6/5.6 OZ",
+        "itemNumber": "401336",
+        "description": "Our Feta marinated with smoky and fruity olives is the perfect start to any happy hour or cheese board. And if that wasn't enough, it's wonderful tossed into grain bowls or chopped and stuffed into an avocado with some hot sliced peppers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/3/13368_mu_pac-medium_20230608-151204_zsdh86l0sakmiz2d.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/401336-murray-s-marinated-fetaolives-with-lemon-401336"
+    },
+    {
+        "name": "Bruschetta Tomato",
+        "brand": "Fresh Pack",
+        "packSize": "12/6 OZ",
+        "itemNumber": "87911",
+        "description": "Tomato Bruschetta is a flavorful medley of chopped sundried tomatoes with garlic and capers marinated in an herb vinaigrette. It can be used in a wide range of dishes from pizzas, sandwiches, and toppings for grilled meats and seafood.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofbruto170_p_20190621_0313163_ms91kmxv6cb78yr2.jpg",
+        "contentUrl": "https://www.gfifoods.com/87911-fresh-pack-tomato-bruschetta"
+    },
+    {
+        "name": "Garlic Roasted Granulated France",
+        "brand": "Culinary Master",
+        "packSize": "1/20 OZ",
+        "itemNumber": "164019",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/164019_main_20210319_1157274_wucgwt5bur5simaz.jpg",
+        "contentUrl": "https://www.gfifoods.com/164019-culinary-master-garlic-roasted-granulated-france"
+    },
+    {
+        "name": "Shredded Sauerkraut",
+        "brand": "Kretschmar",
+        "packSize": "6/24 OZ",
+        "itemNumber": "189544",
+        "description": "The Shredded Sauerkraut are fresh, crisp, and crunchy. Its your traditional taste of tart and tangy. A very versatile food that can be eaten by itself or added to a dish. GMO Free, Fat Free, Gluten Free, Low Calories, and Kosher.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10820581895447main_20220629_1120316_8buvqkfituuolv1g.jpg",
+        "contentUrl": "https://www.gfifoods.com/189544-kretschmar-shredded-sauerkraut-189544"
+    },
+    {
+        "name": "Gigandes Beans Natural",
+        "brand": "Divina",
+        "packSize": "6/3.1 LB",
+        "itemNumber": "508311",
+        "description": "This is a center plate worthy bean; plump, firm and buttery. Our Greek mountain beans are packed in their natural brine, making them an ideal ingredient for homemade soups, chili, dips and more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/0/50830-1_20211111_1240219_20211029-094520_gbzvmfa7au0s3kzq.jpg",
+        "contentUrl": "https://www.gfifoods.com/508311-divina-gigandes-beans-natural"
+    },
+    {
+        "name": "Spanish Olive Mix",
+        "brand": "Barnier",
+        "packSize": "1/11 LB",
+        "itemNumber": "11600",
+        "description": "A delicious medley of Spanish olives infused with red and yellow bell peppers, pearl onions, bursts of lemon and a pinch of paprika and aromatic spices.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/r/fr116_20191010_1629426_pycms6r35c9dclzk.jpg",
+        "contentUrl": "https://www.gfifoods.com/11600-barnier-spanish-olive-mix"
+    },
+    {
+        "name": "Spicy Gordal Olives",
+        "brand": "José Andrés",
+        "packSize": "12/12.3 OZ",
+        "itemNumber": "504389",
+        "description": "The Gordal olive, the largest grown in Spain, is an essential part of our tapa culture. Grown in Andalucía, following tradition, the olives are handpicked and marinated with just the right amount of hot green chili peppers. The result is an unforgettable olive with the perfect amount of spice.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/a/jaf20spicy20gordal20olives202_20210203-212957_sljz6vgqle2opcaz.jpg",
+        "contentUrl": "https://www.gfifoods.com/504389-jose-andres"
+    }
+]

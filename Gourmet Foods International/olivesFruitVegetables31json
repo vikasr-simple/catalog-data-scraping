@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Roasted Tomato Wedges",
+        "brand": "Divina",
+        "packSize": "3/6.4 LB",
+        "itemNumber": "105633",
+        "description": "We roast our USA-grown tomatoes 'low and slow' to ensure they stay juicy, robust and summery sweet. Marinated in garlic and herbs, these tomatoes are a star ingredient from breakfast (frittata, quiche) to lunch (sandwich, salad) to dinner (roast chicken, salmon).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/0/70303_dv_pac-large_20240806-022424_homycrpglvtueynr.jpg",
+        "contentUrl": "https://www.gfifoods.com/105633-divina"
+    },
+    {
+        "name": "Dried Nectarines Sliced",
+        "brand": "Hello! I'm Ugly",
+        "packSize": "1/10 LB",
+        "itemNumber": "987271",
+        "description": "The Ugly Company - Dried & Sliced Upcycled Nectarines\n- Sweet & Creamy Taste\n- Single Ingredient\n- All-Natural \n- 90lbs of Food Waste Prevented with Each Case\n- 100% Upcycled\n- 0g Added Sugar\n- No Additives or Preservatives \n- Non-GMO\n- Locally Sourced in California",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10lbslicednectarines_20240122-165443_vr6ove6qk4nctpfg.jpg",
+        "contentUrl": "https://www.gfifoods.com/987271-hello-i-m-ugly-dried-nectarines-sliced"
+    },
+    {
+        "name": "Pickled Red Onions",
+        "brand": "The Sunshine Pickle Co",
+        "packSize": "6/24 OZ",
+        "itemNumber": "102957",
+        "description": "There's nothing quite like the taste of pickled red onions... The best way to describe them is life changing!! Taco's, BBQ, Salads, they make everything better.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pickledredonionimage_20240131-214046_1hdfzvfjwfskmism.jpg",
+        "contentUrl": "https://www.gfifoods.com/102957-the-sunshine-pickle-co-pickled-red-onions"
+    },
+    {
+        "name": "Hot Olive Salad",
+        "brand": "Delallo",
+        "packSize": "2/5 LB",
+        "itemNumber": "350211",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/350211-delallo-hot-olive-salad-no-pits"
+    },
+    {
+        "name": "Dried Peaches Sliced",
+        "brand": "Hello! I'm Ugly",
+        "packSize": "1/10 LB",
+        "itemNumber": "987261",
+        "description": "The Ugly Company - Dried & Sliced Upcycled Peaches\n- Sweet & Balanced Taste\n- Single Ingredient (Just Peaches!) \n- All-Natural \n- 90lbs of Food Waste Prevented with Each Case\n- 100% Upcycled\n- 0g Added Sugar\n- No Additives or Preservatives \n- Non-GMO\n- Locally Sourced in California",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10lbslicedpeaches_20240122-163101_gmwk788khmxoktqp.jpg",
+        "contentUrl": "https://www.gfifoods.com/987261-hello-i-m-ugly-dried-peaches-sliced"
+    },
+    {
+        "name": "Spicy Dill Pickle Chips",
+        "brand": "The Sunshine Pickle Co",
+        "packSize": "6/24 OZ",
+        "itemNumber": "102954",
+        "description": "A DILL PICKLE FOR PICKLE LOVERS WHO LIKE A LITTLE PUNCH IN THE MOUTH COMPLIMENTS OF FIREY HABENERO HEAT. A PERFECT BALANCE OF FLAVOR AND SPICYNESS THAT YOU CAN TASTE BUT DOES NOT MELT YOUR FACE OFF!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/spicydillimage_20240131-211502_bna96xnuws9yzzqq.jpg",
+        "contentUrl": "https://www.gfifoods.com/102954-the-sunshine-pickle-co-spicy-dill-pickle-chips"
+    },
+    {
+        "name": "Dried Whole Cherries",
+        "brand": "Hello! I'm Ugly",
+        "packSize": "12/4 OZ",
+        "itemNumber": "987291",
+        "description": "The Ugly Company - Dried & Whole Upcycled Cherries (Sweet and Tart Taste, Single Ingredient (Just Cherries!), All-Natural, 15 lbs of Food Waste prevented with Each Case, 100% Upcycled, 0g Added Sugar, No Additives or Preservatives).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/h/wholecherriesfront_20240121-112834_zx1j0yay1mxh3c9s.jpg",
+        "contentUrl": "https://www.gfifoods.com/987291-dried-whole-cherries"
+    },
+    {
+        "name": "Medjool Dates Pitted",
+        "brand": "Oasis Fresh Produce",
+        "packSize": "1/11 LB",
+        "itemNumber": "101759",
+        "description": "Premium Medjool dates are deliciously sweet, rich in flavor, and firm in texture. These premium dates come in different fruit sizes and can be purchased either pitted or unpitted.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/picture1_20231019_0922489_sghnzreoq6xhv9k6.jpg",
+        "contentUrl": "https://www.gfifoods.com/101759-oasis-fresh-produce-medjool-dates-pitted-101759"
+    },
+    {
+        "name": "Olive Bruschetta",
+        "brand": "Delallo",
+        "packSize": "6/7.05 OZ",
+        "itemNumber": "815602",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/815602-delallo-olive-bruschetta"
+    },
+    {
+        "name": "IQF Cauliflower Florets",
+        "brand": "Yupi",
+        "packSize": "1/20 LB",
+        "itemNumber": "401600",
+        "description": "The Cauliflower Florets are Individually quick frozen and are ready to be added to your favourite meals. They are a a nutritious vegetable that can be included in a well balanced meal plan.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/q/iqfcauliflowerflorets_20231201-154514_2vt7esuqyxbl4qgd.jpg",
+        "contentUrl": "https://www.gfifoods.com/401600-yupi-iqf-cauliflower-florets-401600"
+    },
+    {
+        "name": "Piquillo Peppers with Sweet Kombu",
+        "brand": "Porto Muiños",
+        "packSize": "12/2.8 OZ",
+        "itemNumber": "135834",
+        "description": "Whole piquillo peppers are mixed with wild harvested kombu seaweed from the Galician coast, then combined with olive oil, garlic and salt before being tinned. Vegetarian friendly conserva.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/m/pm20piquillo20tin_20211124-165847_gdxy3dpwubrifpri.jpg",
+        "contentUrl": "https://www.gfifoods.com/135834-porto-muinos-piquillo-peppers-with-sweet-kombu-135834"
+    },
+    {
+        "name": "Apple Rings Dried",
+        "brand": "Packer",
+        "packSize": "1/44 LB",
+        "itemNumber": "17161000",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/17161000-apple-rings-dried-17161000"
+    }
+]

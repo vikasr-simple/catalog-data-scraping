@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Carrot Cake 14 Slices",
+          "brand": "Brooklyn Cannoli",
+          "packSize": "1/10 IN",
+          "itemNumber": "69457",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/9/69457_item20side120copy_sixejiy2vza8lgvd.jpg",
+          "contentUrl": "https://www.gfifoods.com/69457-sapienza-carrot-cake"
+     },
+     {
+          "name": "Rocky Road Muffin Batter",
+          "brand": "Maui",
+          "packSize": "1/18 LB",
+          "itemNumber": "12742",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolate20brute_20211008-204918_aye1kjizur3dsypn.jpg",
+          "contentUrl": "https://www.gfifoods.com/12742-culinary-master-rocky-road-muffin-batter"
+     },
+     {
+          "name": "Creamy Peanut Butter Cookie Gluten Free",
+          "brand": "The No Bake Cookies Company",
+          "packSize": "12/4.3 OZ",
+          "itemNumber": "501372",
+          "description": "No-Bake gluten-free cookies are made with simple 100% clean premium ingredients and have a fudgy, oatie, creamy indulgent taste. Proudly made in our plant in Bend Oregon. Enjoy!",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/e/peanut-butter-large-cookie-render_20240410-160032_iveqov9ngzfnd5es.jpg",
+          "contentUrl": "https://www.gfifoods.com/501372-the-no-bake-cookies-company-creamy-peanut-butter-cookie-gluten-free-501372"
+     },
+     {
+          "name": "Plain Muffin with Caramel Filling Mini",
+          "brand": "Mademoiselle Desserts",
+          "packSize": "42/0.92 OZ",
+          "itemNumber": "130425",
+          "description": "Made in France. A soft plain mini muffin filled with a rich caramel filling topped with pralain nuts. Ideal for snacks, breakfast or catering. Product in bulk.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/i/mini_muffin_caramel_26g_20240322-102039_j2wxffcatkpjpfxm.jpg",
+          "contentUrl": "https://www.gfifoods.com/130425-mademoiselle-desserts-plain-muffin-with-caramel-filling-mini-130425"
+     },
+     {
+          "name": "Carrot Cake Teacakes",
+          "brand": "Bite",
+          "packSize": "12/9 OZ",
+          "itemNumber": "71104",
+          "description": "Bite Carrot Cake Teacakes tea cakes combine the best of both worlds, with savory and sweet! They are made with carrots and plenty of cinnamon to spice them up, then coated in white chocolate icing and covered in sprinkles.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/71104_terry20main_phkajde6krosz4mu.jpg",
+          "contentUrl": "https://www.gfifoods.com/71104-bite-carrot-cake-teacakes-71104"
+     },
+     {
+          "name": "Chocolate Chip Cookie",
+          "brand": "Starbucks",
+          "packSize": "25/2.88 OZ",
+          "itemNumber": "68523",
+          "description": "ENGLISH BAY BATTER",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/8/68523silo.jpg",
+          "contentUrl": "https://www.gfifoods.com/68523-starbucks-chocolate-chip-cookie"
+     },
+     {
+          "name": "Wheat & Honey Bread Mix",
+          "brand": "Komplet",
+          "packSize": "1/50 LB",
+          "itemNumber": "31185",
+          "description": "Description: Wheat & Honey Bread & Roll Mix is a mixture of rolled oats, barley, wheat and sunflower seeds with just the right amount of honey.\nSuggested Application: Use Wheat & Honey Bread & Roll Mix to make a variety of breads and rolls. Add dried fruit or raisins to make tasty Muesli breads.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/1/61032.0120back_a4qnm2hfkbkts2ve.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/31185-komlet-wheathoney-bread-mix"
+     },
+     {
+          "name": "Key Lime Tart",
+          "brand": "Galaxy Desserts",
+          "packSize": "16/4 IN",
+          "itemNumber": "40161",
+          "description": "Our French-inspired tarts with American flavors are the perfect dessert solution: Made with only the finest ingredients: 100% butter short crust and flavor-bursting fillings.  Simply defrost in the refrig-erator for 2 hours and serve decorated on a plate, packaged in a clamshell for take-out,",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/3/1300_tartkeylime_gjs0tc1bu7wh8yqh.jpg",
+          "contentUrl": "https://www.gfifoods.com/40161-galaxy-desserts-key-lime-tart"
+     },
+     {
+          "name": "Hucklberry Cheesecake 7 Inch",
+          "brand": "Chuckanut Bay",
+          "packSize": "6/32 OZ",
+          "itemNumber": "270476",
+          "description": "Chuckanut Bay Huckleberry Cheesecake 7 inches 32oz. Made with real cream cheese and butter. Free from RBGH, free from artificial flavors, colors preservatives and high fructose corn syrup.  Non-GMO ingredients.  Cage Free Eggs",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/i/7in32ozhuckleberry_20240521-122222_ojplfu4hisuwdtoa.jpg",
+          "contentUrl": "https://www.gfifoods.com/270476-chuckanut-bay-hucklberry-cheesecake-7-inch-270476"
+     },
+     {
+          "name": "Assorted Capeachio Shipper Vegan",
+          "brand": "Capeachio's",
+          "packSize": "1/60 CT",
+          "itemNumber": "91340",
+          "description": "CaPeachio's Artisan Round crackers light tan with slightly darker blisters topped with Sea Salt. Flavors include:  Original Water, Pepper & Poppy, Butter Flavored, and Multigrain Wheat.  Non-GMO, Vegan, and Kosher",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/capeachio20artisan20cracker20shipper201_20190325_1514925_cc0ybxyiv8z3ezle.jpg",
+          "contentUrl": "https://www.gfifoods.com/91340-capeachio-s-variety-capeachio-shipper"
+     },
+     {
+          "name": "AOC Butter Croissant Straight Medium",
+          "brand": "Bridor",
+          "packSize": "70/2.2 OZ",
+          "itemNumber": "302140",
+          "description": "Our Eclat du Terroir croissant is one of a kind: a pure butter premium recipe for a beautiful golden colour, crisp, moist, and smooth texture with airy layers and a refined note of caramel.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/30214020croissant20aoc20butter20straight20medium_20210928_1225589_zk3hddik89ocbqav.jpg",
+          "contentUrl": "https://www.gfifoods.com/302140-bridor-aoc-butter-straight-medium-croissant"
+     },
+     {
+          "name": "Classic French Macaron",
+          "brand": "A & S",
+          "packSize": "1/10 LB",
+          "itemNumber": "6317214",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/3/63172.14_20230106-120058_t6eruvd0ijn9ngef.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/6317214-as-classic-french-macaron-6317214"
+     }
+]

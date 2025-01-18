@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Pumpkin Spice Twist RTB",
+          "brand": "Bridor",
+          "packSize": "96/3.2 OZ",
+          "itemNumber": "529320",
+          "description": "RTB PUMPKIN SPICE TWIST Irresistible indulgent treats that bring classic, warm and comforting flavors we all know and love! \nSpice up your fall menus with these beloved all-time favorites.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/52932-main_20240910-083333.jpg",
+          "contentUrl": "https://www.gfifoods.com/529320-bridor"
+     },
+     {
+          "name": "Flavored Crackers for Fine Cheese Box",
+          "brand": "Fine Cheese Co",
+          "packSize": "4/13.2 OZ",
+          "itemNumber": "103471",
+          "description": "A selection of flavoured crackers to accompany cheese. Our beautifully illustrated box contains three of our top-selling varieties: extra virgin olive oil and sea salt, fig, honey, and extra virgin olive oil, and rosemary and extra virgin olive oil crackers.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/c/fcsl108main_20240308-112336.jpg",
+          "contentUrl": "https://www.gfifoods.com/103471-fine-cheese-co"
+     },
+     {
+          "name": "Snowman Cookie",
+          "brand": "Starbucks",
+          "packSize": "30/3.04 OZ",
+          "itemNumber": "68541",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/n/snowman_20200914_1503664_2bof9wkkfkps82u8.jpg",
+          "contentUrl": "https://www.gfifoods.com/68541-starbucks"
+     },
+     {
+          "name": "Everything Bagels Gluten Free",
+          "brand": "BFree",
+          "packSize": "12/11.3 OZ",
+          "itemNumber": "235120",
+          "description": "Rise and Shine with tasty BFree bagels! Our bagels are made with a delicious blend of flour and hand-rolled by our team of bakers before baking to perfection. Gluten free bagel with a blend of garlic and onion seasoning topped with poppy and flaxseed. Enjoy toasted!",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/u/s/usbageleverythingfobf512_20240425-121139_0bfraqtz5ju17h8p.jpg",
+          "contentUrl": "https://www.gfifoods.com/235120-bfree-everything-bagels-gluten-free-235120"
+     },
+     {
+          "name": "Brookie Cookie Bake in Store",
+          "brand": "Duchess Cookies",
+          "packSize": "96/4.5 OZ",
+          "itemNumber": "525380",
+          "description": "Two delectable flavored cookies fused together to form a beautiful starburst pattern. A chocolate chip cookie twisted with a chocolate cookie studded with white chocolate chips, and filled with brownie batter.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/u/n/unnamed-15_20230326-183801_xvkanllrnhzu5q96.jpg",
+          "contentUrl": "https://www.gfifoods.com/525380-duchess-cookies-brookie-cookie-bake-in-store-525380"
+     },
+     {
+          "name": "Pistachio Macaron",
+          "brand": "Les Macarons d'Olivier",
+          "packSize": "4/320 GR",
+          "itemNumber": "106183",
+          "description": "Sweet delicate French dessert with two crunchy pistachio outer shells and voluptuous pistachio inner filling. Other flavors available include: chocolate, pistachio, raspberry and salted butter caramel. Artisan made, clean label, made in France.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pistachio_20240913-105646_xkrzywgmijxq7zrb.jpg",
+          "contentUrl": "https://www.gfifoods.com/106183-pistachio-macaron-106183"
+     },
+     {
+          "name": "Churros Cracker Cookies",
+          "brand": "Legally Addictive",
+          "packSize": "6/4.70 OZ",
+          "itemNumber": "104989",
+          "description": "Cookies crafted from crunchy graham crackers, rich salted toffee, sustainably sourced dark chocolate, Cinnamon & Sugar blend, and a touch of sea salt for the perfect balance of flavors.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/churros20front20jpeg_ansqd4kiecoba7jj.jpg",
+          "contentUrl": "https://www.gfifoods.com/104989-legally-addictive-churros-cracker-cookies-104989"
+     },
+     {
+          "name": "Guava Cheese Strudel",
+          "brand": "Cidrines",
+          "packSize": "60/3.15 OZ",
+          "itemNumber": "106026",
+          "description": "Baked pastry rich flavor profile with distinctive toasty and buttery notes. Filled with sweet guava and creamy cheese filling. Pairs great with hot coffee, served best warm.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/u/guavacheesestrudel_20240829-100048_krgqwny4hvgvplwq.jpg",
+          "contentUrl": "https://www.gfifoods.com/106026-cidrines"
+     },
+     {
+          "name": "Artisan French Baguette 22 Inch",
+          "brand": "Bread Man Baking Co",
+          "packSize": "1/16 CT",
+          "itemNumber": "103412",
+          "description": "Introducing our artisan French Baguette—crafted with centuries-old techniques and premium ingredients, each loaf embodies the essence of traditional French baking. With its golden crust and airy crumb, it promises a culinary journey to Parisian boulangeries.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00860008262226_20240306-115009_ft8cd47dbyvcgic5.jpg",
+          "contentUrl": "https://www.gfifoods.com/103412-bread-man-baking-co-artisan-french-baguette-22-in"
+     },
+     {
+          "name": "Crispy Mint Chocolate Cookies Bite Sized",
+          "brand": "Fancypants Baking",
+          "packSize": "6/5 OZ",
+          "itemNumber": "322114",
+          "description": "Fancypants Baking Co. Mint Chocolate Cookies, 5oz, Women-Owned, Non-GMO Project Verified, Upcycled Certified, How2Recycle Certified Packaging, Peanut Free, Tree Nut Free, Sesame Free, Certified Kosher Dairy",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/p/fp_mintchocolate_5oz_front_20240418-075119_nsns2fln6eo0wpkm.jpg",
+          "contentUrl": "https://www.gfifoods.com/322114-fancypants-baking-crispy-mint-chocolate-cookies-bite-sized-322114"
+     },
+     {
+          "name": "Caramel Stroopwafels Guten-Free",
+          "brand": "Dutch Waffle Company",
+          "packSize": "12/9.59 OZ",
+          "itemNumber": "103847",
+          "description": "Dutch Waffle Company Stroopwafels are a thin buttery wafer cookie flavored with cinnamon and brown sugar and filled with soft caramel. Authentic and fresh. Baked in North America no overseas shipping, we can ship 10-days after baking. 365-day shelf life. Gluten-Free, Kosher Dairy Certified, Non GMO.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/f/gf_20240425-102718.jpg",
+          "contentUrl": "https://www.gfifoods.com/103847-caramel-stroopwafels-guten-free"
+     },
+     {
+          "name": "Triple Chocolate Chunk Biscuits",
+          "brand": "Cartwright & Butler",
+          "packSize": "6/200 GR",
+          "itemNumber": "1055401",
+          "description": "A classic chocolate chip cookie, recipe taken to a whole new level. The chocolate chips are a trio of chocolate chunks: white chocolate, milk chocolate and plain chocolate. A chocoholics dream biscuit. Presented here in one of our special biscuit tins, with a Kilner style resealable lid.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/main_20240729-152307_6zkehydogijmxpkr.jpg",
+          "contentUrl": "https://www.gfifoods.com/1055401-cartwrightbutler-triple-chocolate-chunk-biscuits-1055401"
+     }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Swahili Inspired Curry Chicken",
+        "brand": "Global Village Foods",
+        "packSize": "2/5 LB",
+        "itemNumber": "100149",
+        "description": "Swahili Inspired Curry Chicken (BULK ENTREE) \nA vibrant curried chicken stew with potatoes, infused with coconut milk and lime juice, for the rich savory taste of the East African Coast. Ready to heat and serve from boil/steam bag.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/w/sw20crry20-hi20res-2180822-09_20230012-152245_jdwmunzmchjnslry.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100149-global-village-foods-swahili-inspired-curry-chicken-100149"
+    },
+    {
+        "name": "Chickpea Vegetable Tajine",
+        "brand": "Global Village Foods",
+        "packSize": "2/5 LB",
+        "itemNumber": "100134",
+        "description": "Chickpea Vegetable Tajine \n• VEGAN / GLUTEN FREE / Dairy, Egg, Nut, Sesame & Seafood FREE  • \nRich & fragrant tomato based Mediterranean Chickpea Stew  accentuated with the natural sweetness of carrots and raisins.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chckp20tajine20-hi20res-13_20230010-110159_qmkdqe7lj5mpwlwc.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100134-global-village-foods-chickpea-vegetable-tajine-100134"
+    },
+    {
+        "name": "Thai Coconut Chicken Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700719",
+        "description": "Thai Coconut Chicken Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700719-town-and-country-thai-coconut-chicken-soup-700719"
+    },
+    {
+        "name": "Spanish Style Chorizo & Chicken Stew",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "701066",
+        "description": "Spanish Style Chorizo Chicken Stew. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701066-town-and-country-spanish-style-chorizochicken-stew-701066"
+    },
+    {
+        "name": "Thai-Style Chicken Spring Roll",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "462454",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/o/cocktail_size_thai_style_chicken_spring_roll_nnsr8qpibgp2vxdw.jpg",
+        "contentUrl": "https://www.gfifoods.com/462454-gourmet-kitchen-thai-style-chicken-spring-roll-462454"
+    },
+    {
+        "name": "Bali Veggie Burger Gluten Free",
+        "brand": "Voorn Gourmet",
+        "packSize": "30/6 OZ",
+        "itemNumber": "12921",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/12921-voorn-gourmet-bali-gluten-free-veggie-burger-12921"
+    },
+    {
+        "name": "Vegetable Base",
+        "brand": "Chefwise",
+        "packSize": "3/11 LB",
+        "itemNumber": "51045",
+        "description": "Dehydrated Vegetable bouillon Base, Gluten Free, Vegan, Vegetarian.  Contemporary food operations require modern thinking and new methods of meeting changing culinary demands. Rest assured, our experiences in the kitchen have made the Chefwise collection of food preparations unique:",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/e/vegetable20base201120lb20side_20210511_0847115_cjhhbbg3pt2y00hm.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/51045-fermin-usa"
+    },
+    {
+        "name": "Pizza Crusts",
+        "brand": "SRSLY Health",
+        "packSize": "9/9 IN",
+        "itemNumber": "998625",
+        "description": "SRSLY Low Carb pizza bases are not only keto friendly, they also contain more protein than steak. Each pack contains two delicious 9\" thin and crispy pizza bases, ready for you to top and bake to perfection",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pizzabasescopy_20230120-120434_m6tsb8mjlfphwgaj.jpg",
+        "contentUrl": "https://www.gfifoods.com/998625-srsly-low-carb-pizza-crusts-998625"
+    },
+    {
+        "name": "Whitney Cheese & Chives Egg Bites",
+        "brand": "Trois Petits Cochons",
+        "packSize": "8/4 OZ",
+        "itemNumber": "199334",
+        "description": "Sous Vide Egg bites made with Jasper Hill Whitney cheese & Chives\n2 pack - Egg bites with Chives & Jasper Hill Whitney Cheese\nFree range eggs, Gluten free, Fully cooked, All Natural, Ready in 60 seconds",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/e/jebc_20230221-124154_oyub3utjhkn5gojn.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/199334-trois-petits-cochons-whitney-cheesechives-egg-bites-199334"
+    },
+    {
+        "name": "Chicken Base Powdered",
+        "brand": "Chefwise",
+        "packSize": "1/22 LB",
+        "itemNumber": "36574",
+        "description": "Powdered Chicken Stock Base Gluten Free, Dehydrated preparation for Chicken Base.  Contemporary food operations require modern thinking and new methods of meeting changing culinary demands. Rest assured, our experiences in the kitchen have made the Chefwise collection of food preparations unique:",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chicken20base201120lb20side_20210511_0840367_aicfrcsdepxt7hxh.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/36574-chefwise-chicken-base-36574"
+    },
+    {
+        "name": "Tuscan Style White Bean and Italian Sausage Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "701101",
+        "description": "Tuscan Style White Bean Italian Sausage Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701101-town-and-country-tuscan-style-white-bean-and-italian-sausage-soup-701101"
+    },
+    {
+        "name": "Cream of Asparagus Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "701036",
+        "description": "Cream of Asparagus Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured exclusively for Town and Country Markets. It can not be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701036-town-and-country-cream-of-asparagus-soup-701036"
+    }
+]

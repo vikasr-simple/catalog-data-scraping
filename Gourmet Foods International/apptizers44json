@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Cauli Tikka Naan Toastie",
+        "brand": "Cafe Spice",
+        "packSize": "6/8 OZ",
+        "itemNumber": "12739",
+        "description": "Cauli Tikka Naan Toastie is a sandwich made from Tandoori cauliflower with a tikka masala spread & cheddar jack cheese. Easy lunch, quick dinner or any time in between!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/2/825120010315_main_20210508-135716_h1c7gbgsub62ptmt.jpg",
+        "contentUrl": "https://www.gfifoods.com/12739-cafe-spice-cauli-tikka-naan-toastie"
+    },
+    {
+        "name": "Spinach & Ricotta Girasoli Organic",
+        "brand": "Bertagni",
+        "packSize": "6/8 OZ",
+        "itemNumber": "29875",
+        "description": "Organic Fresh Egg Pasta with Ricotta and Spinach filling.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/i/ricotta20and20spinach20girasole20_organic_puk6einypslaqpqn.jpg",
+        "contentUrl": "https://www.gfifoods.com/29875-bertagni-organic-spinach-ricotta-girasoli"
+    },
+    {
+        "name": "Crab Stuffed Mushroom",
+        "brand": "Van Lang",
+        "packSize": "200/0.50 OZ",
+        "itemNumber": "176000",
+        "description": "Succulent Crab, onions and exotic spices makes for a delicious stuffed mushroom. A sprinkle of bread crumbs adds an elegant touch. 200 per case (5 trays of 40). Preparation Method: Bake from frozen in 375-400°F oven for 7-10.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/7/17600020crab20stuffed20mushroom_20220027-142902_3azluikustl3nx3p.jpg",
+        "contentUrl": "https://www.gfifoods.com/176000-van-lang-crab-stuffed-mushroom-176000"
+    },
+    {
+        "name": "Indian Samosa",
+        "brand": "Gourmet Kitchen",
+        "packSize": "200/.5 OZ",
+        "itemNumber": "103052",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/a/rajf251indiansamosa_20240206-174452_f6yiebciocsaqytv.jpg",
+        "contentUrl": "https://www.gfifoods.com/103052-gourmet-kitchen-indian-samosa-103052"
+    },
+    {
+        "name": "Pepperoni Calzone",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "45091",
+        "description": "Pepperoni Calzone",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-10-1920at203.41.2020pm_20220919-155850_aoicffycc57tynoe.jpg",
+        "contentUrl": "https://www.gfifoods.com/45091-kabobs-pepperoni-calzone"
+    },
+    {
+        "name": "Margarita Flatbread",
+        "brand": "Kabobs",
+        "packSize": "120/0.44 OZ",
+        "itemNumber": "8344",
+        "description": "Margherita Flatbread",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/8344-kabobs-margarita-flatbread"
+    },
+    {
+        "name": "Black Angus Cheeseburger Mini",
+        "brand": "Kabobs",
+        "packSize": "96/1.5 OZ",
+        "itemNumber": "78501",
+        "description": "Black Angus Mini Cheeseburgers (Sliders)",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/5/k50120mini20cheeseburger_20220304-235828_pzsh8028zjrtoy7k.jpg",
+        "contentUrl": "https://www.gfifoods.com/78501-kabobs-mini-black-angus-cheeseburger"
+    },
+    {
+        "name": "Bolognase Vegan",
+        "brand": "Cuisine Solutions",
+        "packSize": "8/2 LB",
+        "itemNumber": "718433",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/e/veganbolognase_20221021-152135_d3w3prdmlxlsoao4.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/718433-cuisine-solutions-bolognase-vegan718433"
+    },
+    {
+        "name": "Asian Style BBQ Pork Bowl Sliced",
+        "brand": "JIN HWA",
+        "packSize": "6/18 OZ",
+        "itemNumber": "904669",
+        "description": "Sliced / Ready to Eat / with Hot Mustard Dipping Sauce / Grab and Go / Tender / Juicy / Flavorful / Bowl / Family Size / 18 oz of BBQ Pork / Fully Cooked",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_1987_20240816-110240_a58ljjezbgn5foy1.jpg",
+        "contentUrl": "https://www.gfifoods.com/904669-jin-hwa-asian-style-bbq-pork-bowl-sliced904669"
+    },
+    {
+        "name": "Falafel",
+        "brand": "Van Lang",
+        "packSize": "200/0.90 OZ",
+        "itemNumber": "201002",
+        "description": "A classic combination of chickpeas, onion, garlic, herbs & spices hand rolled into a .9 oz fritter. Deep fry from frozen in 350ºF oil for 3-4 minutes. Internal temperature must reach 165ºF as measured by a food thermometer.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/a/falafel_20240306-133846_ixrifrj8jjvllft9.jpg",
+        "contentUrl": "https://www.gfifoods.com/201002-van-lang-falafel-201002"
+    },
+    {
+        "name": "Mighty Meat Free Pizza",
+        "brand": "SRSLY Health",
+        "packSize": "9/9 IN",
+        "itemNumber": "997731",
+        "description": "A crispy crust made from a blend of keto friendly plant based flour alternatives, topped with a herby tomato sauce, a generous amount of freshly grated mozzarella cheese and three flavour packed meat free toppings - jackfruit vegeroni, buffalo chick'n and chorizno crumble.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/r/srslyhealthpizzameatfreemantis_20231024-172138_7jxrvbnppqs1xixr.jpg",
+        "contentUrl": "https://www.gfifoods.com/997731-srsly-low-carb-mighty-meat-free-pizza-997731"
+    },
+    {
+        "name": "Beef Wellington Mini",
+        "brand": "Kabobs",
+        "packSize": "200/1.1 OZ",
+        "itemNumber": "10282",
+        "description": "Mini Beef Wellington",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-10-1920at203.34.0920pm_20220919-153511_tcgmayu9xv9tqqq8.jpg",
+        "contentUrl": "https://www.gfifoods.com/10282-kabobs-mini-beef-wellington"
+    }
+]

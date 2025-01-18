@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Apple Pie Cookies",
+          "brand": "Flax 4 Life",
+          "packSize": "6/16 OZ",
+          "itemNumber": "45300",
+          "description": "Each bite of this cookie is like taking a bite out of an apple pie. Cinnamon and sugar swirl throughout the apple pieces making for an unforgettable taste,  that you will love! Certified Gluten-Free, Dairy-Free, Nut-Free (expect coconut), and Kosher.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/p/apple20pie20cookie201220pk_507eh22tvgz1xmxt.jpg",
+          "contentUrl": "https://www.gfifoods.com/45300-flax-4-life"
+     },
+     {
+          "name": "Dark Cherry Brownies",
+          "brand": "Flax 4 Life",
+          "packSize": "6/14 OZ",
+          "itemNumber": "12671",
+          "description": "Treat yourself to a Nutritious & Delicious Dark Cherry Brownie! Packed full of rich, fudgy chocolate flavor with sweet dark cherry pieces, that your tastebuds will love. Certified Gluten-Free, Dairy-Free, Nut-Free (expect coconut), and Kosher.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/a/dark20cherry20brownie201220pack_auh4t3itm0fhoec0.jpg",
+          "contentUrl": "https://www.gfifoods.com/12671-flax-4-life-dark-cherry-brownies"
+     },
+     {
+          "name": "Carrot Raisin Muffins",
+          "brand": "Flax 4 Life",
+          "packSize": "6/14 OZ",
+          "itemNumber": "63151",
+          "description": "This hearty and flavorful muffin is packed full of carrot shreds and sweet raisins, that your tastebuds will love! Certified Gluten-Free, Dairy-Free, Nut-Free (expect coconut), and Kosher.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/carrot20raisin20muffins_domnrnje8f2yj0jj.jpg",
+          "contentUrl": "https://www.gfifoods.com/63151-flax-4-life-carrot-raisin-muffins"
+     },
+     {
+          "name": "Date & Almond Cake",
+          "brand": "Mitica",
+          "packSize": "20/8.8 OZ",
+          "itemNumber": "20250",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/a/date20almond20cake201_20211110-164814_4fdtqaci0na4wd0j.jpg",
+          "contentUrl": "https://www.gfifoods.com/20250-mitica-date-and-almond-cake"
+     },
+     {
+          "name": "Havarti Cheese Crisps",
+          "brand": "Castello",
+          "packSize": "12/2.1 OZ",
+          "itemNumber": "46376",
+          "description": "Creamy, buttery, artisanal Havarti cheese slow-baked to deliver a savory, crispy and crunchy snack. Pair with a soup, salad, or enjoy them right from the bag. Enjoy award-winning Havarti cheese as a crunchy, delicious snack. Perfect for snacking, topping, and cooking.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/0/702060_castellocheesecrisps-havarti-fop202_20220111-092903_wvxdkcrdz43xcnft.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/46376-castello-havarti-cheese-crisps"
+     },
+     {
+          "name": "Brown Bread Crackers",
+          "brand": "Sheridan's",
+          "packSize": "12/5 OZ",
+          "itemNumber": "34963",
+          "description": "Compact / Buttermilk / Rich \nThe wholemeal flour makes for a compact and graham-like texture. They also burst with the fresh flavor of butter and slight tanginess of buttermilk.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/3/5391521680037_t9_sheridans_irish_brown_bread_crackers_140g_20220116-145243_qlghyvpjfwbhcox9.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/34963-sheridan-s-brown-bread-crackers"
+     },
+     {
+          "name": "Rosemary & Sea Salt Artisan Crisps",
+          "brand": "Kii Natural's",
+          "packSize": "12/4.23 OZ",
+          "itemNumber": "910030",
+          "description": "Kii Naturals combines authentic ingredients from over 20 countries. We create our delicious hand-crafted crisps in small batches. Double-baked for a satisfying crunch, each artisan crisp holds a delightful burst of flavorful fruit, nuts and seeds",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/i/kii20us20minis20rosemary20pouch20front_20210516-090932_2udbxmnqod4o6zgt.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/910030-kii-natural-s-rosemary-sea-salt-artisan-snack-crisps-910030"
+     },
+     {
+          "name": "Cream Puff Large",
+          "brand": "Ifi Gourmet",
+          "packSize": "24/3.16 OZ",
+          "itemNumber": "26101",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/f/ifi206101_the20dutchy20frozen20cream20puff_20220406-142437_7kybydr4a2gfodfl.jpg",
+          "contentUrl": "https://www.gfifoods.com/26101-ifi-gourmet-large-cream-puff"
+     },
+     {
+          "name": "Mooshu Wrapper",
+          "brand": "Wei-Chuan",
+          "packSize": "40/10 CT",
+          "itemNumber": "47855",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/o/mooshu20shell_fooezqfifpnflsbr.jpg",
+          "contentUrl": "https://www.gfifoods.com/47855-wei-chuan-mooshu-wrapper"
+     },
+     {
+          "name": "Corn Muffin Mix",
+          "brand": "Komplet",
+          "packSize": "1/50 LB",
+          "itemNumber": "6206701",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/2/62067.01_20211113-132114_mcafrlaqafhowcgv.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/6206701-komplet-corn-muffin-mix"
+     },
+     {
+          "name": "Everything Crisps Mini",
+          "brand": "Kii Natural's",
+          "packSize": "12/4.23 OZ",
+          "itemNumber": "91004",
+          "description": "Kii Naturals combines authentic ingredients from over 20 countries. We create our delicious hand-crafted crisps in small batches. Double-baked for a satisfying crunch, each artisan crisp holds a delightful burst of flavorful fruit, nuts and seeds",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/i/kii20us20minis20everything20pouch20front_20210516-094117_q9rmpxqd9uglhzgr.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/91004-kii-natural-s-crisps-everything-mini-artisan-snack-91004"
+     },
+     {
+          "name": "Cinnamon Chip Muffins Gluten Free",
+          "brand": "Antonina's Bakery",
+          "packSize": "12/14 OZ",
+          "itemNumber": "14152",
+          "description": "Antonina’s gluten-free Cinnamon Chip Muffins are made with a proprietary blend of gluten-free flours, flavored with cinnamon, filled with cinnamon chips, and topped with cinnamon streusel.  It’s a delicious snack or breakfast treat that even those who can eat gluten will love and enjoy.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/g/agfb_packaging_cinnamon_001_20231016-110349_a7q4d0ah5svo9tr7.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/14152-antonina-s-bakery-gf-cinnamon-chip-muffins-14152"
+     }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Lemons Beldi Morroccan Preserved",
+        "brand": "Barnier",
+        "packSize": "3/4.4 LB",
+        "itemNumber": "40234",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/7/a721-3-2_20200619_1233605_6ntnfaeuywucqcbi.jpg",
+        "contentUrl": "https://www.gfifoods.com/40234-barnier-beldi-morroccan-preserved-lemons"
+    },
+    {
+        "name": "French Cornichons",
+        "brand": "Trois Petits Cochons",
+        "packSize": "12/12.3 OZ",
+        "itemNumber": "46477",
+        "description": "The finishing touches you just can’t miss. Tangy pickles, hot mustard, piquant peppers, and crunchy toasts all add that perfect je nais sais quoi to your 3 Pigs feast. Mix and match for contrasting flavors, textures, and colors, or treat yourself to one of everything.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00045885251000_fle_08032022_20220506-084147_xamzvybdexnjd3q8.jpg",
+        "contentUrl": "https://www.gfifoods.com/46477-three-pigs-cornichons"
+    },
+    {
+        "name": "Apricots Dried Whole Pitted Turkish",
+        "brand": "Culinary Master",
+        "packSize": "1/7 LB",
+        "itemNumber": "172458",
+        "description": "Turkish apricots are equally - if not more - delicious than conventional Turkish apricots, although they have a much darker color. They have a delectable sweet flavor that is ideal for snacking, or adding to your recipes and baked goods.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/7/172458_main_20210203_123160_iq7wchjdgqmpu1qs.jpg",
+        "contentUrl": "https://www.gfifoods.com/172458-culinary-master-apricots-dried-whole-pitted-turkish"
+    },
+    {
+        "name": "Soybean Edamame Shelled",
+        "brand": "Simplot",
+        "packSize": "6/2.5 LB",
+        "itemNumber": "410081",
+        "description": "Great source of protein in a plant-based dish; High quality, farm-fresh flavor and color; Reduces costly labor—just heat and serve; Consistent year-round quality and pricing",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/1/41008120main_20210512_0727304_wc272nzbgpmk9r33.jpg",
+        "contentUrl": "https://www.gfifoods.com/410081-simplot"
+    },
+    {
+        "name": "Olives Stuffed with Blue Cheese",
+        "brand": "Divina",
+        "packSize": "6/5.5 OZ",
+        "itemNumber": "140450",
+        "description": "A rich and creamy treat that is as classic as it is crave-able. Try these hand-stuffed Greek olives tossed with greens,dried cranberries and balsamic or panko-fry them and pop away.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/4/1404520dv20pac20top-medium201_20220404-170014_plohy9vzbwdmebmv.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/140450-divina-blue-cheese-stuffed-olives"
+    },
+    {
+        "name": "Roasted Red Tomatoes",
+        "brand": "Kryssos",
+        "packSize": "6/4 LB",
+        "itemNumber": "591421",
+        "description": "Roasting tomatoes brings out some of the greatest flavors, but also makes them healthier for you by concentrating the nutrients. Kryssos uses the best varieties of tomatoes to provide you a product you won't want to go without.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/9/591421_main_f0jzr7j3uytgrdgk.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/591421-kryssos-red-roasted-tomatoes"
+    },
+    {
+        "name": "Gordal Olives Pitted",
+        "brand": "Losada",
+        "packSize": "4/1 GA",
+        "itemNumber": "84838",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pittedgordal20low20res_20210924-101059_ru8uvhsuivxaqcbt.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/84838-losada-pitted-gordal-olives"
+    },
+    {
+        "name": "Feta Stuffed Olives",
+        "brand": "Divina",
+        "packSize": "6/5.5 OZ",
+        "itemNumber": "140409",
+        "description": "Hand-harvested and hand-stuffed plump green olives from Greece's famed Halkidiki Peninsula are the perfect contrast to creamy, light Feta cheese. This irresistible treat is perfect tossed in a salad or paired with roasted peppers and prosciutto.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/4/1404020dv20pac20top-medium201_20220404-164754_yy9x4uzvax50rhlh.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/140409-divina-feta-stuffed-olives"
+    },
+    {
+        "name": "Salad Beets Sliced",
+        "brand": "Hart",
+        "packSize": "6/105 OZ",
+        "itemNumber": "43835",
+        "description": "Simple Label: Only Beets, Water And Salt. No Preservatives. Grown & Made In The Usa: These Beets Are Grown & Made In The Usa. Cultivated In The U.S. Heartland By Multi-Generational U.S. Farmers On Family-Owned Farms",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/3/43835_y9fnjfbagnulbfyr.jpg",
+        "contentUrl": "https://www.gfifoods.com/43835-hart-slicedbeets-salad"
+    },
+    {
+        "name": "Olive Medley In Brine Cup",
+        "brand": "Delallo",
+        "packSize": "6/5 OZ",
+        "itemNumber": "123110",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/2/123110_item20top_20210303_1635702_uykhcjv3aoirgcty.jpg",
+        "contentUrl": "https://www.gfifoods.com/123110-delallo-olive-medley-in-brine-cup"
+    },
+    {
+        "name": "Roman Artichokes in Oil Long Stem",
+        "brand": "La Valle",
+        "packSize": "6/3 KG",
+        "itemNumber": "23066",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/r/artichoke20with20stem20can_20190821_1413678_lmdxb0c9zzueekab.jpg",
+        "contentUrl": "https://www.gfifoods.com/23066-la-valle-long-stem-roman-artichokes-in-oil"
+    },
+    {
+        "name": "Hot Giardiniera",
+        "brand": "Forward Provision",
+        "packSize": "12/12 OZ",
+        "itemNumber": "33802",
+        "description": "Quince & Apple hand crafts Forward Provisions pickles in small batches. Hot Giardiniera is a spicy Italian condiment that mixes colorful veggies with plenty of chilis. Great on hot dogs, mixed into pasta, or on a muffaletta sandwich. Clean label, all-natural, vegan, gluten-free, non-GMO.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hot20giardiniera_20210828-224641_fm5cgymfprgwblxp.jpg",
+        "contentUrl": "https://www.gfifoods.com/33802-forward-provision-hot-giardiniera"
+    }
+]

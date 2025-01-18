@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Mushrooms Marinated w/ Garlic & Herbs",
+        "brand": "Divina",
+        "packSize": "2/6.25 LB",
+        "itemNumber": "550000",
+        "description": "Succulent and savory, our Divina mushrooms are grown and harvested in Kennett Square, PA, (the mushroom capital of the world) before being preserved in a bright and vinegary garlic and herb marinade.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/5/55000-1_20190910_1048108_fgahnz5p416xxqbl.jpg",
+        "contentUrl": "https://www.gfifoods.com/550000-divina-mushrooms-marinated-w-garlicherbs"
+    },
+    {
+        "name": "Zesty Hot Pickle Chips",
+        "brand": "Natural Harvest",
+        "packSize": "12/32 OZ",
+        "itemNumber": "326086",
+        "description": "Zesty Hot Chips are fresh, crisp, and crunchy. Pickles are so fresh because cucumbers go from farm to container in seven days. Pickles are packed with no heat processing or pasteurization. GMO Free, Fat Free, Gluten Free, and Low Calorie. Great as a snack or complementary side.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/0004_zesty-chips_20230620-144852_e4i5qdyuesvemrog.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/326086-natural-harvest-zesty-hot-pickle-chips-326086"
+    },
+    {
+        "name": "Gordal Olives",
+        "brand": "Losada",
+        "packSize": "4/2350 GR",
+        "itemNumber": "45161",
+        "description": "Gordal olives, sometimes called Sevillano or Queen olive, are named for their plumpness. An excellent classic Spanish table olive from Losada. As a large caliber whole olive, these make for an excellent addition to the olive bar.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pittedgordal20low20res_20211116-185417_szhwpnxdaunnsmz0.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/45161-losada-gordal-olives"
+    },
+    {
+        "name": "Garlic Roasted Granulated France",
+        "brand": "Culinary Master",
+        "packSize": "1/20 OZ",
+        "itemNumber": "164019",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/164019_main_20210319_1157274_wucgwt5bur5simaz.jpg",
+        "contentUrl": "https://www.gfifoods.com/164019-culinary-master-garlic-roasted-granulated-france"
+    },
+    {
+        "name": "Ascolana Olives",
+        "brand": "La Medina",
+        "packSize": "2/5 LB",
+        "itemNumber": "458",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/4/54458-1_20200715_1515928_xwk9qgeamp3ayy7t.jpg",
+        "contentUrl": "https://www.gfifoods.com/458-la-medina-ascolana-olives"
+    },
+    {
+        "name": "Kalamata Olives Unpitted",
+        "brand": "Fresh Pack",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "87941",
+        "description": "One of the most popular olive varieties in the world, this Greek wonder has a fruity, slightly bitter flavor that appeals to most people. Kalamata Olives are suitable for a range of recipes for appetizers, side dishes, and entrees.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofkali150_p_20190619_0448493_v3vjiznob1tghcai.jpg",
+        "contentUrl": "https://www.gfifoods.com/87941-fresh-pack-kalamata-unpitted-olives"
+    },
+    {
+        "name": "Jalapeno Peppers Sliced",
+        "brand": "Ron Son",
+        "packSize": "6/105 OZ",
+        "itemNumber": "305113",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/305113_main_20220020-112802_bsclapkje3tfqq9c.jpg",
+        "contentUrl": "https://www.gfifoods.com/305113-ron-son-sliced-jalapeno-peppers"
+    },
+    {
+        "name": "Banana Peppersm Mild Sliced",
+        "brand": "Ron Son",
+        "packSize": "4/1 GA",
+        "itemNumber": "304115",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/304115_main_20220019-170145_kztbwcm49kx4lb9h.jpg",
+        "contentUrl": "https://www.gfifoods.com/304115-ron-son-sliced-mild-banana-peppers"
+    },
+    {
+        "name": "Fire Roasted Pimientos Piquillo Red Peppers",
+        "brand": "Pons",
+        "packSize": "1/67 OZ",
+        "itemNumber": "164542",
+        "description": "Piquillo Peppers from Spain.  Roasted over wood fire, bright red color.  Carefully peeled by hand.  Packaged in it's own natural juices.  Unique variety from Lodosa.  Perfect for stuffing, not to thick and does not break because they are not too thin either.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/piquillo20peppers20image_20210816-091559_qw1vrbyt5s1v1tg5.jpg",
+        "contentUrl": "https://www.gfifoods.com/164542-pons-pimientos-piquillo-red-peppers-fire-roasted"
+    },
+    {
+        "name": "Olive Tapenade Plain",
+        "brand": "Delallo",
+        "packSize": "6/6 OZ",
+        "itemNumber": "103648",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/103648-delallo"
+    },
+    {
+        "name": "Dilly Beans",
+        "brand": "Forward Provision",
+        "packSize": "12/12 OZ",
+        "itemNumber": "33791",
+        "description": "Quince & Apple hand crafts Forward Provisions pickles in small batches. Dilly Beans are a classic pickle with a clean snap and a touch of heat, perfect for a supper club relish tray or to throw on top of a salad. Clean label, all-natural, vegan, gluten-free, non-GMO.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/i/dilly20beans_20210828-000558_fqugv7xnhma6kr2o.jpg",
+        "contentUrl": "https://www.gfifoods.com/33791-forward-provision-dilly-beans"
+    },
+    {
+        "name": "Fava Beans Peeled",
+        "brand": "White Toque",
+        "packSize": "10/2.2 LB",
+        "itemNumber": "10605",
+        "description": "White Toque fava beans are shelled, peeled and blanched before being IQF. They are ready to thaw and use in salads, puree for hummus and other cold applications or heat and serve in your favorite mediterranean dishes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pic_40502_20191024_1540923_okqt5n5lhpqenl7g.jpg",
+        "contentUrl": "https://www.gfifoods.com/10605-white-toque-fava-beans-peeled"
+    }
+]

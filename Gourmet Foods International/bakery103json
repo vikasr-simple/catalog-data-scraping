@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Oatmeal Walnut Chip Cookies Gluten Free",
+          "brand": "Yumbana GF",
+          "packSize": "6/6 OZ",
+          "itemNumber": "102006",
+          "description": "Our delicious Gluten Free, Soy Free, Oatmeal Walnut Chip cookies are crunchy and flavorful. They are made using fresh wholesome ingredients like certified gluten free oats, walnuts and clean ingredients that will satisfy everyone in your family and become a favorite choice.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pikes20front_20210323-162041_n4jx28u9qgn0hlk6.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/102006-yumbana-gf-gluten-free-oatmeal-walnut-chip-cookies"
+     },
+     {
+          "name": "Pumpkin Spice Crisp Shipper",
+          "brand": "Raincoast Crisp",
+          "packSize": "36/5.3 OZ",
+          "itemNumber": "71135",
+          "description": "Lesley Stowe-Pumpkin Spice-great holiday item for entertaining",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/u/pumpkin20shipper_m89fn92sqkboydfe.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/71135-raincoast-crisp-pumpkin-spice-crisp-shipper"
+     },
+     {
+          "name": "Garlic Crostini",
+          "brand": "Di Bruno",
+          "packSize": "12/7.04 OZ",
+          "itemNumber": "13063",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/r/crostini_garlic_20201128-173404_xuetupskx3qx3fju.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/13063-di-bruno-garlic-crostini"
+     },
+     {
+          "name": "Chocolate Chip Cookie Gluten Free",
+          "brand": "Udi's",
+          "packSize": "36/1.7 OZ",
+          "itemNumber": "80665",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10698997806650_product_image_10698997806650_c1c1_qvwlpzwpcgbmqqfs.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/80665-udi-s-gluten-free-chocolate-chip-cookie"
+     },
+     {
+          "name": "Heritage Butter Croissant Mini",
+          "brand": "Delifrance",
+          "packSize": "180/1.05 OZ",
+          "itemNumber": "27863",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/7/27863_main_20210512_1514535_coeano7jed94usqr.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/27863-delifrance-heritage-mini-butter-croissant"
+     },
+     {
+          "name": "Salted Caramel Macaron",
+          "brand": "Alon's",
+          "packSize": "2/35 CT",
+          "itemNumber": "9941",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/caramel20macaron_20190213_1525333_3xfzyc0mxzc8bgtn.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/9941-alon-s-macaron-salted-caramel"
+     },
+     {
+          "name": "Plain Pumpernickle Bread",
+          "brand": "Wenner",
+          "packSize": "30/19 OZ",
+          "itemNumber": "5475151",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/l/plain20pumpernickel20bread_20210323-101954_1akakyqyphbgemf2.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/5475151-wenner-plain-pumpernickle-bread"
+     },
+     {
+          "name": "Pumpkin Macaron",
+          "brand": "Alon's",
+          "packSize": "2/35 CT",
+          "itemNumber": "9873",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/bakery/9873-alon-s-pumpkin-macaron"
+     },
+     {
+          "name": "White Flour Tortillas 12 inch Vegan",
+          "brand": "Maria & Ricardo's",
+          "packSize": "12/45.7 OZ",
+          "itemNumber": "36735",
+          "description": "Maria & Ricardo's White Flour Tortillas  12 inch, 3.8 ounces each  Vegan, Kosher, No Artificial Preservatives And Nongmo Project Verified, Whole Grain",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/6/36735main_20220225-092706_jyzatzq9mxyc2dvl.jpg",
+          "contentUrl": "https://www.gfifoods.com/36735-mariaricardo-s-white-flour-tortillas-12-inch-36735"
+     },
+     {
+          "name": "Rosemary Crostini",
+          "brand": "Di Bruno",
+          "packSize": "12/7.04 OZ",
+          "itemNumber": "36329",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/r/crostini_rosemary_20201128-173534_7udgbenkxgnd8d7p.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/36329-di-bruno-rosemary-crostini"
+     },
+     {
+          "name": "Plain Tortilla 8 Inch Gluten Free",
+          "brand": "Udi's",
+          "packSize": "10/15.2 OZ",
+          "itemNumber": "80890",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/bakery/80890-udi-s-gluten-free-8-plain-tortilla"
+     },
+     {
+          "name": "Crème Brulee Madeleines",
+          "brand": "St Michel",
+          "packSize": "70/45 GR",
+          "itemNumber": "41750",
+          "description": "MADELEINE BUTTER CREME BRULEE 45 GR READY TO BAKE",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/r/creme20brulee20madeline-20overseas20trading_20191007_1202612_ccpd1cx8rflxdc2u.jpg",
+          "contentUrl": "https://www.gfifoods.com/41750-st-michel-creme-brulee-madeleines"
+     }
+]

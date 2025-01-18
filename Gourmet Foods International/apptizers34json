@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Pepperoni Pizza Gluten Free 9\"",
+        "brand": "Udi's",
+        "packSize": "6/10 OZ",
+        "itemNumber": "80623",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/80623-udi-s-gluten-free-pepperoni-pizza"
+    },
+    {
+        "name": "Plant-Based Sausage Ravioli Gluten Free",
+        "brand": "Taste Republic",
+        "packSize": "6/9 OZ",
+        "itemNumber": "69364",
+        "description": "Taste Republic's newest gluten-free, plant-based sausage ravioli is stuffed with delicious Beyond Meat and cooks in just 2-3 minutes. Consumers can keep frozen for up to 1 year if not used by expiration date.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/r/tr-plantbasedsausageravioli-front-square202022_20220028-082014_afma2kifoqdbmfgh.jpg",
+        "contentUrl": "https://www.gfifoods.com/69364-taste-republic-gf-plant-based-sausage-ravioli"
+    },
+    {
+        "name": "Mongolian Beef with Vegetables",
+        "brand": "Innovasian",
+        "packSize": "2/6 LB",
+        "itemNumber": "465051",
+        "description": "InnovAsian Cuisine's Mongolian Brand Beef with Vegetables is a delicious savory and medium spicy entree that pairs perfectly with our Vegetable Fried Rice or Sticky White Rice to create a meal that is truly an InnovAsian Occasion!",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/465051-innovasian-mongolian-beef-with-vegetables-465051"
+    },
+    {
+        "name": "Meat Lasagna",
+        "brand": "Drake's",
+        "packSize": "9/38 OZ",
+        "itemNumber": "280111",
+        "description": "Complete Meal- Lean hormone free ground beef- Parmesan, Romano and whole milk mozzarella cheeses - Ricotta Impastata cheese - Authentic Italian Style - Made from scratch marinara - Pasta made with whole egg",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/a/parlapasta_10inx10in_amazon_lasagnawithmeatsauce_packaged_20200618_1215464_u7wjxlxbowpnhqeu.jpg",
+        "contentUrl": "https://www.gfifoods.com/280111-drake-s-meat-lasagna"
+    },
+    {
+        "name": "Chicken & Vegetable Spring Roll",
+        "brand": "Les Chateaux",
+        "packSize": "100/0.7 OZ",
+        "itemNumber": "30909",
+        "description": "hese Chicken Spring Rolls are  light with crisp-crackly skin and small enough to enjoy in 4 bites. The filling is also light, full of tender-crisp vegetables and you should be able to taste and distinguish every single ingredient in the filling. Delicious and authentic!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/spring-roll-chicken_20210427_1357345_gicnvd1fhn2hgybx.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/30909-les-chateaux-chicken-vegetable-spring-roll"
+    },
+    {
+        "name": "Fettucine",
+        "brand": "Nuovo",
+        "packSize": "6/9 OZ",
+        "itemNumber": "591500",
+        "description": "Fettuccine Long Cut Pasta is a popular pasta in Roman and Tuscan cuisine. Fettuccine is literally translated as \"little ribbons\", and often enjoyed with slow cooked beef ragu or cream sauces.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/e/fettuccine20pasta20package_20210401_0013743_9ttmcm5gjgjzcsng.jpg",
+        "contentUrl": "https://www.gfifoods.com/591500-nuovo-fettucine"
+    },
+    {
+        "name": "Halloumi Burgers",
+        "brand": "Dodoni",
+        "packSize": "10/7.05 OZ",
+        "itemNumber": "131010",
+        "description": "Dodoni Halloumi Burgers Authentic Halloumi originates from the\nMediterranean island of Cyprus. Our delicious\nHalloumi is produced by combining traditional\nCypriot cheese-making methods with\nthe know-how and experience of DODONI,",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/o/dodoni20haloumi20burgers207.05z_f92cmtlqf725xfbc.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/131010-dodoni-halloumi-burgers"
+    },
+    {
+        "name": "Potato Pierogi",
+        "brand": "Severino",
+        "packSize": "12/14 OZ",
+        "itemNumber": "700130",
+        "description": "Severino Potato Pierogi taste typical of a fresh cooked pasta with filling, free from excessive saltiness or lack of taste. Filling tastes like boiled mashed potatoes. The texture of the dough to be firm but not chewy. Filling to be soft.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/potato20pierogi20retail_20200810_1405659_lmnczlza3xqx2imr.jpg",
+        "contentUrl": "https://www.gfifoods.com/700130-severino"
+    },
+    {
+        "name": "Pork Char Siu",
+        "brand": "Tetsujin",
+        "packSize": "12/2 LB",
+        "itemNumber": "740201",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/char20siu2074020_20211102-155650_n4qe6t1jsquvvti1.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/740201-la-cuna"
+    },
+    {
+        "name": "Roasted Vegetable & Feta Pizza",
+        "brand": "Esti",
+        "packSize": "12/16.2 OZ",
+        "itemNumber": "85594",
+        "description": "Esti Foods‚Äô frozen pizzas are made with the finest quality ingredients with generous toppings and plenty of what consumers want.Topped with delicious cheese including premium-quality Greek feta cheese, each variety of Esti‚Äôs pizza has a rich flavor. They are all vegetarian and Non-GMO.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/s/esti_products-28_20200424_0926894_cvbobfqsbgarpvjh.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/85594-esti-feta-roasted-vegetable-pizza"
+    },
+    {
+        "name": "Thai Coconut Lime Bone Broth",
+        "brand": "Nona Lim",
+        "packSize": "6/10 OZ",
+        "itemNumber": "65966",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/c/tcl20cup2010oz20main_20200626_2055594_rkdcunqa2k8vxi1g.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/65966-nona-lim-thai-coconut-lime-bone-broth"
+    },
+    {
+        "name": "Ham, Cheddar & Pepper Sous-Vide Egg Bite Gluten Free",
+        "brand": "Trois Petits Cochons",
+        "packSize": "12/2.5 OZ",
+        "itemNumber": "904345",
+        "description": "Sous-Vide Egg Bite Ham & Espelette Pepper Great for Breakfast or Snack on the go, Fully Cooked, Cage-free eggs, High Protein, All Natural, Gluten-Free, Low Carbohydrates, No Sugar",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00045885904340_fce_12042022_20220521-133536_4ad3iim5wxrqg8zg.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/904345-three-pigs-sous-vide-egg-bites-ham-espellette-pepper"
+    }
+]

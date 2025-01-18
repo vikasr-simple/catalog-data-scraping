@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Banana Pudding Cheesecake",
+          "brand": "Tina's",
+          "packSize": "6/2 LB",
+          "itemNumber": "100226",
+          "description": "Tina's Banana Pudding Cheesecake has a vanilla wafer crust made with real bananas, cream cheese, etc that tastes like banana pudding,  It has a firm texture that can be easily sliced like cheesecake.  It is topped with homemade whipped cream made with vanilla extract.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/100226_main_uxowkd9wefdktjwc.jpg",
+          "contentUrl": "https://www.gfifoods.com/100226-tina-s-banana-pudding-cheesecake-100226"
+     },
+     {
+          "name": "Dark Chocolate Mousse Éclair",
+          "brand": "Ifi Gourmet",
+          "packSize": "72/5.0 IN",
+          "itemNumber": "24971",
+          "description": "Filled with chocolate mousse and topped with dark chocolate ganache",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/f/ifi20612120chocolate20eclair_20190920_1335980_46dzwfrvgwumgvbm.jpg",
+          "contentUrl": "https://www.gfifoods.com/24971-ifi-gourmet-dark-chocolate-mousse-eclair"
+     },
+     {
+          "name": "Semita de Anis Pastry Raw",
+          "brand": "Southland Baking",
+          "packSize": "80/3.2 OZ",
+          "itemNumber": "120471",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_auhvvvdnxmipudma.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/120471-southland-baking-semitas-pastry-120471"
+     },
+     {
+          "name": "Spiced Windmill Cookies Sugar Free",
+          "brand": "Spaans",
+          "packSize": "12/10 OZ",
+          "itemNumber": "818560",
+          "description": "Sugar Free Spiced Windmill - 10 oz\nA sugar free version of our signature cookie! A crunchy windmill shaped cookie flavored with cinnamon, nutmeg and almonds.\n\"Use the best ingredients and give people their money's worth.\" - Peter Spanns",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/6001020homestyle20spiced20windmill201220oz_20230408-101438_fk4xy7ghkcfyjixt.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/818560-spaans-sugar-free-spiced-windmill-cookies-818560"
+     },
+     {
+          "name": "Cheddar Whisps",
+          "brand": "Whisps",
+          "packSize": "12/2.12 OZ",
+          "itemNumber": "41567",
+          "description": "Light, flavorful crisps made from 100% cheddar cheese. Low carb, high protein and completely gluten free, these are an excellent snacking option bursting with cheddar cheese flavor!",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/h/whisps_rendering_2.12oz_cheddar_202001220_kty3ns9appn3dlos.jpg",
+          "contentUrl": "https://www.gfifoods.com/41567-whisps-cheddar-whisps"
+     },
+     {
+          "name": "Large Yellow Cupcake",
+          "brand": "Ardalin Foods",
+          "packSize": "48/3 OZ",
+          "itemNumber": "4075",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/4075_main20copy_20210930_1533587_f55jz7oohrhcqj3f.jpg",
+          "contentUrl": "https://www.gfifoods.com/4075-ardalin-foods-large-yellow-cupcake"
+     },
+     {
+          "name": "Assorted Artisan Pastries Mini",
+          "brand": "Edelweiss Pastry",
+          "packSize": "3/32 CT",
+          "itemNumber": "8728",
+          "description": "There are eight pieces of the following pastries in this assortment:  Lemon Tartlet, Apricot Pistachio Cake, Passion Fruit Cheesecake and Chocolate Mocha Cake.\nThese would make a great addition to any buffet table or large gathering.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/f/gfiartisan_20220003-154639_f8hhftrrn7k7x5ve.jpg",
+          "contentUrl": "https://www.gfifoods.com/8728-edelweiss-pstry-mini-assortment-artisan-pastries"
+     },
+     {
+          "name": "Chocolate Cake 4 Inch",
+          "brand": "Ardalin Foods",
+          "packSize": "50/4 OZ",
+          "itemNumber": "11005",
+          "description": "NA",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/2/4201_20190311_1533997_nyin6qtug3bkwji4.jpg",
+          "contentUrl": "https://www.gfifoods.com/11005-marin-french-cake-chocola"
+     },
+     {
+          "name": "Rosemary & Thyme Olive Oil Tortas Vegan",
+          "brand": "Ines Rosales",
+          "packSize": "10/6.3 OZ",
+          "itemNumber": "24270",
+          "description": "Crisp and delicate tortas de aceite are hand-made in Seville using extra virgin olive oil. A traditional Spanish snack for the last 100 years, Ines Rosales tortas are a delicious treat to enjoy any time of day. Lighter than ordinary crackers and baked with rosemary and thyme.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/o/co-42_20190520_164271_z3ibuhmysn3p80ph.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/24270-ines-rosales-rosemarythyme-savory-olive-oil-tortas"
+     },
+     {
+          "name": "Assorted Danish Small RTB",
+          "brand": "Lecoq Cuisine",
+          "packSize": "1/252 CT",
+          "itemNumber": "100079",
+          "description": "Small Danish Variety Pack containing Apple, Cheese, Chocolate and Raspberry Bear Claw Danishes\nReady to Bake. Zero Trans fat. 150 day shelf life from date of production.\nApple Danish: Homemade apple and pear filling with a touch of vanilla",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/d/rdvs-2522020main_20230519-091802_rixy5ipc1wtabdaw.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/100079-lecoq-cuisine-danish-variety-pack-100079"
+     },
+     {
+          "name": "Almond Flour Salty Date Crisps",
+          "brand": "Raincoast Crisp",
+          "packSize": "12/5.3 OZ",
+          "itemNumber": "710452",
+          "description": "ALMOND FLOUR SALTY DATE, KOSHER, NON GMO VERIFIED, GLUTEN FREE, NO ARTIFICIAL FLAVORINGS OR PRESERVATIVES.  CONTAINS:  MILK, SESAME, ALMONDS, ALMOND FLOUR, DATES, FLAX SEEDS, PUMPKIN SEEDS, RAISINS.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/l/almondfloursaltydateimage_20230614-111224_udecypsbjq2rdokz.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/710452-raincoast-crisp-almond-flour-salty-date-crisps-710452"
+     },
+     {
+          "name": "Cranberry & Hazelnut Crisps",
+          "brand": "Raincoast Crisp",
+          "packSize": "12/5.3 OZ",
+          "itemNumber": "710750",
+          "description": "The creation of these crisps brought even crisper conversation to entertaining circles. Tart, plump cranberries and toasty hazelnuts combine to create a perfect snack for the holiday season and beyond. Delicious with Canadian aged cheddar.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/s/lsff-cran-hazelnut20-20usa-horiz-orientation_20210326_1307609_0vb1nhlipb6svcb5.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/710750-raincoast-crisp-cranberry-hazelnut-crisps"
+     }
+]

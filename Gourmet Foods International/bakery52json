@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Plaintain Tart Mini",
+        "brand": "Kabobs",
+        "packSize": "144/0.62 OZ",
+        "itemNumber": "9216",
+        "description": "Mini Plantain Tarts - 2\"",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-11-0720at204.47.4320pm_20221007-164751_z92bss15pgmza5wm.jpg",
+        "contentUrl": "https://www.gfifoods.com/9216-kabobs-mini-plantain-tart"
+    },
+    {
+        "name": "Olive Oil Ciabatta",
+        "brand": "Bridor",
+        "packSize": "60/4.9 OZ",
+        "itemNumber": "9908",
+        "description": "This Ciabatta is inspired by the famous Italian classic. Its thin crust complements the delicious olive oil taste to form an irresistible, smooth, good-tasting bread.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60cisa_20220031-080213_pwpmgawvceqhhjno.jpg",
+        "contentUrl": "https://www.gfifoods.com/9908-bridor-ciabatta-olive-oil"
+    },
+    {
+        "name": "Ciabatta Rolls 3.5 OZ",
+        "brand": "Jimmys Cookies",
+        "packSize": "9/6 CT",
+        "itemNumber": "295520",
+        "description": "Ecce Panis breads are all baked in 90 foot stone ovens made with special lava stones. Our artisan breads are handmade, have no preservatives, GMO free and kosher approved by OU pareve. Our ciabatta rolls come 6 per bag and are 3.5 ounces each roll.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/i/ciabattarollmain_20240319-142559_pusqyrvnbfin6lf5.jpg",
+        "contentUrl": "https://www.gfifoods.com/295520-jimmys-cookies-ciabatta-rolls-3-5-oz-295520"
+    },
+    {
+        "name": "Artisan Square Sandwich Roll 4 Inch",
+        "brand": "Bakery de France",
+        "packSize": "60/3.25 OZ",
+        "itemNumber": "100342",
+        "description": "The Artisan Square sandwich roll offers a subtle hint of olive oil and crisp crust that’s perfect for any mealtime masterpiece. Use as a gourmet burger bun or paired with premium meats and cheeses.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/5/f5202artisansquare4x4_20240515-192729_do4zo588fs4l5ob1.jpg",
+        "contentUrl": "https://www.gfifoods.com/100342-bakery-de-france-artisan-square-sandwich-roll-4-inch-100342"
+    },
+    {
+        "name": "Plaza Sweets Apple Galette",
+        "brand": "Artuso Pastry",
+        "packSize": "48/5.6 OZ",
+        "itemNumber": "774802",
+        "description": "Our individual Apple Galette is made with a sugar dough crust filled with delicious array of sliced apples, a hint of cinnamon and topped with a dusting of powdered sugar.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mainpicture_20240116-112916_dgg4joam0qrwgsiq.jpg",
+        "contentUrl": "https://www.gfifoods.com/774802-artuso-pastry-plaza-sweets-apple-galette-774802"
+    },
+    {
+        "name": "Bavarian Pretzel 20% Base",
+        "brand": "A & S",
+        "packSize": "1/50 LB",
+        "itemNumber": "6016501",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60165.01_20230005-093345_6hyt9p4qwjatjljg.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/6016501-as-bavarian-pretzel-20-base-6016501"
+    },
+    {
+        "name": "Banana Pudding Cheesecake",
+        "brand": "Tina's",
+        "packSize": "6/2 LB",
+        "itemNumber": "100226",
+        "description": "Tina's Banana Pudding Cheesecake has a vanilla wafer crust made with real bananas, cream cheese, etc that tastes like banana pudding,  It has a firm texture that can be easily sliced like cheesecake.  It is topped with homemade whipped cream made with vanilla extract.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/100226_main_uxowkd9wefdktjwc.jpg",
+        "contentUrl": "https://www.gfifoods.com/100226-tina-s-banana-pudding-cheesecake-100226"
+    },
+    {
+        "name": "Dark Chocolate Mousse Éclair",
+        "brand": "Ifi Gourmet",
+        "packSize": "72/5.0 IN",
+        "itemNumber": "24971",
+        "description": "Filled with chocolate mousse and topped with dark chocolate ganache",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/f/ifi20612120chocolate20eclair_20190920_1335980_46dzwfrvgwumgvbm.jpg",
+        "contentUrl": "https://www.gfifoods.com/24971-ifi-gourmet-dark-chocolate-mousse-eclair"
+    },
+    {
+        "name": "Apple Crisp Crisps Organic",
+        "brand": "Potters Crackers",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "48529",
+        "description": "Potter’s Crackers, Apple Crisps are so crunchy and delicious!  They are a made with whole grains, rolled oats, seeds, apples and raisins.  We even love them plain as a healthier substitute for chips!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/pottersapplecrispsfront_20240320-171055_cg7gxop8sdefwein.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/48529-potters-crackers-apple-crisp-crisps"
+    },
+    {
+        "name": "Truffle Crisps Vegan",
+        "brand": "Sabatino",
+        "packSize": "12/5 OZ",
+        "itemNumber": "26937",
+        "description": "Truffle crisps are artisan-crafted, crunchy crisps made with black summer truffles and in small batches to preserve their authentic flavor and signature seasoning. Serve as an easy appetizer, enjoy on a salad, mix into soup, or simply eat them straight out of the bag!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/r/trufflecrisps_5oz_gfi1_20201222_1234400_rstzu4w7bnni8ylt.jpg",
+        "contentUrl": "https://www.gfifoods.com/26937-sabatino-truffle-crisps"
+    },
+    {
+        "name": "Peanut Butter Explosion Cake",
+        "brand": "Annie's",
+        "packSize": "24/6.5 OZ",
+        "itemNumber": "95821",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/n/ind_pbx_single_20201204_1024730_wwt6n5arxuk8tucg.jpg",
+        "contentUrl": "https://www.gfifoods.com/95821-annie-s"
+    },
+    {
+        "name": "Buttermilk Breakfast Tart with Blueberries & Granola 14 Inch",
+        "brand": "Gourmet Kitchen",
+        "packSize": "9/20 OZ",
+        "itemNumber": "172006",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/2/p2006buttermilkbreakfasttartstuffedwithfreshblueberriesandgranola_20240125-171412_jscgzjqs2s4ur5wt.jpg",
+        "contentUrl": "https://www.gfifoods.com/172006-gourmet-kitchen-buttermilk-breakfast-tart-with-blueberriesgranola-14-inch-172006"
+    }
+]

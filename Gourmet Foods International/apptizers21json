@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Spicy Chicken Bulgogi Sample",
+        "brand": "Kbbq",
+        "packSize": "1/1 LB",
+        "itemNumber": "225522",
+        "description": "FOOD SERVICE",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/l/1lb_w9wg0065_pack_02_20190327_135310_20190503_1338655_yaecb5sub7u9qxxs.jpg",
+        "contentUrl": "https://www.gfifoods.com/225522-kbbq-spicy-chicken-sample"
+    },
+    {
+        "name": "Green Chile Arepa",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/100 CT",
+        "itemNumber": "822740",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/r/greenchiliarepa_20231212_1639301_qldmutzv1obeekdc.jpg",
+        "contentUrl": "https://www.gfifoods.com/822740-gourmet-kitchen-green-chile-arepa-822740"
+    },
+    {
+        "name": "Shrimp Gyoza",
+        "brand": "Tetsujin",
+        "packSize": "24/12 PC",
+        "itemNumber": "10165",
+        "description": "Shrimp Gyoza Dumpling Appetizer        \nMing Hong International is the industry’s leading supplier of high quality Sushi & Asian Fusion cuisine ingredients.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/r/tray20copy_20210707_1508588_0ml6cosbpxe4glpm.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/10165-tetsujin-shrimp-gyoza"
+    },
+    {
+        "name": "Chickpea Vegetable Tajine",
+        "brand": "Global Village Foods",
+        "packSize": "6/11.5 OZ",
+        "itemNumber": "100142",
+        "description": "Chickpeas, Mediterranean herbs & spices in a rich tomato stock, accentuated with the natural sweetness of carrots and raisins, served with a hearty millet-brown rice.  Sell from frozen shelf or slack & date 7 days for PFD Grab & Go.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chickpea-vegetable-tajine_20230016-174254_gzeqxiecgaiwlbjg.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100142-global-village-foods-chickpea-vegetable-tajine-100142"
+    },
+    {
+        "name": "Chicken Pot Pie",
+        "brand": "Country Chef",
+        "packSize": "8/24 OZ",
+        "itemNumber": "103231",
+        "description": "Country Chef 24 oz Chicken Pot Pie. We fill our flaky honey crust full of chunky white chicken, peas and carrots in a rich, creamy sauce and bake until golden brown.  The Country Chef Chicken Pot Pie has a home-made look and taste that is exactly what your customer is looking for.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00323ctop_20240325-111456_ojqyx0vrgq2cqpyc.jpg",
+        "contentUrl": "https://www.gfifoods.com/103231-country-chef-chicken-pot-pie-103231"
+    },
+    {
+        "name": "3 Cheese, Egg & Buttermilk Biscuit",
+        "brand": "Kabobs",
+        "packSize": "24/5 OZ",
+        "itemNumber": "7890",
+        "description": "Three Cheese & Egg Buttermilk Biscuit.  A savory blend of Monterey Jack, Mozzarella, and Gruyere cheese, lightly folded in egg, placed in our rich, flaky buttermilk biscuit, and brushed with extra virgin olive oil.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k7890_20230004-114006_wk6b5js0ifeuqcgv.jpg",
+        "contentUrl": "https://www.gfifoods.com/7890-kabobs-three-cheese-egg-buttermilk-biscuit"
+    },
+    {
+        "name": "Three Cheese Cannelloni Frozen",
+        "brand": "Fiori Bruna",
+        "packSize": "4/2.5 LB",
+        "itemNumber": "104354",
+        "description": "Pasta Cannelloni Three Cheese Frozen-Precooked. Stuffed Precooked pasta sheets whit a blend of cheeses. Ready to cook.  Add Cannelloni in a pan and cover whit sauce. heat and serve",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/104354_npmpfeksyjfmembp.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/104354-fiori-bruna-three-cheese-cannelloni-frozen-104354"
+    },
+    {
+        "name": "Croquettes With Iberico Ham",
+        "brand": "José Andrés",
+        "packSize": "12/11 OZ",
+        "itemNumber": "1011641",
+        "description": "Fine bechamel Iberico ham flavored croquettes. A creamy bechamel sauce together with Iberico and Serrano ham bites, and a crispy crust, creates the perfect Spanish snack.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/1011641-jose-andres-croquettes-with-iberico-ham-1011641"
+    },
+    {
+        "name": "Tako Yaki Grilled Octopus Ball",
+        "brand": "Tetsujin",
+        "packSize": "180/30 GR",
+        "itemNumber": "624008",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/takoyaki-14_azhcxhfff4bmtrxh.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/624008-tetsujin-tako-yaki-grilled-octopus-ball-624008"
+    },
+    {
+        "name": "Chicken & Cabbage Potstickers",
+        "brand": "Fortune Avenue",
+        "packSize": "6/45.3 OZ",
+        "itemNumber": "31141",
+        "description": "Fortune Avenue’s pork and cabbage potstickers are Chinese dumplings filled with ground meat and vegetables, these are heat treated and frozen. They require cooking before serving.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/31141-chevoo-cabbagechicken-potstickers"
+    },
+    {
+        "name": "Tempura Battered Shrimp",
+        "brand": "Tetsujin",
+        "packSize": "4/30 CT",
+        "itemNumber": "31096",
+        "description": "Sushi Shrimp Tempura battered Pre-Fried; heat & ready-to-serve; Great for tempura sushi rolls, appetizers. Keep frozen; heat in oven or quick deep fry.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20220806-131043_7rd5kqcyuoqsiaxk.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/31096-tetsujin-tempura-battered-shrimp"
+    },
+    {
+        "name": "Meat Lasagna",
+        "brand": "Campbell's",
+        "packSize": "4/6 LB",
+        "itemNumber": "138498",
+        "description": "Our Lasagna Classic With Meat And Ricotta Is The Perfect Comfort Food For Any Occasion, Without The Labor That Goes Into It. \nPackaged In Ready-To-Cook Aluminum Trays",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00051000081612_main_20220813-134117_kpih9lvoa2wduo1o.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/138498-campbell-s-classic-lasagna-with-meat-138498"
+    }
+]

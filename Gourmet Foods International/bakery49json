@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Profiteroles",
+        "brand": "The Mad Bakers",
+        "packSize": "200/.44 OZ",
+        "itemNumber": "501060",
+        "description": "Frozen baked empty profiterole shell. Crispy on the outside, and soft and airy on the inside. Simply thaw out and fill with cream of your choice. Made with unbleached wheat flour and eggs. Kosher dairy certified.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/pr_20211005-114514_dqpgpzqeq6zqsypk.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/501060-the-mad-bakers-profiteroles"
+    },
+    {
+        "name": "Multigrain Baguette",
+        "brand": "Bakery de France",
+        "packSize": "24/10 OZ",
+        "itemNumber": "100335",
+        "description": "Baked with a blend of premium flours, our Authentic Multigrain Baguette offers traditional \"botus pointus\" pointed ends paired with a crisp crust and light airy interior. Slice, tear or dip your baguette! Pair with premium meats and cheeses to elevate your entrée",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/5/f5409artisanmultigrainbaguettejpeg_20240515-194806_q1gm1jgi5ovgzwbr.jpg",
+        "contentUrl": "https://www.gfifoods.com/100335-bakery-de-france-multigrain-baguette-100335"
+    },
+    {
+        "name": "Classic Vanilla Cream Éclair",
+        "brand": "Ifi Gourmet",
+        "packSize": "72/5.0 IN",
+        "itemNumber": "24969",
+        "description": "Filled with vanilla moroni diplomat cream and topped with dark chocolate ganache.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/f/ifi20612020vanilla20eclair_20190920_133460_f2yxvgee7maqisuu.jpg",
+        "contentUrl": "https://www.gfifoods.com/24969-ifi-gourmet-classic-vanilla-cream-eclair"
+    },
+    {
+        "name": "M&M Gourmet Cookie Dough",
+        "brand": "David's Cookies",
+        "packSize": "213/1.5 OZ",
+        "itemNumber": "9001493",
+        "description": "Bright and colorful M&M Candies and semi-sweet chocolate chips are loaded into our signature cookie dough, making this treat something to look forward to brightening your day!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/7/37409m_20220511_1034598_7cmn75ourn1zlygx.jpg",
+        "contentUrl": "https://www.gfifoods.com/9001493-david-s-cookies-mm-gourmet-cookie-dough-9001493"
+    },
+    {
+        "name": "Sour Dough Bread Mix",
+        "brand": "Komplet",
+        "packSize": "1/50 LB",
+        "itemNumber": "30955",
+        "description": "Description: Sour Dough Bread Mix is a well\nbalanced blend of ingredients for producing\nauthentic San Francisco-style sour dough\nbreads.Use Sour Dough\nBread Mix for producing pan breads, hearth\nbreads and rolls. Try cracked black pepper,\njalapeño peppers or hard cheese to create\nsignature items.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/1/61033.0120front_6fbc300f6oaeq12g.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/30955-komlet-sour-dough-mix"
+    },
+    {
+        "name": "Soft N Squidgy Chocolate Cake Mix",
+        "brand": "Supergood! Bakery",
+        "packSize": "6/12.3 OZ",
+        "itemNumber": "1860605",
+        "description": "Soft'N'Squidgy Chocolate Cake Mix by Supergood! Bakery. Gluten-free, vegan-friendly and made with natural ingredients. Just add 3 ingredients: 65g vegetable oil, 220g dairy-free milk (or cow's milk), 20g agave syrup (or honey).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mantiscakemix_20230607-160214_mbycy9srrl6ixisk.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/1860605-supergood-bakery-soft-n-squidgy-chocolate-cake-mix-1860605"
+    },
+    {
+        "name": "Chocolate Chip Muffins Gluten Free",
+        "brand": "Antonina's Bakery",
+        "packSize": "12/14 OZ",
+        "itemNumber": "138030",
+        "description": "Our gluten-free Chocolate Chip Muffins are made with a proprietary blend of gluten-free flours to create a moist muffin that is full of semi-sweet chocolate chips.  It’s a delicious snack or breakfast treat that even those who can eat gluten will love and enjoy.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolatechipmuffinsupc_818703013131_angled_20240131-094132_g3wkiqdi8fy4oih6.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/138030-antonina-s-bakery-gf-chocolate-chip-muffins-138030"
+    },
+    {
+        "name": "Olive Oil & Sel Gris Flatbread Organic Vegan",
+        "brand": "Rustic Bakery",
+        "packSize": "12/6 OZ",
+        "itemNumber": "170211",
+        "description": "Rustic Bakery classic sourdough flatbread crackers are light and flaky, made with extra virgin olive oil and grey sea salt from France. They are a perfect anytime treat; pair with artisanal cheese, dips, or pate.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/r/organic20classic20flatbreads20-20sel20gris20-202055574_20190304_1541436_lqvbi87o99jgdbl5.jpg",
+        "contentUrl": "https://www.gfifoods.com/170211-rustic-bakery-flatbread-olive-oilsel-gris-in-box"
+    },
+    {
+        "name": "Briochelle Rolls",
+        "brand": "Bakerly",
+        "packSize": "8/9.88 OZ",
+        "itemNumber": "100075",
+        "description": "An authentic French brioche roll recipe that will elevate your family’s dinner time favorites and appetizers with our signature subtle sweetness. Includes 8 brioche rolls per pack. Happiness is just a bite away!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/a/bakerly20brioche20rolls20vdef_20220815-123130_iawfqvvsmi1egfxs.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/100075-bakerly-briochelle-rolls-100075"
+    },
+    {
+        "name": "Decadant Cinnamon Bun RTB",
+        "brand": "Bridor",
+        "packSize": "80/1.8 OZ",
+        "itemNumber": "52436",
+        "description": "The mini version of our Decadent Cinnamon bun in a convenient snack sized format. Enjoy flaky pure butter dough with a generous pastry cream filling and just the right amount of cinnamon. The Comforting, nostalgic flavors and textures will make you crave for more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/5243620cinnamon20bun20decadant20rtb_20210928_1220627_kla1bcvmvpqelxnd.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/52436-bridor-cinnamon-bun-decadant-rtb"
+    },
+    {
+        "name": "Glazed Chocolate Cake Donut Kosher",
+        "brand": "Diana's Bakery",
+        "packSize": "10/20.1 OZ",
+        "itemNumber": "12755",
+        "description": "Tender and moist chocolate old fashioned cake donuts with hole in center and a cracked center top. Glazed with delicious glaze and ready to be enjoyed. 6 donuts per package, 10 6pk boxes per case.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/picture3333_20210806_1742905_cj73hci4nmv2ax1z.jpg",
+        "contentUrl": "https://www.gfifoods.com/12755-diana-s-bakery"
+    },
+    {
+        "name": "Classic Banana Bread",
+        "brand": "Divine South",
+        "packSize": "10/16 OZ",
+        "itemNumber": "379361",
+        "description": "Southern Style Banana Bread from a family recipe. Sweet, ripe bananas with a touch of rum and cinnamon sugar. Better than Grandma's - and Mom's. Delicious toasted with a pat of butter. Handmade in small batches to order. From The Chocolate Heaven Company in Highlands, North Carolina.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/a/banana220copy_20220611-131120_ku8eor44ssvk69w8.jpg",
+        "contentUrl": "https://www.gfifoods.com/379361-divine-south"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "IQF Broccoli Florets",
+        "brand": "Yupi",
+        "packSize": "1/20 LB",
+        "itemNumber": "400900",
+        "description": "The Broccoli Florets are Individually quick frozen and are ready to be added to your favourite meals. They are a a nutritious vegetable that can be included in a well balanced meal plan.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/q/iqfbroccoliflorets_20231201-155435_svmkntzvxyrdxnjz.jpg",
+        "contentUrl": "https://www.gfifoods.com/400900-yupi-iqf-broccoli-florets-400900"
+    },
+    {
+        "name": "Cornichons",
+        "brand": "Ambrosia",
+        "packSize": "6/5 KG",
+        "itemNumber": "425240",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/o/cornishion_20230808-102845_qvpp1wbfpva6htm7.jpg",
+        "contentUrl": "https://www.gfifoods.com/425240-ambrosia-cornichons-425240"
+    },
+    {
+        "name": "DF Mezze Feta Salad Tomato & Pepperoncini",
+        "brand": "Delallo",
+        "packSize": "12/7 OZ",
+        "itemNumber": "105479",
+        "description": "DeLallo Roasted Tomato & Pepperoncini Mezze Feta Salad features Italian roasted tomatoes, feta cheese and pepperoncini peppers in a marinade of pesto, oil, golden balsamic vinegar and select herbs and spices.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/e/mezzefetasaladmain_20240724-105326_az5jylftxnjg4ekf.jpg",
+        "contentUrl": "https://www.gfifoods.com/105479-delallo"
+    },
+    {
+        "name": "Manzanilla Olives Stuffed With Habanero Peppers",
+        "brand": "Donostia Foods",
+        "packSize": "12/6.70 OZ",
+        "itemNumber": "103887",
+        "description": "Olives stuffed with habanero pepper seasoned in the Sevillian style and fermented in a natural way, free of any fermentation different from lactic one. Net Drained Weight: 3.88 oz",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/o/donostia_foods_manzanilla_olives_stuffed_with_habanero_mantis_main_image_update_20240326-154517_a85xowlzqv9hyjwh.jpg",
+        "contentUrl": "https://www.gfifoods.com/103887-donostia-foods-manzanilla-olives-stuffed-with-habanero-peppers-103887"
+    },
+    {
+        "name": "Kosher Style Dill Pickle Spears",
+        "brand": "Kretschmar",
+        "packSize": "6/32 OZ",
+        "itemNumber": "195396",
+        "description": "The Kosher Style Dill Pickle Spears are fresh, crisp, and crunchy. Pickles are so fresh because cucumbers go from farm to container in seven days. Pickles are packed with no heat processing or pasteurization. GMO Free, Fat Free, Gluten Free, and Low Calories. Great as a snack or complementary side.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/5/95396_main_ycbs2tsgdgrbixhz.jpg",
+        "contentUrl": "https://www.gfifoods.com/195396-kretschmar-dill-pickle-spears-kosher-195396"
+    },
+    {
+        "name": "Bonded IQF Green Peppers Diced",
+        "brand": "Yupi",
+        "packSize": "1/20 LB",
+        "itemNumber": "B406100",
+        "description": "The Diced Green Peppers are Individually quick frozen and are ready to be added to your favourite meals. They are a a nutritious vegetable that can be included in a well balanced meal plan.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/q/iqfdicedgreenpeppers_20231201-155051_xmckaa4gt8lo9mxc.jpg",
+        "contentUrl": "https://www.gfifoods.com/b406100-yupi-bonded-iqf-green-peppers-diced-b406100"
+    },
+    {
+        "name": "IQF Green Peppers Diced",
+        "brand": "Yupi",
+        "packSize": "1/20 LB",
+        "itemNumber": "406100",
+        "description": "The Diced Green Peppers are Individually quick frozen and are ready to be added to your favourite meals. They are a a nutritious vegetable that can be included in a well balanced meal plan.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/406100-yupi-iqf-green-peppers-diced-406100"
+    },
+    {
+        "name": "Piquillo Peppers with Sweet Kombu",
+        "brand": "Porto Muiños",
+        "packSize": "12/2.8 OZ",
+        "itemNumber": "135834",
+        "description": "Whole piquillo peppers are mixed with wild harvested kombu seaweed from the Galician coast, then combined with olive oil, garlic and salt before being tinned. Vegetarian friendly conserva.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/m/pm20piquillo20tin_20211124-165847_gdxy3dpwubrifpri.jpg",
+        "contentUrl": "https://www.gfifoods.com/135834-porto-muinos-piquillo-peppers-with-sweet-kombu-135834"
+    },
+    {
+        "name": "Dried Whole Cherries",
+        "brand": "Hello! I'm Ugly",
+        "packSize": "12/4 OZ",
+        "itemNumber": "987291",
+        "description": "The Ugly Company - Dried & Whole Upcycled Cherries (Sweet and Tart Taste, Single Ingredient (Just Cherries!), All-Natural, 15 lbs of Food Waste prevented with Each Case, 100% Upcycled, 0g Added Sugar, No Additives or Preservatives).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/h/wholecherriesfront_20240121-112834_zx1j0yay1mxh3c9s.jpg",
+        "contentUrl": "https://www.gfifoods.com/987291-dried-whole-cherries"
+    },
+    {
+        "name": "Stuffed Grape Leaves",
+        "brand": "Delallo",
+        "packSize": "12/5.25 OZ",
+        "itemNumber": "105477",
+        "description": "DeLallo Stuffed Grape Leaves are tender, spring-harvested grape leaves are delicately wrapped around a flavorful medley of rice, fresh herbs and spices for a classic Greek mezze platter feature.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/r/grapeleavesmain_20240724-102826_lkkjc0ov5qzfvymu.jpg",
+        "contentUrl": "https://www.gfifoods.com/105477-delallo"
+    },
+    {
+        "name": "Classic Kosher Dill Pickle Chips",
+        "brand": "The Sunshine Pickle Co",
+        "packSize": "6/24 OZ",
+        "itemNumber": "102710",
+        "description": "Fresh, Crisp and Crunchy snacking pickles perfect as a standalone snack or can be used as a condiment on sandwiches or burgers or as a garnish on a board or in a drink",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/l/classicdillimage_20240131-211816_sxnqvxly9kbvbnwf.jpg",
+        "contentUrl": "https://www.gfifoods.com/102710-classic-koshe-dill-pickle-chips"
+    },
+    {
+        "name": "Dried & Sliced Apricots",
+        "brand": "Hello! I'm Ugly",
+        "packSize": "12/3 OZ",
+        "itemNumber": "102633",
+        "description": "The Ugly Company - Dried & Sliced Upcycled Apricots:  Tart & Tangy Taste\n- Single Ingredient\n- All-Natural\n- 21 lbs of Food Waste Prevented with Each Case\n- 100% Upcycled\n- 0g Added Sugar\n- No Additives or Preservatives\n- Non-GMO\n- Locally Sourced in California",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/l/slicedapricotsfront_20240121-121002_uywynvr0y0jdexly.jpg",
+        "contentUrl": "https://www.gfifoods.com/102633-driedsliced-apricots"
+    }
+]

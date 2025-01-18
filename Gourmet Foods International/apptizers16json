@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Sesame Orange Chicken Breast",
+        "brand": "Innovasian",
+        "packSize": "4/4 LB",
+        "itemNumber": "140321",
+        "description": "InnovAsian Orange Sesame Chicken is fully cooked, frozen, RTE Tempura Chicken White Meat with Sesame Orange Sauce and Sesame Seeds. No artificial colors. No artificial MSG Added.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/40232_sesameorangechicken_beautyshot_2400x2400_20220819-125745_81v0kyulxhs4ymu0.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/140321-innovasian-sesame-orange-chicken-breast-140321"
+    },
+    {
+        "name": "Penne with White Cheese Sauce & Chives",
+        "brand": "Perfect Pasta",
+        "packSize": "6/10 OZ",
+        "itemNumber": "32741",
+        "description": "Al Dente cooked bias cut Penne noodles tossed with Perfect Pasta’s bechamel-style White Cheese Sauce and topped with a blend of shredded fontina and parmesan cheese with chopped chives and black pepper.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10097137353519_main_20210923_1251582_htf19icdigf9jmgs.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/32741-perfect-pasta-penne-w-white-cheese-saucechives"
+    },
+    {
+        "name": "Fiery Peach BBQ Brisket Wrapped in Bacon",
+        "brand": "Gourmet Kitchen",
+        "packSize": "200/1 OZ",
+        "itemNumber": "469252",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/n/ingredients_20231107_0904428_yueomw2s0rvmnyrf.jpg",
+        "contentUrl": "https://www.gfifoods.com/469252-gourmet-kitchen-fiery-peach-bbq-brisket-wrapped-in-bacon-469252"
+    },
+    {
+        "name": "Spicy Vegetable Pakora",
+        "brand": "Kabobs",
+        "packSize": "1/4 LB",
+        "itemNumber": "8901",
+        "description": "Spicy Vegetable Pakora",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-11-0720at204.45.4520pm_20221007-164552_mws32msgfyh3mwfp.jpg",
+        "contentUrl": "https://www.gfifoods.com/8901-kabobs-vegetable-pakora-spicy-k0901-80-90-ct"
+    },
+    {
+        "name": "Quatro Fromage Macaroni & Cheese",
+        "brand": "Kabobs",
+        "packSize": "200/1.05 OZ",
+        "itemNumber": "7455",
+        "description": "Quattro Formaggio Mac N' Cheese.  A four cheese blend of White and Yellow Cheddar, Monterey Jack, and Gruyere; paired with elbow macaroni, and hand rolled in panko bread crumbs.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k745520quatro20mac_20220305-012049_t5eawiopf7ldgozy.jpg",
+        "contentUrl": "https://www.gfifoods.com/7455-kabobs-macaronicheese-w-quatro-fromage"
+    },
+    {
+        "name": "Honey Sriracha Chicken Meatball",
+        "brand": "Gourmet Kitchen",
+        "packSize": "200/0.67 OZ",
+        "itemNumber": "103053",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/9/m9208srirachachickenmeatball_20240206-175751_hgiw4lqpqmowtosv.jpg",
+        "contentUrl": "https://www.gfifoods.com/103053-gourmet-kitchen-honey-sriracha-chicken-meatball-103053"
+    },
+    {
+        "name": "Osso Buco",
+        "brand": "Cuisine Solutions",
+        "packSize": "24/13.5 OZ",
+        "itemNumber": "35044",
+        "description": "Tender veal shanks slow-cooked and braised in a medley of tomatoes, carrots and other hearty vegetables. Perfect for a true Italian-inspired meal.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/35044-cuisine-solutio-osso-buco"
+    },
+    {
+        "name": "Crispy Grilled Cheese",
+        "brand": "Starbucks",
+        "packSize": "6/5.12 OZ",
+        "itemNumber": "68531",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/8/68531silo.jpg",
+        "contentUrl": "https://www.gfifoods.com/68531-starbucks-crispy-grilled-cheese"
+    },
+    {
+        "name": "Black Eyed Bean Kofta Vegan Gluten Free",
+        "brand": "Global Village Foods",
+        "packSize": "12/6 OZ",
+        "itemNumber": "35692",
+        "description": "A vegan version of a well known spicy ball usually made with lamb or beef. This Black Eyed Bean version is packed with traditional spices for a full flavor punch, plenty of protein and fiber, and great texture that works deliciously in the Spicy Eggplant Sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/v/gvf-kofta-01_20220103-175201_emjfpnpfstyjymnl.jpg",
+        "contentUrl": "https://www.gfifoods.com/35692-global-village-foods-vegan-black-eyed-bean-kofta"
+    },
+    {
+        "name": "Maryland Lump Crab Cake",
+        "brand": "Culinary Master",
+        "packSize": "24/3.25 OZ",
+        "itemNumber": "160593",
+        "description": "Gourmet crab cakes, made from 70% lump & claw crab meat. They can be baked, sautéed or deep fried. Handcrafted o keep crab meat intact. Perfect for dingle portion appetizers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/160593_main_20210317_1548992_u8qltmxvcsrvql0d.jpg",
+        "contentUrl": "https://www.gfifoods.com/160593-culinary-master-crabcake-lump-maryland-style"
+    },
+    {
+        "name": "Potato Pancakes",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/144 CT",
+        "itemNumber": "820120",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/2/v2012main_rixzmhkscpjizoxb.jpg",
+        "contentUrl": "https://www.gfifoods.com/820120-gourmet-kitchen-potato-pancakes-820120"
+    },
+    {
+        "name": "Seared Chicken Breast with Thyme",
+        "brand": "Cuisine Solutions",
+        "packSize": "28/9 OZ",
+        "itemNumber": "101899",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chickenbreastthyme_20231025-152640_cc63f377gnqczvp6.jpg",
+        "contentUrl": "https://www.gfifoods.com/101899-cuisine-solutions-seared-chicken-breast-with-thyme-101899"
+    }
+]

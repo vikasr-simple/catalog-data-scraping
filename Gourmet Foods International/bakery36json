@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Original Pops Vegan",
+        "brand": "Kim's Magic Pop",
+        "packSize": "12/2.6 OZ",
+        "itemNumber": "101520",
+        "description": "Low in Calories, Low in Fat, Vegan",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/r/original_20200520-105025_eib2rhcnzs3hetvp.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/101520-kim-s-magic-pop"
+    },
+    {
+        "name": "Assorted Taco Shells Mini Vegan",
+        "brand": "Kabobs",
+        "packSize": "150/0.25 OZ",
+        "itemNumber": "7903",
+        "description": "Petite Assorted Crispy Taco Shells.  A vibrant assortment of red, blue, and white thin and crispy corn\ntaco shells, lightly dusted with sea salt.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/0/k090320assorted20taco20shells_20220305-021431_54k9xfs3hlubb4ah.jpg",
+        "contentUrl": "https://www.gfifoods.com/7903-kabobs-mini-assorted-taco-shells"
+    },
+    {
+        "name": "Double Chocolate Chip Cookie Dough Puck",
+        "brand": "Dogwood Dessert",
+        "packSize": "240/1.5 OZ",
+        "itemNumber": "11280",
+        "description": "Dogwood Desserts Double Chocolate Chip Cookie Dough Pucks give you in-store freshness as a ready-to-bake item.  An extra chocolaty soft cookie with plenty of chocolate chips, this is a go-to item for any bakery display.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/11280_main_nwyl0rifpxk1p77h.jpg",
+        "contentUrl": "https://www.gfifoods.com/11280-dogwood-dessert-double-chocolate-chip-cookie-dough-puck-11280"
+    },
+    {
+        "name": "Yellow Concha",
+        "brand": "Southland Baking",
+        "packSize": "48/3.2 OZ",
+        "itemNumber": "110114",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_wvwac1aqvoinnsbn.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/110114-southland-baking-concha-ylw-110114"
+    },
+    {
+        "name": "Bruschetta with Garlic",
+        "brand": "Cervasi",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "103700",
+        "description": "Cervasi Bruschetta with Garlic; enjoy with your favorite toppings or dips. Sure to be a favorite as an appetizer or simply for snacking! Be sure to look for our other varieties!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/103700.jpg",
+        "contentUrl": "https://www.gfifoods.com/103700-cervasi-bruschetta-with-garlic-103700"
+    },
+    {
+        "name": "Lava Cake",
+        "brand": "La Famille",
+        "packSize": "20/4.23 OZ",
+        "itemNumber": "1047081",
+        "description": "The chocolate lava cake with a melting heart.\nTransform it into a molten heart by microwaving it for a few seconds before enjoying it. The melted chocolate is fantastic.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/a/lavacake_20240514-141108_8d3sq3u5hyy5frcl.jpg",
+        "contentUrl": "https://www.gfifoods.com/1047081-la-famille-lava-cake-1047081"
+    },
+    {
+        "name": "Brioche Slider Roll 2.56\"",
+        "brand": "Bridor",
+        "packSize": "192/0.9 OZ",
+        "itemNumber": "9922",
+        "description": "With their delicate & glossy crust, soft texture and slightly sweet taste, these mini brioche sliders will enhance the quality of your burgers and appetizers. Benefit from their versatility while being ensured that they properly hold the filling - for maximum convenience and pleasure.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60robr_uoz0ziggkm1g3bo5.jpg",
+        "contentUrl": "https://www.gfifoods.com/9922-bridor-brioche-slider-roll"
+    },
+    {
+        "name": "Everything Parmesan Crisps  Gluten Free",
+        "brand": "Parm Crisps",
+        "packSize": "12/3 OZ",
+        "itemNumber": "89315",
+        "description": "Parmesan + Sesame + Garlic + Onion   Made with 100% aged Parmesean and tasty Everything bagel toppings.  ParmCrisps are artisan-crafted, crunchy crisps made from 100% real cheese that are full of mouthwatering flavor.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/a/parmcrisps203.00oz_everything_nnfd4tm7coxwps92.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/89315-parmcrisps-everything-parmesan-crisps"
+    },
+    {
+        "name": "White Pita Bread",
+        "brand": "Falafel King",
+        "packSize": "10/14.5 OZ",
+        "itemNumber": "30716",
+        "description": "Falafel King Ready to eat PITA BREAD, pair with falafels, pitas, hummus, tzatziki, baba gannoush etc. \nMade with high quality ingredients for authentic Mediterranean taste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/h/white20pita20-20main_20210830_234242_pwgol6seucu7e8l6.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/30716-falafel-king"
+    },
+    {
+        "name": "Fig Cake With Almonds",
+        "brand": "Mitica",
+        "packSize": "1/11 LB",
+        "itemNumber": "19072",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/i/fig20almond20cake205k_20211012-165332_3iy7xsvgvgrcehyk.jpg",
+        "contentUrl": "https://www.gfifoods.com/19072-mitica-fig-cake-with-almonds-bulk"
+    },
+    {
+        "name": "Mini Mixed Berry Beignets",
+        "brand": "Bite",
+        "packSize": "16/7.05 OZ",
+        "itemNumber": "71122",
+        "description": "To be displayed in the in-store bakery department. It's a good idea to offer our French Beignets for breakfast near Brioches and other European delicacies such as waffles and crepes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/e/beignetsfr_20231124-172057_6okozxyofui4l2cf.jpg",
+        "contentUrl": "https://www.gfifoods.com/71122-bite-mini-mixed-berry-beignets-71122"
+    },
+    {
+        "name": "Mini chocolate croissant",
+        "brand": "EK Ivry",
+        "packSize": "200/1.52 OZ",
+        "itemNumber": "1047001",
+        "description": "A high-quality pain au chocolat is a flavoursome treat for breakfast or a snack. Its delicate pastry layers, made using our special levain, are expertly laminated by our dough-makers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/n/ensembleviennoiseries_20240514-125050_rlrzbuaq8igq25qr.jpg",
+        "contentUrl": "https://www.gfifoods.com/1047001-ek-ivry-mini-chocolate-croissant-1047001"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Bean & Cheese Burrito",
+        "brand": "Brett Anthony",
+        "packSize": "12/13 OZ",
+        "itemNumber": "106047",
+        "description": "Pinto Beans, Basmati Rice, and Cheese are stuffed into a flour tortilla with corn and peas.  A dash of Hot Sauce and loads of spices make this a delicious and flavorful vegetarian burrito.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/u/burrito_20240904-154936_zdhzozfyvlinuomv.jpg",
+        "contentUrl": "https://www.gfifoods.com/106047-brett-anthony"
+    },
+    {
+        "name": "St Louis Style 4 Meat Pizza",
+        "brand": "Imo's",
+        "packSize": "12/19 OZ",
+        "itemNumber": "100313",
+        "description": "The original Imo's St Louis Style 4 Meat Pizza with edge to edge toppings, crispy thin crust, our signature sauce and our unique Provel Cheese, which is a blend between cheddar, swiss, and smoked provolone.  Our pizza is loaded with full slices of bacon, pepperoni, sausage and Canadian bacon.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/o/fourmeat_1000x1000_imos2022_20240408-131730_jvmuoa8ufrkdlsk7.jpg",
+        "contentUrl": "https://www.gfifoods.com/100313-imo-s-st-louis-style-4-meat-pizza-100313"
+    },
+    {
+        "name": "Coconut Milk and Chia Seeds Oatmeal",
+        "brand": "Cuisine Solutions",
+        "packSize": "8/2 LB",
+        "itemNumber": "102246",
+        "description": "Coconut Chia Oatmeal enjoyed hot or cold. Our Lightly sweetened mix of steel cut oatmeal, chia seeds, and coconut milk is a creative alternative to refresh any breakfast or dessert menu",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/102246-cuisine-solutions"
+    },
+    {
+        "name": "Malibu Coconut Shrimp 21/25",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "465002",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/malibucoconutshrimp_a77jnbka2ysakpxa.jpg",
+        "contentUrl": "https://www.gfifoods.com/465002-gourmet-kitchen-malibu-coconut-shrimp-21-25-465002"
+    },
+    {
+        "name": "Swahili Curry Chicken & Millet Brown Rice",
+        "brand": "Global Village Foods",
+        "packSize": "6/11.5 OZ",
+        "itemNumber": "100135",
+        "description": "A vibrant curried chicken stew with potatoes, infused with coconut milk and lime juice, for the rich savory taste of the East African Coast, served with a hearty brown rice  blended with nutrient-rich millet. Sell from frozen shelf or slack & date 7 days for PFD Grab & Go.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/w/swahili-inspired-curry-chicken_20230018-074800_fcimeyeeolrvty3b.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100135-global-village-foods-swahili-curry-chickenmillet-brown-rice-100135"
+    },
+    {
+        "name": "Char Siu Pork Belly Cooked",
+        "brand": "Tetsujin",
+        "packSize": "1/22 LB",
+        "itemNumber": "42477",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/a/vacuum20pack_td7ct1ogmarc9c19.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/42477-tetsujin-fully-cooked-char-siu-pork-belly-42477"
+    },
+    {
+        "name": "Vegetable Spring Rolls Mini",
+        "brand": "Fortune Avenue",
+        "packSize": "192/.50 OZ",
+        "itemNumber": "31156",
+        "description": "Fortune Avenue’s Vegetable mini spring rolls are made with chopped cabbage carrot, onion and potato filled with an oriental style sauce then wrapped with a crispy filo pastry. Once fried the pastry will be crispy and the vegetable filling soft but not mushy with a pleasant soy sauce aroma and taste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/spring20roll20product_20210511_092295_weesodx5kjs2luf1.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/31156-fortune-avenue"
+    },
+    {
+        "name": "Shrimp Tempura",
+        "brand": "Van Lang",
+        "packSize": "200/0.90 OZ",
+        "itemNumber": "394931",
+        "description": "Juicy seasoned whole tiger shrimp coated in Van Lang Foods seasoned tempura batter. Case Count: 200 per case. COOKING INSTRUCTIONS: Deep fry from frozen in 350°F oil for 3 minutes or bake from frozen in 400°F oven for 10 minutes. Internal temperature must reach 165°F as measured by a thermometer.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/6/364000_tempura-shrimp_20221115-145846_qznax8zvbb8i6vke.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/394931-van-lang-shrimp-tempura-394931"
+    },
+    {
+        "name": "Reuben Spring Roll",
+        "brand": "Culinary Master",
+        "packSize": "100/1 OZ",
+        "itemNumber": "11069",
+        "description": "Culinary Masters Reuben Spring Rolls are a fun twist on a classic sandwich! Our spring rolls are made with slow-cooked corn beef, Swiss cheese, sauerkraut, and caraway seeds, rolled up into a bite-sized wrap. Do not thaw – cook from frozen. Deep fry at 350 for 2-3 minutes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/11069-culinary-master-reuben-spring-roll-11069"
+    },
+    {
+        "name": "Sesame Balls Gluten Free",
+        "brand": "Greenland",
+        "packSize": "10/24 CT",
+        "itemNumber": "31147",
+        "description": "Sesame seed covered pastry with sweet red bean filling inside; sweet & savory dessert, crunch on the outside, smooth & creamy filling inside. Keep frozen. Deep fry & serve",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/i/microsoftteams-image_1.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/31147-greenland-sesame-balls"
+    },
+    {
+        "name": "Beef Satay Gluten Free",
+        "brand": "Kabobs",
+        "packSize": "100/0.8 OZ",
+        "itemNumber": "5742",
+        "description": "Beef Satay.  Succulent beef on a 6\" skewer. Perfect plain or served with your favorite sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/1/k15020beef20satay_20220304-235350_tvkkvodlx2asnmlu.jpg",
+        "contentUrl": "https://www.gfifoods.com/5742-kabobs-beef-satay"
+    },
+    {
+        "name": "Butternut Squash Ravioli",
+        "brand": "Severino",
+        "packSize": "9/9 OZ",
+        "itemNumber": "210186",
+        "description": "Severino Pasta is known as the place to find authentic and richly- flavored pasta! NEW and EXCLUSIVE Severino fresh pasta line! Butternut Squash Girasole Ravioli Serves well with ANY Severino\nSauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-01-1920at202.20.5820pm_20230405-084706_ktieewmthrocbltg.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/210186-severino-butternut-squash-ravioli-210186"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Take & Bake Biscuits",
+        "brand": "Pillsbury",
+        "packSize": "120/2.2 OZ",
+        "itemNumber": "6310",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10094562062504_c1cd_20211014_1459248_tbofboahrtcj7lgi.jpg",
+        "contentUrl": "https://www.gfifoods.com/6310-pillsbury-biscuit-takebake"
+    },
+    {
+        "name": "Red Velvet Yule Log",
+        "brand": "Symphony Pastry",
+        "packSize": "2/12 IN",
+        "itemNumber": "4442",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/a/pastry_20091_20211109-161350_wmqzs8m9t5pbny7m.jpg",
+        "contentUrl": "https://www.gfifoods.com/4442-symphony-pastry-red-velvet-yule-log"
+    },
+    {
+        "name": "Olive Oile Crostini",
+        "brand": "Di Bruno",
+        "packSize": "12/7.04 OZ",
+        "itemNumber": "36998",
+        "description": "A dense twice-baked cracker drizzled with olive oil.  A delicious cracker, the perfect accompaniment to Di Bruno Bros artisan cheese spreads, your favorite charcuterie board, or just as a great snack.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/6/36998_zfkem6qpcxtigjs2.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/36998-di-bruno-crostini-olive-oil-36998"
+    },
+    {
+        "name": "Sesame & Sea Salt Olive Oil Crackers",
+        "brand": "Ines Rosales",
+        "packSize": "12/4.44 OZ",
+        "itemNumber": "198457",
+        "description": "Sesame and Sea Salt Olive Oil Crackers are made from carefully curated Mediterranean natural ingredients only, and all by hand.  These crackers are non-GMO, and oven baked. Perfect for everyday snacking, or as an addition to any cheeseboard!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/n/ine20-20sesame20sea20salt_20230106-103552_4ba3yersbce13tks.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/198457-ines-rosales-sesamesea-salt-olive-oil-crackers-198457"
+    },
+    {
+        "name": "Neapolitan Cupcake Vegan",
+        "brand": "Rubicon Bakers",
+        "packSize": "12/10 OZ",
+        "itemNumber": "101102",
+        "description": "Rubicon Bakers 4 count Vegan Neapolitan Cupcake made with a vegan devil's food cake, filled with a vegan vanilla buttercream, and topped with a vegan strawberry buttercream. Certified B corp and vegan certified.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/e/veganneapolitancupcakemain_20231101-135618_odi6sfdz5we7pmll.jpg",
+        "contentUrl": "https://www.gfifoods.com/101102-rubicon-bakers-neapolitan-cupcake-vegan-101102"
+    },
+    {
+        "name": "Limoncello Panettone Cake",
+        "brand": "Borgo de Medici",
+        "packSize": "6/26.4 OZ",
+        "itemNumber": "40490",
+        "description": "Beautiful limoncello flavored custard brings a zesty sweet citrus note to the classic panettone flavors. Borgo di Medici has been creating these beautiful Panettones for generations, making for an unmatched flavor and presentation.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/4/042b_0615_sco_0125_tfk_medium_resolution_20200731_0922328_qcos9esq1agyhc1g.jpg",
+        "contentUrl": "https://www.gfifoods.com/40490-borgo-de-medici-limoncello-panettone-cake"
+    },
+    {
+        "name": "White Chocolate Raspberry Cheesecake 14 Slices",
+        "brand": "Cheesecake Factory",
+        "packSize": "2/10 IN",
+        "itemNumber": "201154",
+        "description": "Sweet cream cheesecake swirled with raspberry and chunks of white chocolate baked on a chocolate crumb and finished with whipped cream. The Cheesecake Factory Bakery® is a global brand dedicated to creating premium, indulgent cheesecakes, layer cakes and specialty items",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10115420white20chocolate20raspberry20whole_csrrhfihbbg5jooq.jpg",
+        "contentUrl": "https://www.gfifoods.com/201154-cheesecake-factory-white-chocolate-raspberry-cheesecake-14-slices-201154"
+    },
+    {
+        "name": "Lemon Drizzle Cake Gluten Free",
+        "brand": "Yumbana GF",
+        "packSize": "4/7 OZ",
+        "itemNumber": "80480",
+        "description": "Our delicious Mt Yale Gluten Free, Dairy Free, Soy Free, Nut Free,  snack and dessert is a moist and tasty lemon cake with a light flavorful drizzle on top. It is made using fresh wholesome ingredients with just the right amount of lemon.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/_/y/_yaletop_20210521-131530_kjlyx321jb3svahm.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/80480-yumbana-gf-gluten-free-lemon-drizzle-cake"
+    },
+    {
+        "name": "Tuscan White Signature Loaf",
+        "brand": "Backerhaus",
+        "packSize": "20/17.6 OZ",
+        "itemNumber": "6092",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/i/signaturetuscanwhite_top_9zpvl9vf0vabfhze.jpg",
+        "contentUrl": "https://www.gfifoods.com/6092-backerhaus-tuscan-white-signature-loaf"
+    },
+    {
+        "name": "Natural Raspberry Kringle Vegan",
+        "brand": "Lehman's",
+        "packSize": "12/14 OZ",
+        "itemNumber": "100310",
+        "description": "Lehmann’s Bakery 9117 Durand Avenue Sturtevant, WI 53177.  Kringles are made the old fashioned way, by hand from scratch, our Kringles were voted Racine’s best and recognized as “the dough that made Racine famous”.\nMade fresh and shipped daily all over the country",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/100310-lehman-s"
+    },
+    {
+        "name": "Multigrain Bread Loaf",
+        "brand": "Izzio",
+        "packSize": "18/14 OZ",
+        "itemNumber": "272300",
+        "description": "Loaded with seven delicious seeds and grains including poppy, sesame, sunflower, pumpkin and flax seed. This bread is lightly sweetened with a touch of honey.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/u/lucky20720multigrain20take20and20bake_20210316_1554514_aoe5pcalbqfvfu8d.jpg",
+        "contentUrl": "https://www.gfifoods.com/272300-izzio-multigrain-bread-loaf"
+    },
+    {
+        "name": "Red Velvet Cake Mix",
+        "brand": "Mirage Fine Desserts",
+        "packSize": "1/25 LB",
+        "itemNumber": "425001",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/e/redvelvet_20230622-102055_pgfgaprx3ulrovlc.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/425001-mirage-fine-desserts-red-velvet-cake-mix-425001"
+    }
+]

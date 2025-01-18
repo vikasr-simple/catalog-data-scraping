@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Tomato Cheddar Soup Gluten Free",
+        "brand": "Beecher's",
+        "packSize": "6/4 LB",
+        "itemNumber": "110081",
+        "description": "Enjoy classic comfort food by indulging in our our Beecher’s Handmade Cheese; Tomato Cheddar Soup - packed with umami flavor from artisan cheese and tangy tomato. It is a Quick & Convenient Meal that is also Gluten-free.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10782045100804_tomato_cheddar_20231108_1444762_pvuq7wt4ujlnxeie.jpg",
+        "contentUrl": "https://www.gfifoods.com/110081-beecher-s-tomato-cheddar-soup-gluten-free-110081"
+    },
+    {
+        "name": "Southern Fried Chicken & Waffles",
+        "brand": "Culinary Master",
+        "packSize": "80/1 OZ",
+        "itemNumber": "161572",
+        "description": "Southern Fried Chicken breast on a house made waffle. An old southern classic, made bite size, prepared with our own blend of batter. Topped with a Vermont maple butter. Bake 15-20 at 350* from frozen.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/161572-culinary-master-southern-fried-chicken-waffles"
+    },
+    {
+        "name": "Margherita Pizza Slice",
+        "brand": "Table 87",
+        "packSize": "12/5.12 OZ",
+        "itemNumber": "113900",
+        "description": "Table 87  Coal Oven Margherita Pizza Slice feature a crispy crust that slightly charred, a tangy tomato sauce, house-made mozzarella, sprinkled grana cheese and topped with fresh basil. Table 87 one of the only pizza joints in Brooklyn serving coal fired pizza by the slice",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/table-87-margherita20slice20packaged_20200324_125133_wedaeoldcms6le7v.jpg",
+        "contentUrl": "https://www.gfifoods.com/113900-table-87-coal-oven-margherita-pizza-slice"
+    },
+    {
+        "name": "Vegetable Lo Mein",
+        "brand": "Innovasian",
+        "packSize": "4/4 LB",
+        "itemNumber": "901310",
+        "description": "Packets of lo Mein noodles, vegetable blend and lo Mein sauce. Cabbage, Celery, Onion, Carrots with a delicious sauce of soy sauce, sesame oil, tumeric, onion powder and other natural flavors and spices.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60419vegetablelomeindisplay_20230905-125024_i2x2kz1koujuegta.jpg",
+        "contentUrl": "https://www.gfifoods.com/901310-innovasian-vegetable-lo-mein-901310"
+    },
+    {
+        "name": "Georgia Shrimp & Grits Cake",
+        "brand": "Culinary Master",
+        "packSize": "100/1 OZ",
+        "itemNumber": "160600",
+        "description": "Our Southern recipe made with gulf white shrimp, smoky bacon, Vermont cheddar, roasted Poblano pepper and southern style buttered grits.\nCooking Instructions: From frozen, on a parchment lined or well greased baking sheet, bake at 375 for 14 to 16 minutes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/160600_main_20210317_141753_mngllkqcwrgogfst.jpg",
+        "contentUrl": "https://www.gfifoods.com/160600-culinary-master-georgia-shrimpgrits-cake"
+    },
+    {
+        "name": "Stuffed Shells Gluten Free",
+        "brand": "Manini's",
+        "packSize": "6/12 OZ",
+        "itemNumber": "86452",
+        "description": "Manini‚Äôs Heat & Serve Stuffed Shells are made exclusively from our proprietary Ancient Grains flour and filled with a rich cheese blend. Topped with a savory marinara sauce, this al dente gluten free dish will be a household favorite in no time at all.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/product-shells-1_20200219_1119514_ffx1julqtt6rhg35.jpg",
+        "contentUrl": "https://www.gfifoods.com/86452-manini-s-gluten-free-stuffed-shells"
+    },
+    {
+        "name": "Bacon & Swiss Sous-Vide Egg Bite Gluten Free",
+        "brand": "Trois Petits Cochons",
+        "packSize": "12/2.5 OZ",
+        "itemNumber": "904352",
+        "description": "Sous-Vide Egg Bite Bacon & Swiss Great for Breakfast or Snack on the go, Fully Cooked, Cage-free eggs, High Protein, All Natural, Gluten-Free, Low Carbohydrates, No Sugar",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00045885904357_fce_12042022_20220521-134602_kbeoppshxputkl02.jpg",
+        "contentUrl": "https://www.gfifoods.com/904352-three-pigs-sous-vide-egg-bites-bacon-swiss"
+    },
+    {
+        "name": "Coconut Chicken",
+        "brand": "Kabobs",
+        "packSize": "100/0.8 OZ",
+        "itemNumber": "12032",
+        "description": "Coconut Chicken.  A 3/4oz. strip of chicken breast dipped in a coconut batter and rolled in a mixture of shredded coconut and bread crumbs. (.80 oz. each)",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-11-0720at204.57.1020pm_20221007-165717_9359u5xfdgnyrcyt.jpg",
+        "contentUrl": "https://www.gfifoods.com/12032-kabobs-coconut-chicken"
+    },
+    {
+        "name": "Pad Thai Springroll",
+        "brand": "Kabobs",
+        "packSize": "200/1.1 OZ",
+        "itemNumber": "86301",
+        "description": "Pad Thai Springroll",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/_/1_20231129-191402_zbrzntiggvqdjd9w.jpg",
+        "contentUrl": "https://www.gfifoods.com/86301-kabobs-pad-thai-springroll"
+    },
+    {
+        "name": "Vegetable Eggrolls",
+        "brand": "Van Lang",
+        "packSize": "100/3 OZ",
+        "itemNumber": "11030",
+        "description": "A hand-crafted hors d'oeuvre filled with an assortment of traditional vegetables wrapped in a succulent egg skin wrapper. It comes in 200 pieces per case (2 packs of 100).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/g/eggrolls8203_20210929_1355385_tashxlglycxfek3a.jpg",
+        "contentUrl": "https://www.gfifoods.com/11030-van-lang-vegetable-eggrolls"
+    },
+    {
+        "name": "Pizza Kit with Tomato Sauce & Basil Pesto",
+        "brand": "My Cooking Box",
+        "packSize": "6/25.5 OZ",
+        "itemNumber": "374902",
+        "description": "Imported Pizza with pesto kit with all the ingredients pre-weighted inside the box to cook at home the italian dish. You just need to add 12 oz of mozzarella. Inside you will find:\n• Pizza mix \n• Tomato sauce\n • Extra virgin olive oil\n • Basil pesto",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/pizza_20240709-093801_x59gu7kggiufayrw.jpg",
+        "contentUrl": "https://www.gfifoods.com/374902-my-cooking-box-pizza-kit-with-tomato-saucebasil-pesto-374902"
+    },
+    {
+        "name": "Smoky Cauliflower Bisque Gluten Free",
+        "brand": "Beecher's",
+        "packSize": "6/4 LB",
+        "itemNumber": "100780",
+        "description": "Our Beecher’s Handmade Cheese; Smoky Cauliflower Bisque is both delicious and satisfying. Roasted cauliflower is the star in this rich and creamy dish.  It is a Quick & Convenient Meal that is also Gluten-free.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10782045100781_cauli_bisque_20231108_1446510_ynslnt3rxxgwxhra.jpg",
+        "contentUrl": "https://www.gfifoods.com/100780-beecher-s-smoky-cauliflower-bisque-gluten-free-100780"
+    }
+]

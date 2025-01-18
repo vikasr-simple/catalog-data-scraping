@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Chicken Egg Rolls",
+        "brand": "Innovasian",
+        "packSize": "50/2.7 OZ",
+        "itemNumber": "104000",
+        "description": "FUULY COOKED AND READY TO EAT SAVORY COOKED CHICKEN AND DELICIOUS SEASONED GREEN CABBAGE, ORANGE CARROTS, & WHITE ONIONS DELICATELY ROLLED INSIDE A CRISPY WRAPPER TO CREATE THE PERFECT APPETIZER OR SNACK",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/g/eggrollsdisplay_20240411-163218_mtgzilkwwhcl74hc.jpg",
+        "contentUrl": "https://www.gfifoods.com/104000-innovasian-chicken-egg-rolls"
+    },
+    {
+        "name": "Chicken Tortilla Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700643",
+        "description": "Chicken Tortilla Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700643-town-and-country-chicken-tortilla-soup-700643"
+    },
+    {
+        "name": "Split Pea &  Rosemary Soup",
+        "brand": "Soupergirl",
+        "packSize": "6/16 OZ",
+        "itemNumber": "100441",
+        "description": "This ain't your grandma's split pea soup. We don't mean to insult grandma, but even she would admit this is just better and that holy wowsers it’s got a lot of flavor. PS - call your grandma.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/o/soupergirlsplitpearosemaryfront_20240506-141741_ijaioa0cdpxwzhlm.jpg",
+        "contentUrl": "https://www.gfifoods.com/100441-soupergirl-split-pea-rosemary-soup-100441"
+    },
+    {
+        "name": "Homestyle Mac & Cheese",
+        "brand": "Myles Comfort Foods",
+        "packSize": "4/5 LB",
+        "itemNumber": "104372",
+        "description": "Decadent & gooey three cheese sauce consisting of heavy cream, milk, butter, gruyere, colby jack, & cheddar over classic elbow macaroni noodles with a sprinkle of Italian inspired seasoning.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00860012089406_homestylemainimage_20240724-165334.jpg",
+        "contentUrl": "https://www.gfifoods.com/104372-myles-comfort-foods"
+    },
+    {
+        "name": "Maryland Style Chowder Vegan",
+        "brand": "Soupergirl",
+        "packSize": "6/16 OZ",
+        "itemNumber": "104287",
+        "description": "The Soupergirl kitchen is in Maryland. So it's about time Soupergirl had a Maryland Chowder! Cauliflower, potato, and yes, Old Bay! The OG Maryland spice makes this soup instantly into a classic. Throw on your bib, grab your Terps hat, skip the spoon and dive straight into our new Maryland Chowder!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/g/sg_marylandchowder_front_20240612-155413_9cumxpawz4gxt3ee.jpg",
+        "contentUrl": "https://www.gfifoods.com/104287-soupergirl-maryland-style-chowder-vegan-104287"
+    },
+    {
+        "name": "Very Veggie Noodle",
+        "brand": "Soupergirl",
+        "packSize": "6/16 OZ",
+        "itemNumber": "104140",
+        "description": "If only life were as simple and beautiful as this Very Veggie Noodle Soup. We’ve slowly cooked farm fresh vegetables in a light, homemade broth. The whole wheat noodles make this soup almost whimsical. Can a soup be whimsical? This soup can! From our kitchen to yours - bon appetit!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/g/sg_veryveggienoodle_front_20240611-133730_7aqemyhpdbsr8sto.jpg",
+        "contentUrl": "https://www.gfifoods.com/104140-soupergirl-very-veggie-noodle-104140"
+    },
+    {
+        "name": "Stuffed Grape Leaves",
+        "brand": "Prince Omar",
+        "packSize": "6/4.3 LB",
+        "itemNumber": "104466",
+        "description": "Tender, spring-harvested grape leaves are delicately wrapped around a flavorful medley of rice, fresh herbs and a hint of lemon for a classic Greek mezze platter feature.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/r/grapeleavesmain_20240802-153335_13stwnpv5adpnizo.jpg",
+        "contentUrl": "https://www.gfifoods.com/104466-prince-omar"
+    },
+    {
+        "name": "Split Pea Soup With Uncured Bacon",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700483",
+        "description": "Split Pea Soup with uncured Bacon. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets.\nIt cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700483-town-and-country-split-pea-soup-with-uncured-bacon-700483"
+    },
+    {
+        "name": "Chicken Tomatillo Tamales",
+        "brand": "Texas Tamale Company Inc.",
+        "packSize": "8/18 OZ",
+        "itemNumber": "900388",
+        "description": "Texas Tamale Chicken Tomatillo Tamales Houston TX\nGluten Free\nAuthentic Tex Mex\nHeat it and Eat it\nMasa to Filling Ratio 50 to 50\nLard Free\nTraditional and Flavorful\nAll Natural Ingredients",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chickentomatillo_20230620-164834_wgouvabv9lhylb4i.jpg",
+        "contentUrl": "https://www.gfifoods.com/900388-texas-tamale-company-inc-chicken-tomatillo-tamales-900388"
+    },
+    {
+        "name": "Fettuccine and Prosciutto with Alfredo Sauce Meal Kit",
+        "brand": "Nuovo",
+        "packSize": "4/34 OZ",
+        "itemNumber": "1061001",
+        "description": "Fresh al dente fettuccine pasta coated with a rich and creamy parmesan cheese alfredo sauce, topped with ABF All Natural Prosciutto heat and serve meal kit.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/1061001-nuovo"
+    },
+    {
+        "name": "Bean & Cheese Burrito",
+        "brand": "Brett Anthony",
+        "packSize": "12/13 OZ",
+        "itemNumber": "106047",
+        "description": "Pinto Beans, Basmati Rice, and Cheese are stuffed into a flour tortilla with corn and peas.  A dash of Hot Sauce and loads of spices make this a delicious and flavorful vegetarian burrito.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/u/burrito_20240904-154936_zdhzozfyvlinuomv.jpg",
+        "contentUrl": "https://www.gfifoods.com/106047-brett-anthony"
+    },
+    {
+        "name": "Lamb Gyro Mini",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/72 CT",
+        "itemNumber": "462038",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/i/mini_gyro_r0foxnkqvh0vrhiv.jpg",
+        "contentUrl": "https://www.gfifoods.com/462038-gourmet-kitchen-lamb-gyro-mini-462038"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Greek Pork Meatball",
+        "brand": "Van Lang",
+        "packSize": "100/2.00 OZ",
+        "itemNumber": "905020",
+        "description": "A decadent meatball consisting of ground pork, Greek inspired herbs & seasonings & gluten free panko breadcrumbs hand formed into 2oz balls. Served with a dipping sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/r/greekporkmeatball_20231130-144913_8tzzogdz3o1klsne.jpg",
+        "contentUrl": "https://www.gfifoods.com/905020-van-lang-greek-pork-meatball-905020"
+    },
+    {
+        "name": "General Tso's Chicken Breast",
+        "brand": "Innovasian",
+        "packSize": "4/4 LB",
+        "itemNumber": "402001",
+        "description": "InnovAsian General Tso's Chicken is fully Cooked, Frozen, RTE Tempura Chicken White Meat with General Tso's Asian BBQ Sauce, dried Red Chli Peppers and Sesame Seeds.  Zero trans fat per serving. No artificial MSG Added.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/402001-innovasian-general-tso-s-chicken-breast-402001"
+    },
+    {
+        "name": "Goat Cheese Stuffed Dates Wrapped in Applewood Smoked Bacon",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "461028",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/t/stuffeddatesmain_zr3h3himfmyaw7be.jpg",
+        "contentUrl": "https://www.gfifoods.com/461028-gourmet-kitchen-goat-cheese-stuffed-dates-wrapped-in-applewood-smoked-bacon-461028"
+    },
+    {
+        "name": "Jalapeno Cheese & Bacon Wrapped Chicken",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "26105",
+        "description": "Bacon Wrapped Chicken with Jalapeno Cheese",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/6/k610520bacon20wrapped20chicken_20220304-232522_lcyark966oxf7dcy.jpg",
+        "contentUrl": "https://www.gfifoods.com/26105-kabobs-bacon-wrapped-chicken-w-jalapeno-cheese"
+    },
+    {
+        "name": "Iberico Pork Empanadas",
+        "brand": "José Andrés",
+        "packSize": "12/8 OZ",
+        "itemNumber": "1038451",
+        "description": "Galician Style Pastries filled with Pork and Vegetables. Our dough contains gourmet Spanish Olive Oil and our famous paprika \"pimentos\" and the filling is made with pork meat and slowly cooked vegetables.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/1038451-jose-andres-iberico-pork-empanadas-1038451"
+    },
+    {
+        "name": "Mac & Cheese Ravioli",
+        "brand": "Nuovo",
+        "packSize": "6/9 OZ",
+        "itemNumber": "58014",
+        "description": "The Nuovo Mac N Cheezy Fun Raviolis mimic the classic boxed Mac & Cheese almost exactly and are made in a fun fish novelty shape so they both look good and taste good.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mac_n_cheezy_x8ubxjjuh8ytzwkd.jpg",
+        "contentUrl": "https://www.gfifoods.com/58014-nuovo-pasta-mac-n-cheezy-fun-ravs"
+    },
+    {
+        "name": "Peach Pie Empanada",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "716311",
+        "description": "Peaches paired with smooth custard like flavors of mascarpone cheese, wrapped in a masa-style mini pastry turnover. Providing a decadent sweet balance to your breakfast or dessert.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202023-02-0120at203.56.5320pm_20230101-155711_gwvfv5kyzi520suy.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/716311-kabobs-peach-pie-empanada-716311"
+    },
+    {
+        "name": "Memphis BBQ Pork Slider",
+        "brand": "Culinary Master",
+        "packSize": "80/1 OZ",
+        "itemNumber": "161576",
+        "description": "Slow smoked pulled pork with BBQ sauce and a mini dill pickle on a freshly baked onion bun.\nCooking Instructions: From frozen, on a parchment lined or well greased baking sheet, bake at 300 for 15 to 18 minutes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/161576_main_20210317_1443425_ivgs9ohuvemrgyhk.jpg",
+        "contentUrl": "https://www.gfifoods.com/161576-culinary-master-memphis-bbq-pork-slider"
+    },
+    {
+        "name": "Porcini Mushroom Risotto Croquette",
+        "brand": "Gourmet Kitchen",
+        "packSize": "1/100 CT",
+        "itemNumber": "461108",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/main_20231031_0905451_53w68juj9iyycak6.jpg",
+        "contentUrl": "https://www.gfifoods.com/461108-gourmet-kitchen-porcini-mushroom-risotto-croquette-461108"
+    },
+    {
+        "name": "Curry Vegetable Samosa 2 Pack",
+        "brand": "Global Village Foods",
+        "packSize": "12/6 OZ",
+        "itemNumber": "35697",
+        "description": "CURRY VEGETABLE SAMOSA\nCurried potato, peas, carrots, cabbage, scallions, cilantro, peppers, herbs and spices stuffed & cooked into a delicate, flaky-chewy crust. - \nVegan • Nut • Sesame FREE!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/v/gvf-veg20somosa202pk_20220103-174550_w7q74dnmqha5zy7a.jpg",
+        "contentUrl": "https://www.gfifoods.com/35697-global-village-foods-curry-vegetable-samosa"
+    },
+    {
+        "name": "St. Louis Style Cheese Pizza",
+        "brand": "Imo's",
+        "packSize": "12/16.5 OZ",
+        "itemNumber": "100311",
+        "description": "The original Imo's St Louis Style Cheese Pizza with edge to edge toppings, crispy thin crust, our signature sauce and our unique Provel Cheese, which is a blend between cheddar, swiss, and smoked provolone.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/cheese_1000x1000_imos2022_20240409-113238_5ofc991j0tkjsvii.jpg",
+        "contentUrl": "https://www.gfifoods.com/100311-imo-s-st-louis-style-cheese-pizza-100311"
+    },
+    {
+        "name": "72 Hour Seared Beef Short Ribs",
+        "brand": "Cuisine Solutions",
+        "packSize": "7/34.9 OZ",
+        "itemNumber": "421292",
+        "description": "Slow-cooked in their own juices for 72 hours, our extraordinarily moist short ribs feature intense flavor and delicate texture — the quintessential sous-vide dish.​",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/421292-cuisine-solutions-72-hour-seared-beef-short-ribs-421292"
+    }
+]

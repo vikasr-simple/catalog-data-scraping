@@ -1,0 +1,19 @@
+{
+  "name": "heindelbergstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "dev": "node jsontoCsv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}

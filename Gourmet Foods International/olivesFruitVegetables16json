@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Sundried Tomatoes Marinated",
+        "brand": "La Medina",
+        "packSize": "3/3 LB",
+        "itemNumber": "91733",
+        "description": "Drying under the sun locks in the flavor of these naturally sweet, robust tomatoes. Our authentic blend of spices gives them a mouth-watering zesty taste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/1/91733-2_20191010_1541809_uvrkywcakvspmrus.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/91733-la-medina-marinated-sundried-tomatoes"
+    },
+    {
+        "name": "Cornichons",
+        "brand": "Martin Pouret",
+        "packSize": "6/270 GR",
+        "itemNumber": "100582",
+        "description": "Maison Martin-Pouret has been developing unique know-how. Being in a pickle means being in trouble. There’s no trouble where our pickled gherkins are concerned. We select the best from the Loire Valley and prepare them in the best Orléans vinegar – ours.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/1/3165350000005_20230627-154954_vkb6vhyyv5p4fdrn.jpg",
+        "contentUrl": "https://www.gfifoods.com/100582-martin-pouret-cornichons-100582"
+    },
+    {
+        "name": "Pickled Okra",
+        "brand": "Doux South",
+        "packSize": "1/2 GA",
+        "itemNumber": "407346",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/k/okra-items_20201013_1005497_4skund23jfuoxprq.jpg",
+        "contentUrl": "https://www.gfifoods.com/407346-doux-south-okra-pickled"
+    },
+    {
+        "name": "Coquillo Nicosie Style Olives Unpitted",
+        "brand": "Barnier",
+        "packSize": "1/11 LB",
+        "itemNumber": "1403",
+        "description": "Mouthwatering flavors of smoky, savory earth combine and contrast with notes of bright fruit in these hand-harvested olives. While related to the classic French olives, our Coquillos are grown in Spain, making them a perfect stand-in for Salade Nicoise.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/r/fr403-2_20191008_1621762_unnmyh2nsfhmr3zu.jpg",
+        "contentUrl": "https://www.gfifoods.com/1403-barnier-coquillo-nicosie-style-unpitted-olives"
+    },
+    {
+        "name": "Phat Beets",
+        "brand": "Rick's Picks",
+        "packSize": "1/5 GA",
+        "itemNumber": "70613",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/0/70613_main_qv9queudap1vanvt.jpg",
+        "contentUrl": "https://www.gfifoods.com/70613-ricks-picks-phat-beets"
+    },
+    {
+        "name": "Soybean Edamame Shelled",
+        "brand": "Simplot",
+        "packSize": "6/2.5 LB",
+        "itemNumber": "410081",
+        "description": "Great source of protein in a plant-based dish; High quality, farm-fresh flavor and color; Reduces costly labor—just heat and serve; Consistent year-round quality and pricing",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/1/41008120main_20210512_0727304_wc272nzbgpmk9r33.jpg",
+        "contentUrl": "https://www.gfifoods.com/410081-simplot"
+    },
+    {
+        "name": "Pepperoncini Greek Whole",
+        "brand": "Divina",
+        "packSize": "4/1 GA",
+        "itemNumber": "41222",
+        "description": "The quintessential Greek pepper, pepperoncini are crunchable, munchable, bright and bold. The unmistakable flavor profile - tangy, fruity, piquant with a touch of heat - makes this a perfect topping for salads and vegetable kabobs.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0070-1_20211111_1143568_20211029-075056_yd1iicrlnxw0lrap.jpg",
+        "contentUrl": "https://www.gfifoods.com/41222-divina-whole-greek-pepperoncini"
+    },
+    {
+        "name": "Frescatrano Olives Pitted",
+        "brand": "Foodmatch",
+        "packSize": "18/6 OZ",
+        "itemNumber": "189700",
+        "description": "Vividly green, mild and sweet, big and juicy...how do we do it? The Frescatrano™ is a Greek Halkidiki olive gently cured without fermentation and kept refrigerated to preserve its freshness. This is a party-starter olive known to delight a crowd",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/8/18970-2_20210126_0934642_ed18zhg9o1ed4kxb.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/189700-foodmatch-frescatrano-olives-pitted"
+    },
+    {
+        "name": "Wild Mushroom Mix",
+        "brand": "Divina",
+        "packSize": "4/3.3 LB",
+        "itemNumber": "55050",
+        "description": "This is no ordinary mushroom mix. A delightful and diverse blend (Nameko, Straw, Roundheads and Saffron Milkcap), we love the garlicky and vinegary marinade that adds brightness to a wide range of dishes from pasta to grilled cheese to frittatas.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/5/55050-wild_mushroom_mix-product_20210818_1429977_zigyrw2epxqovii8.jpg",
+        "contentUrl": "https://www.gfifoods.com/55050-divina-wild-mushroom-mix-in-pail"
+    },
+    {
+        "name": "Italian Olive Mix In Oil  Pitted",
+        "brand": "Divina",
+        "packSize": "1/15.5 LB",
+        "itemNumber": "301070",
+        "description": "A summer afternoon visit to an outdoor market provides the inspiration for this delightful mix of olives, aromatic herbs, whole garlic cloves and sweet red and yellow peppers. The flavor profile is sweet, garlicky and savory, and we love to toss it into couscous with fresh Parmigiano-Reggiano.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/0/30107-1_20211111_121874_dyytyq0fw4d3ef55.jpg",
+        "contentUrl": "https://www.gfifoods.com/301070-divina-olive-mix-italian-pitted-in-oil"
+    },
+    {
+        "name": "Red Peppadew Peppers Whole In Tin",
+        "brand": "Peppadew",
+        "packSize": "2/105 OZ",
+        "itemNumber": "7000542",
+        "description": "Peppadew® puts the pep in peppers! A uniquely piquant, sweet/spicy fruit from South Africa, these peppers are snackable, stuffable and poppable. Peppadew are a versatile fusion ingredient that can be used everywhere from cheese plates to pizzas to Asian stir-frys.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00054-2_20190910_1131229_nrw9leav9xvdr7o1.jpg",
+        "contentUrl": "https://www.gfifoods.com/7000542-peppadew-whole-red-peppadew-peppers-in-tin"
+    },
+    {
+        "name": "Figs Migos Pajarero",
+        "brand": "Mitica",
+        "packSize": "10/5.2 OZ",
+        "itemNumber": "27619",
+        "description": "The Pajarero fig are grown in Spain, these dried delicacies are sweet and mild, with a tender bite. The figs are hand selected at the end of August when the Pajarero starts to fall from the tree, signaling they are ripe. Pair with fresh fruit or nuts.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/i/migos2_20200611_1646181_tskv6ovr57ongd9c.jpg",
+        "contentUrl": "https://www.gfifoods.com/27619-mitica-migos-pajarero-figs"
+    }
+]

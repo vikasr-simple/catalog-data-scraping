@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Cinnamon Rolls",
+        "brand": "Rolfs Kolaches",
+        "packSize": "8/10 OZ",
+        "itemNumber": "100225",
+        "description": "Cinnamon Roll Kolaches\nWe are proud members of \"GO TEXAN\" association, where we celebrate and support agricultural products, culture and communities that call Texas home.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/i/cinnamon20roll20main_byz28jqtmpd0qln6.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/100225-rolfs-kolaches-cinnamon-rolls-microwavable-tray-100225"
+    },
+    {
+        "name": "Everything Bagel",
+        "brand": "Brooklyn Bagel",
+        "packSize": "75/4 OZ",
+        "itemNumber": "60921",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60921_main_20220321-093515_qovi8wautoloj55j.jpg",
+        "contentUrl": "https://www.gfifoods.com/60921-brooklyn-bagel-everything-bagel"
+    },
+    {
+        "name": "Golden Sponge Cake Mix",
+        "brand": "Komplet",
+        "packSize": "1/50 LB",
+        "itemNumber": "31264",
+        "description": "Description: Golden Sponge Cake Mix is an easy-to-use cake with the texture of a European sponge and the moistness of an American hi ratio cake.\nSuggested Application: Golden Sponge Cake Mix produces a moist golden cake with a fine texture. This cake mix is great for layers, sheets or cupcakes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/2/62039.0120back_aebqeek8qjxoxdyu.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/31264-komlet-golden-sponge-cake-mix"
+    },
+    {
+        "name": "Plain Bagel Crisps",
+        "brand": "New York Style",
+        "packSize": "6/6 OZ",
+        "itemNumber": "1152806",
+        "description": "New York Style Bagel Crisps are great with deli type items like cheese, spreads, meat items. This item can also be used as individual snack item without any carrier type items added to it.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00081363528066_plainfront_1152897_20220503-091753_qbzpfxbul10m35rc.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/1152806-new-york-style-new-york-style-plain-bagel-crisps-1152806"
+    },
+    {
+        "name": "Orange and Almond Mini Cake",
+        "brand": "L'amour de Paris",
+        "packSize": "12/5.64 OZ",
+        "itemNumber": "900814",
+        "description": "Orange Almond Mini Cake is a delicious individual treat that combines the highest quality orange flavoring, almond-flavored pastry cream, dried orange pieces and actual almonds - to elevate the eating experience to the top.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/main_orangemini_20240514-084801_bujm9xoqjgfdtroj.jpg",
+        "contentUrl": "https://www.gfifoods.com/900814-l-amour-de-paris-orange-and-almond-mini-cake900814"
+    },
+    {
+        "name": "Pumpkin Pie French Macaron",
+        "brand": "Duverger",
+        "packSize": "1/72 CT",
+        "itemNumber": "314720",
+        "description": "Pumpkin Pie French Macaron\nWe are 100% all-natural and all our macarons are handmade with the highest quality ingredients in a Gluten Free facility. Our products do not contain any artificial colors, preservatives, flavorings or compounds.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/1/314_pumpkin_20230614-155233_swumgg3yvpg6oyea.jpg",
+        "contentUrl": "https://www.gfifoods.com/314720-duverger-pumpkin-pie-french-macaron-314720"
+    },
+    {
+        "name": "Original Baked Pretzel",
+        "brand": "One and Only",
+        "packSize": "24/5.29 OZ",
+        "itemNumber": "12507",
+        "description": "Large fully baked classic pretzel made in Germany",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/8/1814_laugenbrezel150g_msalz_fb_20200217-234203_fyvbalyqn3jkyfwf.jpg",
+        "contentUrl": "https://www.gfifoods.com/12507-one-and-only-original-baked-pretzel-dough"
+    },
+    {
+        "name": "3 Seed Bread Mix",
+        "brand": "A & S",
+        "packSize": "1/50 LB",
+        "itemNumber": "30964",
+        "description": "Description: Three Seed Variety Bread & Roll Mix is a special blend of wheat flour, hemp flour, flaxseed and sesame seeds which gives this bread its unique color and rich flavor.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/1/61050.0120front_ix0ksogbtqmtwk0f.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/30964-as-3-seed-bread-mix"
+    },
+    {
+        "name": "Cornbread Loaves 2 oz",
+        "brand": "Muffin Town",
+        "packSize": "10/12 CT",
+        "itemNumber": "28705",
+        "description": "Ideal For Bakery, Salad Bar, Soup Bar, Bbq Dept. Or At The Check Out, Muffin Town Cornbread Loaves Or Pans Are Irresistible. Folks Everywhere Also Love The Spicy Taste Of Our Jalapeno Cornbread.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/8/28705_z0xtnf0zgopqvhzz.jpg",
+        "contentUrl": "https://www.gfifoods.com/28705-muffin-town-cornbread-loaves"
+    },
+    {
+        "name": "Oatmeal Raisin Cookie Dough",
+        "brand": "Rich's",
+        "packSize": "252/1.45 OZ",
+        "itemNumber": "39119",
+        "description": "Christie Cookie Co. premium oatmeal raisin cookie dough is loaded with delicious, whole, plump raisins, real oats and Heath® toffee pieces, made with 100% butter.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/9/3911920oatmeal20cc_20210430_1055768_q6gmlm7pgsv4rmah.jpg",
+        "contentUrl": "https://www.gfifoods.com/39119-richs-oatmeal-raisin-cookie-dough"
+    },
+    {
+        "name": "Sugar Cookie Snack Cake",
+        "brand": "Rubicon Bakers",
+        "packSize": "6/14 OZ",
+        "itemNumber": "31251",
+        "description": "Sugar cookie flavored cake and icing, topped with sugar cookie crumbles and rainbow sprinkles. Clean ingredients, No artificial flavors, colors, or preservatives, Made from scratch, Hand-finished, Certified Kosher.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/1/01251_sugar20cookie20snacking20cake_package_20220125-143659_bpoxfvrjjasw9pmh.jpg",
+        "contentUrl": "https://www.gfifoods.com/31251-rubicon-bakers31251"
+    },
+    {
+        "name": "Rice Paper 8 Inch Round",
+        "brand": "Greenland",
+        "packSize": "44/12 OZ",
+        "itemNumber": "198882",
+        "description": "RICE PAPER 8-INCH (22 CM) ROUND FOR VIETNAMESE SPRING ROLLS.\nReconstitute by soaking in water & use as Vietnamese spring roll wrapper.\nKeep dry until use.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_2121_kengh1ufdfnzoezf.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/198882-greenland-rice-paper-8-inch-round-198882"
+    }
+]

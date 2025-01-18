@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Hot Pepper Cheddar Cuts",
+        "brand": "Plymouth",
+        "packSize": "12/8 OZ",
+        "itemNumber": "40042",
+        "description": "8 oz. block. Hot Pepper is the high-desert lovechild of a Tex-Mex daydream and the signature Plymouth Original. A natural raw artisanal milk version of an American pepperjack, this hearty cheese, which is aged for sixty days, turns up the heat and buzzes with flavor. Some bites will have more kick t",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/p/hp.main_20210211_231750_r1hbn8ixaqa7lvte.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/40042-plymouth-hot-pepper-cheddar"
+    },
+    {
+        "name": "French Raclette Wheel",
+        "brand": "Livradois",
+        "packSize": "1/14 LB",
+        "itemNumber": "50075",
+        "description": "Raclette may be the world's most famous melting cheese, and deservedly so. It's made in the Savoie region of the Alps, in Switzerland and in France. Our French Raclette cheese is made of raw cow's milk and matured for at least 5 months in respect to the French tradition.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/i/livradois20-20raclette206kg20haut20livradois20thermi_20181114_125473_k97sk6i1leilk5wu.jpg",
+        "contentUrl": "https://www.gfifoods.com/50075-livradois-raclette"
+    },
+    {
+        "name": "Gouda Snack Bar",
+        "brand": "Castello",
+        "packSize": "24/.75 OZ",
+        "itemNumber": "101667",
+        "description": "Gouda is a traditional, mild and semi-soft cheese of Dutch origin. Castello Gouda is made with homogenized part-skim milk and is a sweet-curd cheese similar to Edam except that it contains more fat. Pleasantly creamy, full-flavored with a nutty, buttery flavor and touch of sweetness.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/0/702142_main_20231024_0829967_4lruky8ryc8vrbza.jpg",
+        "contentUrl": "https://www.gfifoods.com/101667-castello-gouda-snack-bar-101667"
+    },
+    {
+        "name": "Aged Cheddar Cuts",
+        "brand": "Kerrygold",
+        "packSize": "12/7 OZ",
+        "itemNumber": "136885",
+        "description": "Rich, rounded flavor, distinctive, creamy taste and firm, smooth body. Kerrygold Aged Cheddar appeals to those looking for a milder taste while keeping a full flavor profile. The creamy consistency of Aged Cheddar makes it ideal for both snacking and cooking.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/1/s1_1.jpg",
+        "contentUrl": "https://www.gfifoods.com/136885-kerrygold-aged-cheddar-136885"
+    },
+    {
+        "name": "Pepper Jack Longhorn Half Moon",
+        "brand": "Buckhead Valley",
+        "packSize": "1/10 LB",
+        "itemNumber": "42690",
+        "description": "Pepper Jack Cheese is a cheese that is just begging to be melted. It's naturally mild and buttery in taste, but of course we spice it up with  jalapeno peppers, chilies, and garlic to give it an extra punch that turns plain old jack cheese into Pepper Jack!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/2/42690_main_image_ebewjd7pcw8a30ix.jpg",
+        "contentUrl": "https://www.gfifoods.com/42690-buckhead-valley-pepper-jack-longhorn-half-moon"
+    },
+    {
+        "name": "Traditional Cream Cheese",
+        "brand": "Sierra Nevada",
+        "packSize": "12/7 OZ",
+        "itemNumber": "15824",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/n/sncc-creamcheesespread_s6uurxbiaud2zckn.jpg",
+        "contentUrl": "https://www.gfifoods.com/15824-sierra-nevada-traditional-cream-cheese"
+    },
+    {
+        "name": "Pepper Jack Sliced Orangic",
+        "brand": "Rumiano Organic",
+        "packSize": "12/6 OZ",
+        "itemNumber": "71451",
+        "description": "Rumiano Organic Sliced Pepper Jack has a mildly spicy flavor with a very smooth texture. Our Sliced Pepper Jack is Organic, Non-GMO Project Verified, Kosher, Certified American Humane and rBST Free.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/714510-206oz.20rfo20sliced20pepper20jack_uvggjhyevysalggj.jpg",
+        "contentUrl": "https://www.gfifoods.com/71451-rumiano-organic-organic-sliced-pepper-jack"
+    },
+    {
+        "name": "Parmesan Wedge",
+        "brand": "Aplenty",
+        "packSize": "12/5 OZ",
+        "itemNumber": "137931",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/3/13793120main_ua2bgtnrotnqpzo8.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/137931-aplenty-parmesan-wedge-137931"
+    },
+    {
+        "name": "Irish Cheddar Chunk",
+        "brand": "Aplenty",
+        "packSize": "12/7 OZ",
+        "itemNumber": "137930",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/3/137930_main_gukjot2rriteujay.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/137930-aplenty-irish-cheddar-137930"
+    }
+]

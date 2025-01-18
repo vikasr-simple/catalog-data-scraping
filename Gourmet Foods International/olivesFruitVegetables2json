@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Kosher Dill Crosscuts",
+        "brand": "Patriot Pickle",
+        "packSize": "1/5 GA",
+        "itemNumber": "103665",
+        "description": "Patriot Pickle Kosher Dill Chips Crinkle Cut 1/8\" \nCOLOR: OPAQUE LIGHT GREEN WITH DARK GREEN SKINS.\n FLAVOR: MILDLY ACIDIC WITH GARLIC FLAVOR\nTEXTURE: CRISP, FIRM, CRUNCHY",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/d/kdcrosscuts5gal_20240329-095938_s8cepvq8xarkdclp.jpg",
+        "contentUrl": "https://www.gfifoods.com/103665-patriot-pickle-kosher-dill-crosscuts-103665"
+    },
+    {
+        "name": "Pickles Spicy and Sweet",
+        "brand": "Mcclure's",
+        "packSize": "6/16 OZ",
+        "itemNumber": "147100",
+        "description": "Sweet Spicy Slices in 16oz jars from McClure's Pickles. Our products are all-natural, gluten-free (pickles, relish, bloody mary, all-natural chips, brine), and kosher certified (Michigan Kosher Supervisors, OU).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/w/sweetspicy-front_20240510-203640_a9cbamulxz3qnu5y.jpg",
+        "contentUrl": "https://www.gfifoods.com/147100-mcclure-s-pickles-spicy-and-sweet-147100"
+    },
+    {
+        "name": "Spicy Dill Whole Pickles",
+        "brand": "Mcclure's",
+        "packSize": "6/16 OZ",
+        "itemNumber": "150100",
+        "description": "Spicy Dill Whole Pickles in 16oz jars from McClure's Pickles. Our products are all-natural, gluten-free (pickles, relish, bloody mary, all-natural chips, brine), and kosher certified (Michigan Kosher Supervisors, OU).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/spicywhole-front_20240510-202411_jfdxvvevm1vdp1r5.jpg",
+        "contentUrl": "https://www.gfifoods.com/150100-mcclure-s-spicy-dill-whole-pickles-150100"
+    },
+    {
+        "name": "Garlic Dill Whole Pickles",
+        "brand": "Mcclure's",
+        "packSize": "6/16 OZ",
+        "itemNumber": "149100",
+        "description": "Garlic Dill Whole Pickles in 16oz jars from McClure's Pickles. Our products are all-natural, gluten-free (pickles, relish, bloody mary, all-natural chips, brine), and kosher certified (Michigan Kosher Supervisors, OU).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/a/garlicdillwhole-front_20240510-141926_myyoiqjd4gkckhno.jpg",
+        "contentUrl": "https://www.gfifoods.com/149100-mcclure-s-garlic-dill-whole-pickles-149100"
+    },
+    {
+        "name": "Mediterranean Olive Party Board",
+        "brand": "Ficacci",
+        "packSize": "6/1.65 LB",
+        "itemNumber": "1000171",
+        "description": "A 1.65 lb tray includes three olive varieties, all packaged liquidless without any brine or oil. The tray is made up of 87% paper and 13% plastic. Remember to free the board from the plastic before disposing of it. The paper part can be recycled if clean and dry, while the plastic is general waste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/1000171-med20platter_front_otywxrfgjyrvxcix.jpg",
+        "contentUrl": "https://www.gfifoods.com/1000171-ficacci-mediterranean-olive-party-board-1000171"
+    },
+    {
+        "name": "Spicy Dill Pickles Coin Slices",
+        "brand": "Mcclure's",
+        "packSize": "6/16 OZ",
+        "itemNumber": "146146",
+        "description": "Spicy Dill Coin Slice Pickles in 16oz jars from McClure's Pickles. Our products are all-natural, gluten-free (pickles, relish, bloody mary, all-natural chips, brine), and kosher certified (Michigan Kosher Supervisors, OU).",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/spicyslices-front_20240503-104147_wtvtfn1we3e8zv13.jpg",
+        "contentUrl": "https://www.gfifoods.com/146146-mcclure-s-spicy-dill-pickles-coin-slices-146146"
+    },
+    {
+        "name": "Greek Pitted Olive Mix",
+        "brand": "Fresh Pack",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "87918",
+        "description": "A zesty mix of some of Greece’s finest olives, harvested at peak ripeness and packed with a blend of aromatic herbs and spices. An easy appetizer and crowd favorite, these olives are a stunning addition to any cheese plate or charcuterie board.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofmigrede150_p_20190621_0328237_ogwfqmvuuikkvmsd.jpg",
+        "contentUrl": "https://www.gfifoods.com/87918-fresh-pack-greek-pitted-olive-mix"
+    },
+    {
+        "name": "Olive Bruschetta",
+        "brand": "Fresh Pack",
+        "packSize": "12/6 OZ",
+        "itemNumber": "87909",
+        "description": "Chopped green and black olives with capers and hot and sweet peppers make up this Olive Bruschetta. All you have to do is open the package for a healthy snack alongside cheese, in pasta or salad, or as part of an appetizer spread with cured meats.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofbruli170_p_20190621_0311964_j3ote6r2khmutcnk.jpg",
+        "contentUrl": "https://www.gfifoods.com/87909-fresh-pack-olive-bruschetta"
+    },
+    {
+        "name": "Italian Pitted Olives Mix",
+        "brand": "Fresh Pack",
+        "packSize": "12/4.4 OZ",
+        "itemNumber": "87916",
+        "description": "A delicious medley of Italian black and green olives mixed with peppers and spices. Use these olives in your favorite salad to bring a truly authentic Italian flavor to your table. Great for snacking as well!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofdendole125_p_20190621_0325484_boskxvosd0vicb3v.jpg",
+        "contentUrl": "https://www.gfifoods.com/87916-fresh-pack-italian-pitted-olive-mix"
+    },
+    {
+        "name": "Castelvetrano Olives Pitted",
+        "brand": "Fresh Pack",
+        "packSize": "12/4.4 OZ",
+        "itemNumber": "87913",
+        "description": "Castelvetrano Olives are buttery, rich, and delectable. With a mild flavor that's both salty and sweet, they are appealing to both olive connoisseurs and those who tend to stay away from stronger, brinier varieties. Pairs well with a glass of wine.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofdolde125_p_20190621_0316274_w5hyamaixphfejgx.jpg",
+        "contentUrl": "https://www.gfifoods.com/87913-fresh-pack-castelvetrano-pitted-olives"
+    },
+    {
+        "name": "Hot and Sweet Peppers",
+        "brand": "Fresh Pack",
+        "packSize": "12/7.1 OZ",
+        "itemNumber": "87900",
+        "description": "Hot and Sweet Red Peppers are pickled in a sweet white wine brine, resulting in an irresistible crisp texture similar to a pickle. Their vibrant color and earthy flavor are a wonderful addition to salads, pizzas, sandwiches, and dips",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofpepe200_p_20190621_0251507_eqsnvzq7hkre4i63.jpg",
+        "contentUrl": "https://www.gfifoods.com/87900-fresh-pack-hot-and-sweet-peppers"
+    },
+    {
+        "name": "Daikon Radish Kimchi",
+        "brand": "Simply Kimchi",
+        "packSize": "12/16 OZ",
+        "itemNumber": "80886",
+        "description": "A Korean kimchi made with daikon radish,  fermented along with Korean red pepper flake, green onions, apples, garlic, ginger, and onions. Fermented foods have a dynamic flavor profile: our fresh kimchi's spice and strong vegetal notes mellow out for a rich flavor",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/3802web_20191112_1322288_urqxkxpfainhogqf.jpg",
+        "contentUrl": "https://www.gfifoods.com/80886-simply-kimchi-daikon-radish-kimchi"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "White Chocolate Macadamia Cookie Dough",
+        "brand": "Rich's",
+        "packSize": "252/1.45 OZ",
+        "itemNumber": "39113",
+        "description": "Christie Cookie Co. premium white chocolate macadamia nut cookie dough is chalk-full of perfectly placed macadamia nuts cozied up with delectable, real white chocolate and Heath® toffee pieces, made with 100% butter.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/9/3911320wcm20cc_20210430_0932596_oklbjgvfunj7buwa.jpg",
+        "contentUrl": "https://www.gfifoods.com/39113-richs-white-chocolate-macadamia-nut-cookie-dough"
+    },
+    {
+        "name": "Ciabatta Sandwich Sliced 3\" x 7\"",
+        "brand": "Eurobake",
+        "packSize": "72/4.2 OZ",
+        "itemNumber": "222448",
+        "description": "Ciabatta sandwich roll with a light, airy, moist interior and excellent crust. Pre-sliced for your convenience                            \nThaw & Serve Sandwich Carrier",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/2/222448ciabattasandwich_20240611-124355_98wy6czvomlvqmmt.jpg",
+        "contentUrl": "https://www.gfifoods.com/222448-eurobake222448"
+    },
+    {
+        "name": "Chocolate Peppermint Cookie",
+        "brand": "Cookies United",
+        "packSize": "1/5 LB",
+        "itemNumber": "6037115",
+        "description": "White Chocolate Peppermint Cookie is a chocolate cookie coated in icing and decorated with crushed candy canes. Contains: Wheat, Soy, Egg, Milk. Net weight 5 lbs. Shelf life Dry 8-10 weeks.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolate20peppermint_20210920-121223_xeuqaxyfqe6jrzsf.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/6037115-cookies-united-chocolate-peppermint-cookie"
+    },
+    {
+        "name": "Everything Mediterranean Crackers",
+        "brand": "Firehook",
+        "packSize": "8/5.5 OZ",
+        "itemNumber": "25132",
+        "description": "Firehook's Everything Like the Bagel Flavor inspired by everyone's favorite NY bagel, we took the best part off the top and baked it with crunch. Enjoy with herbed chevre, crushed avocado, or your favorite dip.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/r/front_20190731_1502317_20191202_1011433_0s8kjpfeb3ydp2kb.jpg",
+        "contentUrl": "https://www.gfifoods.com/25132-manini-s-organic-everything-cracker"
+    },
+    {
+        "name": "Coffee Macarons",
+        "brand": "Alon's",
+        "packSize": "2/35 CT",
+        "itemNumber": "10590",
+        "description": "Coffee Macaron",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10590_top20side_20191205_0957465_czonhqwiun26rcis.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/10590-mccadam-coffee-macarons"
+    },
+    {
+        "name": "Mediterranean Taralli",
+        "brand": "Casa Milo",
+        "packSize": "12/8.8 OZ",
+        "itemNumber": "6993",
+        "description": "Taralli, made with simple and natural ingredients, then steam baked to make sure they get their distinctive fragrance and the golden color. They are the secret to making irresistible aperitifs or a crispy alternative to bread on your table.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/9/699320main_20201214_1336818_1qpmfchzr0gl18mk.jpg",
+        "contentUrl": "https://www.gfifoods.com/6993-casa-milo-mediterranean-taralli"
+    },
+    {
+        "name": "Sweet Pan Sabao Bread Baked",
+        "brand": "Cidrines",
+        "packSize": "28/7.1 OZ",
+        "itemNumber": "1061139",
+        "description": "Cidrines offers you an exquisite and tasty variety of breads. Among its most recognized products are: Sobao bread , Creole, integral and frozen. Satisfying the tastes and variety that our consumers like so much.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/bakery/1061139-cidrines-pan-sobao-fb-us-1061139"
+    },
+    {
+        "name": "Chocolate Filled Croissant 6 Pack",
+        "brand": "Bakerly",
+        "packSize": "8/9.52 OZ",
+        "itemNumber": "2014",
+        "description": "An authentic French chocolate croissant recipe that will elevate your next breakfast, brunch or snack experience. Includes 6 individually wrapped and ready to eat chocolate croissants. Happiness is just a bite away!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/n/e/new_chocolate_croissants_20190919_1035270_4s8cjwxfwk3uryzz.jpg",
+        "contentUrl": "https://www.gfifoods.com/2014-bakerly-chocolate-filled-croissant"
+    },
+    {
+        "name": "Classic Cheesecake",
+        "brand": "Cheesecake Factory",
+        "packSize": "2/10 IN",
+        "itemNumber": "200122",
+        "description": "Our legendary creamy California cheesecake baked on a golden graham cracker crumb. The Cheesecake Factory Bakery® is a place where delicate flavors, classic techniques and whimsical imagination come together to create some of the most innovative and irresistible desserts in the world.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10012220classic20cheesecake20whole_ayfvlsn3hrvefchf.jpg",
+        "contentUrl": "https://www.gfifoods.com/200122-cheesecake-factory-classic-cheesecake-200122"
+    },
+    {
+        "name": "Chocolate Brute Muffin Batter",
+        "brand": "Maui",
+        "packSize": "1/18 LB",
+        "itemNumber": "8502",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_5724_20211008-204306_i8u6uygjrsuqrdvt.jpg",
+        "contentUrl": "https://www.gfifoods.com/8502-maui-chocolate-brute-muffin-batter"
+    },
+    {
+        "name": "Chocolate Fondant Cake Sliced",
+        "brand": "Bindi",
+        "packSize": "1/5.07 LB",
+        "itemNumber": "400000",
+        "description": "Chocolate layer cake filled with chocolate ganache; topped with a chocolate mirror and rimmed with chocolate flakes. Pre-cut. 16 Servings per container",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolae20fondant20-20item20code200040p_20220920-165947_xsgy6x2h5bi8f7pf.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/400000-continental"
+    },
+    {
+        "name": "Hunky Chunky Chocolate Cookie Dough",
+        "brand": "Main Street Gourmet",
+        "packSize": "140/2 OZ",
+        "itemNumber": "252720",
+        "description": "Hunky Chunky cookie dough is a 2 oz frozen puck with huge chunks of chocolate. Simply place frozen dough on paper-lined cookie sheet and bake. Return unused cookie dough to freezer. For best results, baked cookies should be displayed in an enclosed display and served within 1 to 2 days.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/imagecontext_20231121-115533_kswdta34mtaqkdug.jpg",
+        "contentUrl": "https://www.gfifoods.com/252720-main-street-gourmet-hunky-chunky-chocolate-cookie-dough-252720"
+    }
+]

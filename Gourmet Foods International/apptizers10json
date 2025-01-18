@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Fajita Chicken Breast Fillet Strips",
+        "brand": "Brakebush",
+        "packSize": "2/5 LB",
+        "itemNumber": "138669",
+        "description": "Brakebush Chik'n'zips Fajita Breast Fillet Strips, 5 Pounds\n5245 Fully Cooked, Boneless, Skinless Sliced, Whole Muscle Chicken Breast Fillet Seasoned With Authentic South-Of-The-Border Flavors. Its A Fiesta For Your Tastebuds!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/38669_20220826-114615_zdvlnljjoqhg6sib.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/138669-brakebush-chik-n-zips-fajita-breast-fillet-strips-138669"
+    },
+    {
+        "name": "Vegetable Potstickers",
+        "brand": "Fortune Avenue",
+        "packSize": "6/45.3 OZ",
+        "itemNumber": "31143",
+        "description": "Fortune Avenue’s pork and cabbage potstickers are Chinese dumplings filled with vegetables, these are heat treated and frozen. They require cooking before serving.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/31143-wf-mk-bakehouse-vegetable-potstickers"
+    },
+    {
+        "name": "Crispy Grilled Cheese",
+        "brand": "Starbucks",
+        "packSize": "6/5.12 OZ",
+        "itemNumber": "68531",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/8/68531silo.jpg",
+        "contentUrl": "https://www.gfifoods.com/68531-starbucks-crispy-grilled-cheese"
+    },
+    {
+        "name": "Crab Rangoon",
+        "brand": "Kabobs",
+        "packSize": "100/0.8 OZ",
+        "itemNumber": "28422",
+        "description": "Crab Rangoon.  A wonderful blend of crab meat, cream cheese and Oriental flavors wrapped in a wonton skin. (.80 oz. each)",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/3/k36620crab20rangoon_20220305-003545_0pne0ppeaiaxmwwe.jpg",
+        "contentUrl": "https://www.gfifoods.com/28422-kabobs-crab-rangoon"
+    },
+    {
+        "name": "Black Eyed Bean Kofta Vegan Gluten Free",
+        "brand": "Global Village Foods",
+        "packSize": "12/6 OZ",
+        "itemNumber": "35692",
+        "description": "A vegan version of a well known spicy ball usually made with lamb or beef. This Black Eyed Bean version is packed with traditional spices for a full flavor punch, plenty of protein and fiber, and great texture that works deliciously in the Spicy Eggplant Sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/v/gvf-kofta-01_20220103-175201_emjfpnpfstyjymnl.jpg",
+        "contentUrl": "https://www.gfifoods.com/35692-global-village-foods-vegan-black-eyed-bean-kofta"
+    },
+    {
+        "name": "Jambalaya Sauce Vegan",
+        "brand": "Gourmet Foods Llc",
+        "packSize": "6/5 LB",
+        "itemNumber": "26743",
+        "description": "SAUCE JAMBALAYA VEGAN CONC.\nOur strength lies not only in the high quality of our product, but, in the relationship and personal rapport established by our sales staff with our customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/6/2674320-20jambalaya20conc_20211003-155007_iu6s0gbrgrkpyi1y.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/26743-gourmet-fds-llc-vegan-jambalaya-sauce"
+    },
+    {
+        "name": "Pork & Cabbage Potstickers",
+        "brand": "Fortune Avenue",
+        "packSize": "6/45.3 OZ",
+        "itemNumber": "41103",
+        "description": "Fortune Avenue’s pork and cabbage potstickers are Chinese dumplings filled with ground meat and vegetables, these are heat treated and frozen. They require cooking before serving.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/41103-fermin-usa-porkcabbage-potstickers"
+    },
+    {
+        "name": "Macaroni And Cheese",
+        "brand": "Drake's",
+        "packSize": "9/3 LB",
+        "itemNumber": "12468",
+        "description": "Our Mac and Cheese has all natural ingredients with aged cheddar cheese. We make this the old fashioned way by making a roux-based sauce and using no fillers, thickeners or anything unnatural. Jumbo sized ridged elbow pasta gives an upscale distinctive appearance.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mac20and20cheese20splash201_20210406-091816_6z98ydghkuolzxk9.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/12468-drake-s"
+    },
+    {
+        "name": "Beef Brisket Slider Smoked",
+        "brand": "Culinary Master",
+        "packSize": "80/1 OZ",
+        "itemNumber": "160604",
+        "description": "Slow roasted and cherry wood smoked beef brisket topped with caramelized red onion and BBQ sauce blended with smoked Marciano cherry all on a mini onion roll.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/160604_main_20210317_1430492_2qbjq1rlfpuhtwgj.jpg",
+        "contentUrl": "https://www.gfifoods.com/160604-culinary-master-slider-beef-brisket-smoked-cherry-wood"
+    },
+    {
+        "name": "Black Bean Patty Vegan",
+        "brand": "Kabobs",
+        "packSize": "108/2 OZ",
+        "itemNumber": "50434",
+        "description": "Black Bean Vegan Patty",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/l/black20bean20vegan20patty_20181227_1513340_bnmlzt9v0mh1weft.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/50434-kabobs-vegan-black-bean-patty"
+    },
+    {
+        "name": "Kamaboko Fish Cake",
+        "brand": "Yamasa",
+        "packSize": "24/6 OZ",
+        "itemNumber": "100006",
+        "description": "Kamaboko Fish Cake\nMing Hong International is the industry’s leading supplier of high quality Sushi & Asian Fusion cuisine ingredients. We offer a wide range of products specifically for this sector.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/y/a/yamasa-kamaboko_20210601_1238634_akixxwi3ijcnqa4k.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100006-philadelphia-kamaboko-fish-cake"
+    },
+    {
+        "name": "Chorizo Empanada",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "461150",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chorizoempanadamain_rlhp0laksf0ohqge.jpg",
+        "contentUrl": "https://www.gfifoods.com/461150-gourmet-kitchen-chorizo-empanada-461150"
+    }
+]

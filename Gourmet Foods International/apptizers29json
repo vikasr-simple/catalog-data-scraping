@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Lobster Bisque",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "701068",
+        "description": "Lobster Bisque, keep refrigerated, heat and serve, ready to eat. Manufactured exclusively for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701068-town-and-country-lobster-bisque-701068"
+    },
+    {
+        "name": "Potato & Truffle Pierogi",
+        "brand": "Severino",
+        "packSize": "12/14 OZ",
+        "itemNumber": "700168",
+        "description": "Severino Pasta is known as the place to find authentic and richly-flavored pasta! Our pierogi line has Vegetarian options only. Serves well pan fried or boiled with a side of sour cream.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/picture_20240207-145431_g7lgjmelczbikbpn.jpg",
+        "contentUrl": "https://www.gfifoods.com/700168-severino-potatotruffle-pierogi-700168"
+    },
+    {
+        "name": "Seasoned Pork Belly",
+        "brand": "Cuisine Solutions",
+        "packSize": "6/2.5 LB",
+        "itemNumber": "35039EU",
+        "description": "Our pork belly simply seasoned with Kosher salt and black pepper. Simply prepared: just pork belly, water, kosher salt and black pepper. Cooked Sous Vide which provides Unparalleled food safety.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/35039eu-cuisine-solutio-seasoned-pork-belly"
+    },
+    {
+        "name": "Lobster Bisque",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "701067",
+        "description": "Lobster Bisque. Keep refrigerated, heat and serve, ready to eat. Manufactured exclusively for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701067-town-and-country-lobster-bisque-701067"
+    },
+    {
+        "name": "Cream of Asparagus Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "701037",
+        "description": "Cream of Asparagus Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701037-town-and-country-cream-of-asparagus-soup-701037"
+    },
+    {
+        "name": "Creamy Chicken and Rice Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700951",
+        "description": "Creamy Chicken and Rice Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700951-town-and-country-creamy-chicken-and-rice-soup-700951"
+    },
+    {
+        "name": "Homestyle Mac & Cheese",
+        "brand": "Myles Comfort Foods",
+        "packSize": "6/10 OZ",
+        "itemNumber": "860753",
+        "description": "Decadent & gooey three cheese sauce consisting of heavy cream, milk, butter, gruyere, colby jack, & cheddar over classic elbow macaroni noodles with a sprinkle of Italian inspired seasoning.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00860007536472front_20231018-113744_oysazsjuoxxgcnsn.jpg",
+        "contentUrl": "https://www.gfifoods.com/860753-myles-comfort-foods-homestyle-maccheese-860753"
+    },
+    {
+        "name": "Smoked Chicken Tequila Burrito",
+        "brand": "Kabobs",
+        "packSize": "68/4 OZ",
+        "itemNumber": "784500",
+        "description": "CHICKEN BURRITO SMOKE FLAVOR  (With Monterey Jack Cheese, Black Beans, Mushrooms, and Peppers.) \nCooking times vary based on deep fryer and oven. Do not microwave.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k7845_20230928-094157_conezbggrxthvguv.jpg",
+        "contentUrl": "https://www.gfifoods.com/784500-kabobs-smoked-chicken-tequila-burrito-784500"
+    },
+    {
+        "name": "Chorizo, Bean, & Cheese Calzone",
+        "brand": "Kabobs",
+        "packSize": "100/1 OZ",
+        "itemNumber": "44926",
+        "description": "Chorizo Sausage Calzone",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chorizo20sausage20calzone20main_20190930_1315876_fzglvjzkqzm9ihgq.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/44926-kabobs-calzone-chorizo-bean-cheese-886"
+    },
+    {
+        "name": "Olive & Manchego Bite",
+        "brand": "Kabobs",
+        "packSize": "100/0.46 OZ",
+        "itemNumber": "8161",
+        "description": "Olive Manchego Bites",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/8161-kabobs-olive-manchego-bite-8161"
+    },
+    {
+        "name": "Lobster Bisque Base",
+        "brand": "Chefwise",
+        "packSize": "12/1.98 LB",
+        "itemNumber": "61042",
+        "description": "Powdered Mix for making Lobster Bisque using water.  Contemporary food operations require modern thinking and new methods of meeting changing culinary demands. Rest assured, our experiences in the kitchen have made the Chefwise collection of food preparations unique:",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/o/lobster20bisque20sachet20900g_20210511_0724861_ulg1pjugdb5g1ogx.jpg",
+        "contentUrl": "https://www.gfifoods.com/61042-ref"
+    },
+    {
+        "name": "Pork Eggroll",
+        "brand": "Van Lang",
+        "packSize": "200/1 OZ",
+        "itemNumber": "996145",
+        "description": "Our crispy eggroll contains flavorful pork, eggs and a variety of bright and colorful vegetables including carrots, peas, onions, cabbage and glass noodles all traditionally seasoned and hand wrapped.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/g/eggroll_20230312-121529_qxwhusetgf3qcopp.jpg",
+        "contentUrl": "https://www.gfifoods.com/996145-van-lang-pork-eggroll-996145"
+    }
+]

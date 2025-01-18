@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Mariachi Loco Tamales Gluten Free",
+        "brand": "100% Artisan",
+        "packSize": "6/15.2 OZ",
+        "itemNumber": "11493",
+        "description": "Our Artisian TAMALES are 100% Vegan .They are also gluten free. They are fully cooked and handcrafted specially for you. After reheat them for a few minutes they will be ready to eat.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/mariachiloco-08_20200310_1023426_ovidr7qrmim8gp9k.jpg",
+        "contentUrl": "https://www.gfifoods.com/11493-100-artisan-mariachi-loco-tamales"
+    },
+    {
+        "name": "Pecan Chicken Tenders",
+        "brand": "Kabobs",
+        "packSize": "100/0.8 OZ",
+        "itemNumber": "47999",
+        "description": "Pecan Chicken Tender.  A juicy chicken tender dipped in a pecan batter and rolled in toasted pecan pieces and bread crumbs. (.75 oz. each)",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/2/k200520pecan20chicken_20220305-000720_wdtuwnt0jdhowvb8.jpg",
+        "contentUrl": "https://www.gfifoods.com/47999-kabobs-pecan-chicken-tenders"
+    },
+    {
+        "name": "Roasted Tomato Mozzarella Panino",
+        "brand": "Starbucks",
+        "packSize": "6/5.76 OZ",
+        "itemNumber": "68533",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/8/68533silo.jpg",
+        "contentUrl": "https://www.gfifoods.com/68533-starbucks-roasted-tomato-mozzarella-panino"
+    },
+    {
+        "name": "Raspberry Brie En Croute",
+        "brand": "Kabobs",
+        "packSize": "200/1.1 OZ",
+        "itemNumber": "7135",
+        "description": "Brie en Crute with Raspberry.  Brie cheese blended with raspberry preserves wrapped in a flaky puff pastry.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k713520brie20en20croute_20220304-235625_pgvz9vxqaxnog9zk.jpg",
+        "contentUrl": "https://www.gfifoods.com/7135-kabobs-raspberry-brie-encrout"
+    },
+    {
+        "name": "BBQ Pulled Pork Spring roll",
+        "brand": "Van Lang",
+        "packSize": "200/.8 OZ",
+        "itemNumber": "394921",
+        "description": "Hickory smoked pulled pork mixed with tangy BBQ sauce inside a crispy spring roll. Case Count: 200 per case.  COOKING INSTRUCTIONS: Deep fry from frozen in 350°F oil for 3 minutes. Internal temperature must reach 165°F as measured by a thermometer. CONTAINS: MUSTARD SEED, WHEAT, SOY, EGG.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10500320-20springroll_20221115-113742_ecrie32fcxlgpotp.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/394921-van-lang-bbq-pulled-pork-spring-roll-394921"
+    },
+    {
+        "name": "Potato & Cheddar Pierogi",
+        "brand": "Severino",
+        "packSize": "12/14 OZ",
+        "itemNumber": "170012",
+        "description": "Typical of a fresh cooked pasta with filling, free from excessive saltiness or lack of taste. Filling tastes like boiled creamy mashed potatoes with cheddar.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/potato2020cheddar20pierogi20retail_20200810_1248283_yidwmvmdwfxgtnnw.jpg",
+        "contentUrl": "https://www.gfifoods.com/170012-severino"
+    },
+    {
+        "name": "Beef Bourguignon Appetizer",
+        "brand": "Kabobs",
+        "packSize": "100/0.85 OZ",
+        "itemNumber": "7206",
+        "description": "Beef Bourguignon",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/7206-kabobs-beef-bourguignon-appetizer"
+    },
+    {
+        "name": "Chicken Satay Gluten Free",
+        "brand": "Kabobs",
+        "packSize": "100/0.8 OZ",
+        "itemNumber": "6952",
+        "description": "Chicken Satay.   Hand Cut Chicken tenderloin meat on a 6\" skewer. Delicious plain or with your favorite sauce. (.80 oz. each)\nKabobs prides itself in utilizing only the freshest, premium ingredients available in creating our extensive line of gourmet handcrafted hors d'oeuvres and entrees.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/2/k24020chicken20satay_20220305-000405_e2cb6qhcrgtmvzwl.jpg",
+        "contentUrl": "https://www.gfifoods.com/6952-kabobs-chicken-satay"
+    },
+    {
+        "name": "Bacon, Gouda & Egg Breakfast Sandwich",
+        "brand": "Starbucks",
+        "packSize": "36/4.48 OZ",
+        "itemNumber": "68503",
+        "description": "SK FOOD GROUP INCORPORATED",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/8/68503_je6gahxpclyeeikn.jpg",
+        "contentUrl": "https://www.gfifoods.com/68503-starbucks-bacon-goudaegg-breakfast-sandwich"
+    },
+    {
+        "name": "Spinach & Feta Sous Vide Egg Bite Gluten Free",
+        "brand": "Trois Petits Cochons",
+        "packSize": "12/2.5 OZ",
+        "itemNumber": "904338",
+        "description": "Sous-Vide Egg Bite Spinach & Feta great for breakfast or snack on the go, Fully Cooked, Cage-free eggs, High Protein, All Natural, Gluten-Free, Low Carbohydrates, No Sugar",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00045885904333_fce_14042022_20220517-133938_muyynmruaa3dvhdg.jpg",
+        "contentUrl": "https://www.gfifoods.com/904338-three-pigs-sous-vide-egg-bites-spinachfeta"
+    },
+    {
+        "name": "Southwest Style Beef Short Rib Arancini",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "422362",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/o/southweststyleshortribarancini_20240110-123032_gv9updf9j8mrf6tu.jpg",
+        "contentUrl": "https://www.gfifoods.com/422362-gourmet-kitchen-southwest-style-beef-short-rib-arancini-422362"
+    },
+    {
+        "name": "3 Cheese Pizza",
+        "brand": "Esti",
+        "packSize": "12/14.8 OZ",
+        "itemNumber": "85596",
+        "description": "Esti Foods‚Äô frozen pizzas are made with the finest quality ingredients with generous toppings and plenty of what consumers want.Topped with delicious cheese including premium-quality Greek feta cheese, each variety of Esti‚Äôs pizza has a rich flavor. They are all vegetarian and Non-GMO.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/h/three20cheese_20200424_1133709_hivgrxvygbbp0z6n.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/85596-esti-three-cheese-pizza"
+    }
+]

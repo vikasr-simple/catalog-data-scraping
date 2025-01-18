@@ -1,0 +1,19 @@
+{
+  "name": "chenneyborthers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node jsontocsv.js",
+    "script": "node script.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.7.1"
+  }
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Pumpkin Cream Cheese Muffin",
+        "brand": "Starbucks",
+        "packSize": "12/4 OZ",
+        "itemNumber": "12464",
+        "description": "FGF BRANDS",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/2/12464silo_l5skd4qjzu1fco7v.jpg",
+        "contentUrl": "https://www.gfifoods.com/12464-starbucks"
+    },
+    {
+        "name": "Chocolate Chip Donut Muffins",
+        "brand": "Bite",
+        "packSize": "16/9 OZ",
+        "itemNumber": "71102",
+        "description": "Bite Chocolate Chip Donut Muffins are donuts disguised as mini bite-sized muffins. They are baked to perfection, giving them a moist crumb before being covered in sugar. Great for grab-and-go any time of the day!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/71102_main_czkop3ilfpy7veer.jpg",
+        "contentUrl": "https://www.gfifoods.com/71102-bite-chocolate-chip-donut-muffins-71102"
+    },
+    {
+        "name": "Rosemary Croccantini Bites Vegan",
+        "brand": "La Panzanella",
+        "packSize": "12/8 OZ",
+        "itemNumber": "8780",
+        "description": "6lb bulk of mini crackers-rosemary- 12 - 8 oz tray sleeves of Food Service Minis-Same great flavor as our 6 oz Minis sold at retail.  Great for restaurants, delis, meal preparation.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/u/bulk_6oz_rosemary_2018_20181228_1907325_6e1joaufo7qrarfo.jpg",
+        "contentUrl": "https://www.gfifoods.com/8780-la-panzanella-croccantini-bites-rosemary-bulk"
+    },
+    {
+        "name": "Multigrain Boule",
+        "brand": "Ecce Panis",
+        "packSize": "12/16 OZ",
+        "itemNumber": "603200",
+        "description": "This Multi-Grain Boule goes perfectly as an accompaniment to stews, salads or hearty meals. Try hollowing out to make a bread bowl (save the interior pieces for dipping!), toasting with butter for breakfast, or slicing for a nutty, crunchy sandwich bread that can't be beat.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00657522750021cf_nv_jbokvmyzmhldg4q2.jpg",
+        "contentUrl": "https://www.gfifoods.com/603200-ecce-panis-multigrain-boule"
+    },
+    {
+        "name": "Pink Concha",
+        "brand": "Southland Baking",
+        "packSize": "48/3.2 OZ",
+        "itemNumber": "100115",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_1ujxgiao52tjjphx.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/100115-southland-baking-concha-pnk-100115"
+    },
+    {
+        "name": "Brioche Hot Dog Buns Sliced",
+        "brand": "Wenner",
+        "packSize": "17/9.52 OZ",
+        "itemNumber": "51495",
+        "description": "Product of USA, Clean Label, GMO Free, Golden Dough, Sliced, Labeled for retail sale, Thaw and Serve, Fully Baked Produtcs, Easy to handle, Soft, Sweet, unique soft Hot Dog buns.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/1/51495_product_20200813_1601303_v6h8gttdls1thisn.jpg",
+        "contentUrl": "https://www.gfifoods.com/51495-wenner-brioche-hot-dog-buns-sliced"
+    },
+    {
+        "name": "Winter Wheat Crackers Organic",
+        "brand": "Potters Crackers",
+        "packSize": "12/5 OZ",
+        "itemNumber": "48536",
+        "description": "Potter's Winter Wheat Crackers. Made in small batches in Wisconsin. Certified Organic by MOSA. Winter Wheat Crackers combines traditional organic wheat flour with organic cracked wheat grown right here in Wisconsin.  Winter Wheat's classic flavor profile compliments any cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/i/winter-wheat-500-300x300_20220003-155613_lxdaznmzou3awi7m.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/48536-potters-crackers-winter-wheat-crackers"
+    },
+    {
+        "name": "Brown Buttah CookiDough",
+        "brand": "La Gringuita Gourmet Cookies",
+        "packSize": "6/18 OZ",
+        "itemNumber": "237100",
+        "description": "We've taken the nostalgic flavors of a classic chocolate chip cookie up a notch with house-made brown butter, 60% cacao dark chocolate, and coarse sea salt that come together to create the perfect chocolate chip cookie.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/r/brownbuttah_20240215-114758_blpcqfgddkfg77xo.jpg",
+        "contentUrl": "https://www.gfifoods.com/237100-la-gringuita-gourmet-cookies-brown-buttah-cookidough-237100"
+    },
+    {
+        "name": "Tropezienne Mini",
+        "brand": "Mademoiselle Desserts",
+        "packSize": "14/6.98 OZ",
+        "itemNumber": "599000",
+        "description": "Brioche filled with mousseline topped with sugar / mini tropezienne / snacking item / buffet / breakfast / soft texture / A crown shape with a delicious melting centre. A gourmet taste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/i/minitropezienne33g_20230615-170454_wrggfbix3y93bnge.jpg",
+        "contentUrl": "https://www.gfifoods.com/599000-mademoiselle-desserts-tropezienne-mini-599000"
+    },
+    {
+        "name": "Chocolate Chip Toasted Walnut Cookie Doughballs",
+        "brand": "Carolyn's Cookie Company",
+        "packSize": "6/22 OZ",
+        "itemNumber": "160260",
+        "description": "Carolyn's Cookie Company frozen cookie dough brings our family recipes into your house.  So convenient...out of the freezer and into the oven.  We make homemade easy! Carolyn's frozen cookie dough balls are easy to bake up one at a time or all twelve when company comes over.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/160260_gsnj9jxzasjxhpff.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/160260-carolyn-s-cookie-company-chocolate-chip-toasted-walnut-cookie-doughballs-160260"
+    },
+    {
+        "name": "Rosemary Croccantini Crackers Airline Pack Vegan",
+        "brand": "La Panzanella",
+        "packSize": "175/0.58 OZ",
+        "itemNumber": "1132",
+        "description": "AIRLINE SNACK SIZE INDIVIDUAL SERVING SIZE",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/i/airline_rosemary_face_lr_20190913_2017567_5ake11uobwonsk06.jpg",
+        "contentUrl": "https://www.gfifoods.com/1132-la-panzanella-snack-pack-rosemary-croccantini-crackers"
+    },
+    {
+        "name": "Cherry & Greek Yogurt Danish RTB",
+        "brand": "Bridor",
+        "packSize": "60/4.1 OZ",
+        "itemNumber": "52434",
+        "description": "A pure butter pastry created with a flaky, crispy and airy croissant dough. Only real and clean ingredients are used to create a superior taste and texture. The generous filling with a perfect blend of Greek yoghurt and cherries is truly delicious.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/5243420danish20greek20yogurt20cherry20rtb_20210928_1447289_zdzxeyysrkpoafej.jpg",
+        "contentUrl": "https://www.gfifoods.com/52434-bridor-greek-yogurt-cherry-rtb-danish"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Pecan Tart",
+        "brand": "Galaxy Desserts",
+        "packSize": "16/4 IN",
+        "itemNumber": "62149",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/2/62149_biculvegy0ejzjsk.jpg",
+        "contentUrl": "https://www.gfifoods.com/62149-galaxy-desserts-pecan-tart"
+    },
+    {
+        "name": "Cranberry & Pumpkin Seed Crisps",
+        "brand": "Kii Natural's",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "85101",
+        "description": "Kii Naturals combines authentic ingredients from over 20 countries. We create our delicious hand-crafted crisps in small batches. Double-baked for a satisfying crunch, each artisan crisp holds a delightful burst of flavorful fruit, nuts and seeds",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/i/kii20cran.pump20-20001-b_20210027-144522_20210128_1633926_j3wysxoukbjq4c1t.jpg",
+        "contentUrl": "https://www.gfifoods.com/85101-kii-natural-s-cranberrypumpkin-seed-crisps"
+    },
+    {
+        "name": "Vanilla Bean Cheesecake",
+        "brand": "Pearl River",
+        "packSize": "18/5.2 OZ",
+        "itemNumber": "48793",
+        "description": "All natural, nut-free, and Kosher certified, 5.2 oz Vanilla Bean 3\" cheesecake has a  smooth Texture, umami taste, and is mildly sweet.  Made in a tree nut free, peanut free, and sesame free facility.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/bakery/48793-pearl-river"
+    },
+    {
+        "name": "Fig Almond Bars Gluten Free Vegan",
+        "brand": "Mitica",
+        "packSize": "24/1 OZ",
+        "itemNumber": "35232",
+        "description": "A great on-the-go snack format of the perennial favorite, Fig Almond Cake, made with just Pajarero figs and Marcona almonds. Eat as an energy-boosting snack or healthy dessert.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/i/fig20bite_20211102-173246_rtrohuehrqnlouw6.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/35232-mitica-fig-almond-bars"
+    },
+    {
+        "name": "Danish Dough Half Size Block",
+        "brand": "Lecoq Cuisine",
+        "packSize": "2/9.5 LB",
+        "itemNumber": "100217",
+        "description": "Create fresh French pastries with ease by using these LeCoq Cuisine puff pastry dough sheets in your establishment! Artisanally-made by folding 100% pure butter into smooth puff pastry dough.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/a/dandbh-2-mainrtbproduct2_20240530-110616_cglo4qpooldq6wjb.jpg",
+        "contentUrl": "https://www.gfifoods.com/100217-lecoq-cuisine-danish-dough-half-size-block-100217"
+    },
+    {
+        "name": "Potato Knish Large Square",
+        "brand": "Gabila's",
+        "packSize": "30/6.5 OZ",
+        "itemNumber": "5182003",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/i/high-res-knish-1_wx5m0fze4w747kxe.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/5182003-gabila-s-large-square-potato-knish"
+    },
+    {
+        "name": "Al Naturale Grissini",
+        "brand": "Patti",
+        "packSize": "10/7.05 OZ",
+        "itemNumber": "80235",
+        "description": "Home made natural breadstick without preservatives. Home made natural breadstick without preservatives. Home made natural breadstick without preservatives",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/0/80235_main_20220430-094411_ltitzyp9sgvaouei.jpg",
+        "contentUrl": "https://www.gfifoods.com/80235-patti-grissini-grissini-al-naturale"
+    },
+    {
+        "name": "Pumpkin Spice Muffins Gluten Free",
+        "brand": "Yumbana GF",
+        "packSize": "4/10 OZ",
+        "itemNumber": "8046",
+        "description": "Our delicious Mt Princeton gluten free, soy free, dairy free, nut free Pumpkin Spice breakfast muffins are moist, soft and flavorful. They are made using fresh, clean, non-gmo ingredients that will satisfy everyone in your family and become a favorite choice again and again.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/_/p/_princetontop_20210521-104634_73aikoz00ksmwcu9.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/8046-yumbana-gf-gluten-free-pumpkin-spice-muffins"
+    },
+    {
+        "name": "Chocolate Bun",
+        "brand": "Laromme",
+        "packSize": "20/14 OZ",
+        "itemNumber": "12868",
+        "description": "Chocolate buns are made with the highest quality ingredients and carrying the highest Kosher certification. Can be served as a breakfast pastry, snack, or anytime for a dessert.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/9/19130020chocolate20buns_20211106-202715_vsum8uzbxar73v3l.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/12868-kretschmar"
+    },
+    {
+        "name": "Santa Ines Sourdough Bread",
+        "brand": "Europastry",
+        "packSize": "16/12.3 OZ",
+        "itemNumber": "68443",
+        "description": "This Rustic bread is creamy in color and has a loose, irregular honeycomb crumb structure. The crust is medium thin and crunchy. The flavor is dominated by the aroma of rye and slow fermentation, with a subtle lactic touch.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/8/08424465684438_c1c0_20220420-174728_i0jkbblx8njarimq.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/68443-europastry-santa-ines-sourdough-bread-68443"
+    },
+    {
+        "name": "Harvest Grain Batard",
+        "brand": "Bakery de France",
+        "packSize": "16/16 OZ",
+        "itemNumber": "100346",
+        "description": "True to our Free Form Collection, the Harvest Grain Batard features a crisp thin crust paired with a light airy crumb and tapered tips.  Whole Grain Council Certified, each loaf is baked with cracked wheat and hearty whole grains to deliver a light nutty flavor.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/5/f5555harvestgrainbatardjpeg_20240515-211338_tzni0zxhvusnmw1e.jpg",
+        "contentUrl": "https://www.gfifoods.com/100346-bakery-de-france-harvest-grain-batard-100346"
+    },
+    {
+        "name": "Opera Strip Cake 12 Inch",
+        "brand": "Symphony Usa",
+        "packSize": "4/12 IN",
+        "itemNumber": "21250",
+        "description": "Three layers of thin almond sponge soaked with espresso. Filled with ganache and coffee butter cream.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/p/opera_strip_20210617_1123867_6daln2h16d1tts2e.jpg",
+        "contentUrl": "https://www.gfifoods.com/21250-symphony-usa-opera-strip-cake-12x4-in"
+    }
+]

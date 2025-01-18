@@ -1,0 +1,110 @@
+[
+     {
+          "name": "San Francisco Sourdough English Muffin 3.6 oz",
+          "brand": "Wolferman's",
+          "packSize": "12/4 CT",
+          "itemNumber": "276191",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/7/276191_main_20210412_1106132_gkpgdgbym3dh6qxk.jpg",
+          "contentUrl": "https://www.gfifoods.com/276191-wolferman-s-english-muffin-sourdough-san-francisco"
+     },
+     {
+          "name": "Brioche Burger Buns Sliced",
+          "brand": "Wenner",
+          "packSize": "14/10.5 OZ",
+          "itemNumber": "41464",
+          "description": "Product of USA, Clean Label, GMO Free, Golden Dough, Sliced, Labeled for retail sale, Thaw and Serve, Fully Baked Produtcs, Easy to handle at store level, Soft, Sweet, unique soft brioche burger buns.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/1/4146420brioche20burger20bun_20200601_1040511_qw15qqkl0wlvcruk.jpg",
+          "contentUrl": "https://www.gfifoods.com/41464-wenner-brioche-burger-buns-sliced"
+     },
+     {
+          "name": "Chili & Lime Seeded Bites Gluten Free",
+          "brand": "2S Company",
+          "packSize": "6/4.9 OZ",
+          "itemNumber": "82552",
+          "description": "2's Company Seeded Snackers are packed with the goodness of whole seed and delicious flavour combinations. Carefully bake in small batches to deliver a wonderfully crunchy texture, the Seeded Snackers are the perfect snack to satisfy those savory cravings.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/2/820581825522_ecommerce_xffatxwlrtup7uhq.jpg",
+          "contentUrl": "https://www.gfifoods.com/82552-2s-company-seeded-bites-chililime-82552"
+     },
+     {
+          "name": "Black & White Petit Fours",
+          "brand": "Pasquier",
+          "packSize": "2/48 CT",
+          "itemNumber": "61715",
+          "description": "Assortment of Sweet Petits Fours\n6 Chocolate & Espresso Tarts, 6 White Chocolate Mousse Brownies, 6 Financiers With\nChocolate Ganache, 6 Cocoa & Banana Soft Cakes, 6 Chocolate Eclairs, 6 Gianduja Cakes, 6\nCrispy Chocolate & Coconut Cream, 6 Ganache Chocolate Cakes.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/w/bwpetitfours_isolated_whiteplated_1707_02_lowres_20200203_1010440_egjm6jxu66wtea1d.jpg",
+          "contentUrl": "https://www.gfifoods.com/61715-pasquier-blackwhite-petit-fours"
+     },
+     {
+          "name": "Classic Panettone Fruitcake",
+          "brand": "Borgo de Medici",
+          "packSize": "6/26.4 OZ",
+          "itemNumber": "30732",
+          "description": "Panettone Classic is a traditional cake-like bread stuffed with dried raisins and candied orange and lemon peel from Milan; It’s a ritual in many homes where panettone is a welcomed guest after every meal.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/d/bdmp210420panettone20incartato2075020classico_20210407_0643524_uk4idvt0nfc2yzz7.jpg",
+          "contentUrl": "https://www.gfifoods.com/30732-borgo-de-medici"
+     },
+     {
+          "name": "Cinnamon Sugar Crackers",
+          "brand": "Georgia Sourdough",
+          "packSize": "12/4 OZ",
+          "itemNumber": "544005",
+          "description": "Georgia Sourdough Co.'s Cinnamon Sugar Cracker is Probiotic and made with Organic ingredients. They are delicious with a hint of sweetness and the warmth of cinnamon. Share them with a cheese plate for a surprise twist. Pairs wonderfully with soft cheeses, Beecher’s Marco Polo Cheese and milk!",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/5/850012544067_main_product_image_t169ajlm1nbcsgdg.jpg",
+          "contentUrl": "https://www.gfifoods.com/544005-georgia-sourdough-cinnamon-sugar-crackers"
+     },
+     {
+          "name": "Assorted Danish Small RTB",
+          "brand": "Lecoq Cuisine",
+          "packSize": "1/252 CT",
+          "itemNumber": "100079",
+          "description": "Small Danish Variety Pack containing Apple, Cheese, Chocolate and Raspberry Bear Claw Danishes\nReady to Bake. Zero Trans fat. 150 day shelf life from date of production.\nApple Danish: Homemade apple and pear filling with a touch of vanilla",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/d/rdvs-2522020main_20230519-091802_rixy5ipc1wtabdaw.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/100079-lecoq-cuisine-danish-variety-pack-100079"
+     },
+     {
+          "name": "Everything Sourdough Crackers",
+          "brand": "Georgia Sourdough",
+          "packSize": "12/4 OZ",
+          "itemNumber": "60488",
+          "description": "These Everything Crackers are dressed in poppy seed, sesame seeds, onion, garlic and sea salt. A wonderful canvas for cream cheese, brie, a nice sharp cheddar or an award-winning Gouda cheese. Sourdough crackers were born from the love of sourdough.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/6048820main_20201215_1101649_tnz3y5elqzj8xe3r.jpg",
+          "contentUrl": "https://www.gfifoods.com/60488-georgia-sourdough-everything-crackers"
+     },
+     {
+          "name": "Assorted Hamantashen",
+          "brand": "Laromme",
+          "packSize": "18/15 OZ",
+          "itemNumber": "79866",
+          "description": "Assorted Hamantashen are made with the highest quality ingredients and carrying the highest Kosher certification. Can be served as a breakfast pastry, snack, or anytime for a dessert.",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/bakery/79866-flatout"
+     },
+     {
+          "name": "Wedding Cookies",
+          "brand": "Southland Baking",
+          "packSize": "9/2 LB",
+          "itemNumber": "160282",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_9ymte6h4yeqmwt9q.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/160282-southland-baking-wedding-cookies-160821"
+     },
+     {
+          "name": "Swedish Ginger Snaps",
+          "brand": "Lars' Own",
+          "packSize": "12/10.5 OZ",
+          "itemNumber": "986631",
+          "description": "LO Ginger Snaps\nBaked in Sweden, authentic “pepparkakor” (spicy cookies) are all natural and richly spiced with ginger, cinnamon, and cloves.\nBrand: Lars Own\nBrand Heritage: Sweden",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/5/35203_lars_own_ginger_snaps_box_20230416-164531.jpg",
+          "contentUrl": "https://www.gfifoods.com/986631-lars-own-swedish-ginger-snaps-986631"
+     },
+     {
+          "name": "Original Flatbread Vegan",
+          "brand": "Vicky's Bakery",
+          "packSize": "14/4.8 OZ",
+          "itemNumber": "17445",
+          "description": "The Original Flatbread has a slight nutty flavor from toasted sesame seeds and a dusting of sea salt flakes that brings out the sweet, earthy flavor of wheat. These flatbreads pair nicely with any strong cheese or dip or make it a pizza crust.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/2/627843174455_ecommerce_h3ucho0o6io3owzm.jpg",
+          "contentUrl": "https://www.gfifoods.com/17445-vickys-bakery-original-flatbread"
+     }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Butternut Squash Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700723",
+        "description": "Butternut Squash Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700723-town-and-country-butternut-squash-soup-700723"
+    },
+    {
+        "name": "Boothbay Maine Lobster Cake",
+        "brand": "Culinary Master",
+        "packSize": "100/1 OZ",
+        "itemNumber": "11046",
+        "description": "Culinary Masters Boothbay Maine Lobster Cakes are appetizer-sized cakes made with real Maine Lobster knuckle and claw meat. Old Bay spices, fresh onion, celery, and premium mayonnaise.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/11046_main_2twn9vkejllpnobv.jpg",
+        "contentUrl": "https://www.gfifoods.com/11046-culinary-master-boothbay-maine-lobster-cake-11046"
+    },
+    {
+        "name": "Coconut Chicken Curry Combo",
+        "brand": "Cafe Spice",
+        "packSize": "6/16 OZ",
+        "itemNumber": "27108",
+        "description": "Chicken simmered with aromatic spices in a peppery South Indian coconut sauce. Paired with a side of Basmati saffron rice.This entree is served with Basmati saffron rice, prepared with real saffron threads and cooked with whole cardamom pods and bay leaves.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/2/825120003232_main_20220214-123026_04waieoczdbynovn.jpg",
+        "contentUrl": "https://www.gfifoods.com/27108-cafe-spice-coconut-chicken-cury-combo"
+    },
+    {
+        "name": "Shrimp & Pork Wontons",
+        "brand": "Fortune Avenue",
+        "packSize": "300/.50 OZ",
+        "itemNumber": "31155",
+        "description": "Fortune Avenue Foods’ Shrimp and Pork wontons are pre-steamed and come frozen. They have a savory shrimp, pork and variety of vegetable filling wrapped in thin fresh egg noodle dough and formed into a parcel similarly shaped like ancient gold ingots.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/w/o/wontonpackaging_20240913-112013_7o1v5g3q0co39fhe.jpg",
+        "contentUrl": "https://www.gfifoods.com/31155-fermin-usa-shrimppork-wontons"
+    },
+    {
+        "name": "Bacon Wrapped Jalapeno Chicken Skewer",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1.1 OZ",
+        "itemNumber": "248800",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/2/c2488baconwrappedjalapenochickenskewer_20240125-180423_zyvckypluizumccb.jpg",
+        "contentUrl": "https://www.gfifoods.com/248800-gourmet-kitchen-bacon-wrapped-jalapeno-chicken-skewer-248800"
+    },
+    {
+        "name": "Lamb Shank Seared",
+        "brand": "Cuisine Solutions",
+        "packSize": "22/16.5 OZ",
+        "itemNumber": "42129",
+        "description": "Seared Lamb Shank with Portobello Red Wine Sauce\nSavory seasoned lamb shanks slow-cooked in a portobello mushroom sauce ennobled by the king of red wines, cabernet sauvignon.​",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/5/3503_lambshank_1vo1z1serbr724mc.jpg",
+        "contentUrl": "https://www.gfifoods.com/meat/42129-cuisine-solutio-seared-lamb-shank"
+    },
+    {
+        "name": "Shrimp Vegetable Spring Roll",
+        "brand": "Les Chateaux",
+        "packSize": "90/1.5 OZ",
+        "itemNumber": "125015",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/p/springrollcb_20231115-112426_oweandxyloljdagb.jpg",
+        "contentUrl": "https://www.gfifoods.com/125015-les-chateaux-shrimp-vegetable-spring-roll-125015"
+    },
+    {
+        "name": "Breaded Chicken Breast Strips Gluten Free",
+        "brand": "Springer Mountain",
+        "packSize": "1/10 LB",
+        "itemNumber": "1101250",
+        "description": "3267 - FC ABF GF STRIP; Springer Mountain Farms Fully Cooked Gluten Free Boneless Skinless Breaded Chicken Breasts Strips. All Natural. No Artificial Ingredients.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/1101250_pc0h995mmqyavgvr.jpg",
+        "contentUrl": "https://www.gfifoods.com/1101250-springer-mountain-breaded-chicken-breast-strips-gluten-free-1101250"
+    },
+    {
+        "name": "Butter Chicken Meatballs Gluten Free",
+        "brand": "Cafe Spice",
+        "packSize": "1/10 LB",
+        "itemNumber": "27925",
+        "description": "Cafe Spices Butter Chicken Meatballs are a culinary twist on the popular Butter Chicken dish.  Spiced North Indian-style meatballs, made with chicken, are simmered in a rich, aromatic tomato-cream sauce.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00825120002914_a3_2_20220122-130306_raczmgq15srngyam.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/27925-cafe-spice-butter-chicken-meatballs-27925"
+    },
+    {
+        "name": "Black Angus Cheeseburger Mini",
+        "brand": "Kabobs",
+        "packSize": "96/1.5 OZ",
+        "itemNumber": "78501",
+        "description": "Black Angus Mini Cheeseburgers (Sliders)",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/5/k50120mini20cheeseburger_20220304-235828_pzsh8028zjrtoy7k.jpg",
+        "contentUrl": "https://www.gfifoods.com/78501-kabobs-mini-black-angus-cheeseburger"
+    },
+    {
+        "name": "Philly Steak & Cheese Mac & Cheese",
+        "brand": "Myles Comfort Foods",
+        "packSize": "6/10 OZ",
+        "itemNumber": "866496",
+        "description": "Seasoned shaved beef with crunchy green peppers & onions in a decadent & gooey three cheese sauce consisting of heavy cream, milk, butter, provolone, cheddar, & parmesan over classic elbow macaroni noodles.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00860007536496front_20231018-122645_nn03kxnh4fjd8own.jpg",
+        "contentUrl": "https://www.gfifoods.com/866496-myles-comfort-foods-philly-steakcheese-maccheese-866496"
+    },
+    {
+        "name": "Dolmas Stuffed Grape Leaves",
+        "brand": "Divina",
+        "packSize": "6/8.8 OZ",
+        "itemNumber": "52802",
+        "description": "Our traditional (vegan) dolmas are lovingly stuffed with a mix of creamy Arborio rice, onion, mint and dill. We use the most tender, early-harvest grape leaves and wrap/stuff every dolma by hand. Serve with Feta and pita bread or warm in the oven with tomato sauce.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/5280220dv20pac20top-medium_20220322-133204_ffzsqv4ha4ki5yef.jpg",
+        "contentUrl": "https://www.gfifoods.com/52802-divina-dolmas-stuffed-grape-leaves"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Oatmeal Raisin Cookie Dough Puck",
+        "brand": "Dogwood Dessert",
+        "packSize": "240/1.5 OZ",
+        "itemNumber": "11281",
+        "description": "Dogwood Desserts Oatmeal Raisin Cookie Dough Pucks give you in-store freshness as a ready to bake item. A soft, chewy cookie with plenty of raisins and a light sprinkle of cinnamon, this is a go to item for any bakery display.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/11281_main_oqqg8n32ulsestor.jpg",
+        "contentUrl": "https://www.gfifoods.com/11281-dogwood-dessert-oatmeal-raisin-cookie-dough-puck-11281"
+    },
+    {
+        "name": "Kalamata Olive Cracker Vegan",
+        "brand": "Z Crackers",
+        "packSize": "12/8 OZ",
+        "itemNumber": "7334",
+        "description": "Savory Pie Company's Kalamata Olive Z Cracker, a crunchy flatbread cracker with a briny olive flavor of the Mediterranean, evoking the salted breeze of the sea. Perfect on its own or paired with cheese, dips, spreads, etc. Non-GMO Project Verified, OU Kosher, All-Natural,Vegan. 8oz great value.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/a/kalamata20olive20image202019_20190506_1258724_hfqhyr1idscwf9mm.jpg",
+        "contentUrl": "https://www.gfifoods.com/7334-z-crackers-kalamata-olive-cracker"
+    },
+    {
+        "name": "White Corn and Wheat Tortillas",
+        "brand": "La Tortilla Factory",
+        "packSize": "12/11.5 OZ",
+        "itemNumber": "51011002",
+        "description": "Handmade Style White Corn Tortillas are a unique blend of corn and wheat flour. Soft and flexible with a genuine ‘homemade’ taste and texture! All of our Handmade style tortillas are also Non-GMO Project Verified.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/7/078858510118_front_20240509-160601_z0whwmmyukhwc4al.jpg",
+        "contentUrl": "https://www.gfifoods.com/51011002-la-tortilla-factory-white-corn-and-wheat-tortillas-51011002"
+    },
+    {
+        "name": "Buttermilk Biscuits Gluten Free",
+        "brand": "Marilyn's",
+        "packSize": "6/21 OZ",
+        "itemNumber": "3150",
+        "description": "GLUTEN FREE BUTTERMILK BISCUITS, 6 BISCUITS PER PACKAGE.  STORE FROZEN, THAW BEFORE BAKING. In the South you just have to have Gluten Free Buttermilk Biscuits like Grandma used to bake.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/u/buttermilkbiscuits_newpackaging_20230321-110936_vbyzlhefhsrvoooq.jpg",
+        "contentUrl": "https://www.gfifoods.com/3150-marilyn-s-gluten-free-buttermilk-biscuits"
+    },
+    {
+        "name": "Classic Foccacia Toasts",
+        "brand": "Delallo",
+        "packSize": "10/3.5 OZ",
+        "itemNumber": "870605",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/870605-delallo-classic-focaccia-toasts"
+    },
+    {
+        "name": "Apple Cider Donut Muffins",
+        "brand": "Bite",
+        "packSize": "16/9 OZ",
+        "itemNumber": "71105",
+        "description": "Bite Apple Cider Donut Muffins are donuts disguised as mini bite-sized muffins. They are baked to perfection, giving them a moist crumb before being covered in sugar. Great for grab-and-go any time of the day!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/71105_main_wivpvfsefzmyf6mf.jpg",
+        "contentUrl": "https://www.gfifoods.com/71105-bite-apple-cider-donut-muffins-71105"
+    },
+    {
+        "name": "Multi-Grain Bread",
+        "brand": "Flatout",
+        "packSize": "16/11.2 OZ",
+        "itemNumber": "92394",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/2/92394_main_20220017-161831_ngcb9atqbtxu36js.jpg",
+        "contentUrl": "https://www.gfifoods.com/92394-flatout-multi-grain-bread"
+    },
+    {
+        "name": "Artisan Fig & Sunflower Cracker GF",
+        "brand": "Olina's",
+        "packSize": "12/3.5 OZ",
+        "itemNumber": "103620",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/103620-olina-s-artizan-figsunflower-cracker-gf"
+    },
+    {
+        "name": "Chocolate Hazelnut Tartlett",
+        "brand": "EK Ivry",
+        "packSize": "18/5.10 OZ",
+        "itemNumber": "1046731",
+        "description": "For chocolate lovers! We've reinvented the chocolate tart by enriching the chocolate ganache with a touch of hazelnut feuillantine praline on a shortcrust pastry base.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/tartechocolatnoisette_20240513-182716_7fchccnewcehxf3x.jpg",
+        "contentUrl": "https://www.gfifoods.com/1046731-ek-ivry-chocolate-hazelnut-tartlett-1046731"
+    },
+    {
+        "name": "Apple Cinnamon Muffin Batter Gluten Free",
+        "brand": "Maui",
+        "packSize": "1/16.6 LB",
+        "itemNumber": "118650",
+        "description": "Our gluten free apple cinnamon muffin batter is a must have breakfast item especially during the Fall and holiday season. We use a blend of white rice flour to give this muffin great taste and texture, unlike other gluten free products which are typically gritty and simply don't taste good.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_6172_20221112-165731_i20caghdfioy28tn.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/118650-maui-apple-cinnamon-muffin-batter-gluten-free-118650"
+    },
+    {
+        "name": "Fig Honey & Extra Virgin Olive Oil Crackers",
+        "brand": "Fine Cheese Co",
+        "packSize": "6/125 GR",
+        "itemNumber": "25144",
+        "description": "A crunchy cracker flavoured with fig and honey. Intentionally subtle, so as to never overwhelm the cheese. Flavoured with fig and a drizzle of honey. Serve with Manchego or any ewes’ milk cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/c/fcc_fig_evoo_crackers_1.jpg",
+        "contentUrl": "https://www.gfifoods.com/25144-fine-cheese-co-honey-fig-olive-oil-crackers"
+    },
+    {
+        "name": "Assorted Concha",
+        "brand": "Southland Baking",
+        "packSize": "66/3.2 OZ",
+        "itemNumber": "206950",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_qiurhek8pfgdw3gb.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/206950-southland-baking-raw-assorted-conchase-206950"
+    }
+]

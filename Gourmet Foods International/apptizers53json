@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Caribbean Rice and Bean Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700964",
+        "description": "Caribbean Rice and Beans Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700964-town-and-country-caribbean-rice-and-bean-soup-700964"
+    },
+    {
+        "name": "Tikka Masala Style Chicken Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "701046",
+        "description": "Tikka Masala Style Chicken Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701046-town-and-country-tikka-masala-style-chicken-soup-701046"
+    },
+    {
+        "name": "Loaded Baked Potato Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700949",
+        "description": "Loaded Baked Potato Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700949-town-and-country-loaded-baked-potato-soup-700949"
+    },
+    {
+        "name": "Chicken Tortilla Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700642",
+        "description": "Chicken Tortilla Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700642-town-and-country-chicken-tortilla-soup-700642"
+    },
+    {
+        "name": "Asian Style BBQ Pork Sliced",
+        "brand": "JIN HWA",
+        "packSize": "1/10 LB",
+        "itemNumber": "104854",
+        "description": "Sliced / Ready to Eat / Good for Deli / Tender / Juicy / Flavorful / Fully Cooked / Truly Marinated / Minimal Added Preservatives / Cured / Vacuum Packed",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_7056_20240517-195142_dj7oaekyhzxxr24q.jpg",
+        "contentUrl": "https://www.gfifoods.com/104854-royal-meat-asian-style-bbq-pork-sliced-104854"
+    },
+    {
+        "name": "Tuna Empanadas",
+        "brand": "José Andrés",
+        "packSize": "12/8 OZ",
+        "itemNumber": "1036331",
+        "description": "Galician style pastries filled with Tuna and Vegetables. Our dough contains gourmet Spanish Olive oil and our famous paprika or \"pimenton\" and the filling is the perfect mix of wild tuna and slowly cooked vegetables.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/a/jatunaempanadaretailboxpic_20240321-205059_itvcarjtwfzaedal.jpg",
+        "contentUrl": "https://www.gfifoods.com/1036331-jose-andres-tuna-empanadas-1036331"
+    },
+    {
+        "name": "Assorted Quiche",
+        "brand": "Les Chateaux",
+        "packSize": "6/70 EA",
+        "itemNumber": "12760",
+        "description": "Quiche Assortment:\n-35 quiche lorraine                        \n-20 Sun Dried tomato and wild mushroom quiche                       \n-25 Cheddar & Spinach Quiche                       \n-20 Seafood Quiche in a 1\" tart",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/a/s/assorted20quiche202_20211005_1040959_99jtmzcs0cigtshs.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/12760-les-chateaux-assorted-quiche"
+    }
+]

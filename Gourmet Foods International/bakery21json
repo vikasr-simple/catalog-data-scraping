@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Monster Bun Gluten Free",
+        "brand": "Gluten Free Creations",
+        "packSize": "18/5 OZ",
+        "itemNumber": "901904",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/o/monsterbun_20231025-211552_djzosmwpisynaayh.jpg",
+        "contentUrl": "https://www.gfifoods.com/901904-gluten-free-creations-monster-bun-gluten-free-901904"
+    },
+    {
+        "name": "Bunuelos Vegan",
+        "brand": "My Nana's",
+        "packSize": "8/9.5 OZ",
+        "itemNumber": "1508899",
+        "description": "An 8” diameter press flour tortilla fried and sprinkled with granulated sugar and cinnamon mixture.  Great as a snack with coffee, or with ice cream or with jam, jelly and nuts as toppings",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/u/bunuelos20520ct20front_20220723-140632_jxurgefv4ocohyzk.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/1508899-my-nana-s-bunuelos-1508899"
+    },
+    {
+        "name": "Sea Salt Mediterranean Crackers Organic",
+        "brand": "Firehook",
+        "packSize": "8/5.5 OZ",
+        "itemNumber": "550124",
+        "description": "This firehook classic made of 4 simple ingredients, and sprinkled with sea salt is waiting for your cheese or dip pairing! These may just be the perfect cracker.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/5/550124_main_20210308_1652582_mtkybks5xcbmommv.jpg",
+        "contentUrl": "https://www.gfifoods.com/550124-firehook-organic-sea-salt-cracker"
+    },
+    {
+        "name": "Sugar Plum Cheese Danish",
+        "brand": "Starbucks",
+        "packSize": "24/4 OZ",
+        "itemNumber": "106217",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/106217-starbucks"
+    },
+    {
+        "name": "Brioche Burger Buns Sliced",
+        "brand": "Wenner",
+        "packSize": "14/10.5 OZ",
+        "itemNumber": "41464",
+        "description": "Product of USA, Clean Label, GMO Free, Golden Dough, Sliced, Labeled for retail sale, Thaw and Serve, Fully Baked Produtcs, Easy to handle at store level, Soft, Sweet, unique soft brioche burger buns.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/1/4146420brioche20burger20bun_20200601_1040511_qw15qqkl0wlvcruk.jpg",
+        "contentUrl": "https://www.gfifoods.com/41464-wenner-brioche-burger-buns-sliced"
+    },
+    {
+        "name": "Toketti di Pane Carasau",
+        "brand": "Mitica",
+        "packSize": "10/7 OZ",
+        "itemNumber": "926271",
+        "description": "These crackers, made from the Sardinian flatbread known as Pane Carasau, are satisfyingly crunchy and salty with a flavor reminiscent of tortilla and pita chips. They are an ideal accompaniment to dips, charcuterie, and cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/o/toketti_main_20230629-103132_xhf1edd7uj6ctyaf.jpg",
+        "contentUrl": "https://www.gfifoods.com/926271-mitica-toketti-di-pane-carasau-926271"
+    },
+    {
+        "name": "Traditional Bruschetta Crackers",
+        "brand": "Cervasi",
+        "packSize": "12/5.3 OZ",
+        "itemNumber": "103694",
+        "description": "Cervasi Bruschetta - Traditional; enjoy with your favorite toppings or dips. Sure to be a favorite as an appetizer or simply for snacking! Be sure to look for our other varieties!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/productpg_bruschetta_trad_20240315-174805_myzz3tiurwpks4o8.jpg",
+        "contentUrl": "https://www.gfifoods.com/103694-cervasi-traditional-bruschetta-crackers-103694"
+    },
+    {
+        "name": "Carrot Walnut Pound Cake Sliced",
+        "brand": "Sweet Sam's",
+        "packSize": "16/4.2 OZ",
+        "itemNumber": "2095",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/i/single_iced_carrot_20211003-160543_f3dxpyt5yuhrbgs8.jpg",
+        "contentUrl": "https://www.gfifoods.com/2095-sweet-sam-s-carrot-walnut-sliced-pound-cake"
+    },
+    {
+        "name": "Assorted Mini Cupcakes",
+        "brand": "Edelweiss Pastry",
+        "packSize": "3/63 CT",
+        "itemNumber": "4273",
+        "description": "Assorted Mini Cupcakes- 9 cupcakes of the following flavors: red velvet, cappuccino, carrot, choc w/choc frosting and sprinkles, vanilla w/vanilla frosting and coconut,  choc w/vanilla frosting and strawberry.\nThese cupcakes would be great for a buffet or large gathering.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/h/thumbnail_image001_wz7uloomzzbhztsb.jpg",
+        "contentUrl": "https://www.gfifoods.com/4273-edelweiss-pstry-mini-assortment-cupcakes"
+    },
+    {
+        "name": "Cauliflower Egg Wraps Petite",
+        "brand": "Crepini",
+        "packSize": "12/2.26 OZ",
+        "itemNumber": "12665",
+        "description": "Egg Wraps with Cauliflower are delicate, durable and versatile wraps foods just right. Delightful alternative to Gluten Free flour tortillas. Create Burritos, enchiladas, quesadillas, sandwiches and breakfast wraps, lunch wraps, snacks, pizza, lasagna, and desserts.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/cauliflower_6in12pk_front_new_2000_20220925-120834_ycyy2i55p7r5mzck.jpg",
+        "contentUrl": "https://www.gfifoods.com/12665-crepini-cauliflower-egg-wraps"
+    },
+    {
+        "name": "Sea Salt Cracker Organic",
+        "brand": "Firehook",
+        "packSize": "12/8 OZ",
+        "itemNumber": "18947",
+        "description": "Enjoy with a hearty soup, your favorite greens or pair with you favorite cheese for a savory meal!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/r/organic003_20190702_120401_rqivgju2sswgvexj.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/18947-firehook-organic-sea-salt-cracker"
+    },
+    {
+        "name": "Wheat & Honey Bread Mix",
+        "brand": "Komplet",
+        "packSize": "1/50 LB",
+        "itemNumber": "31185",
+        "description": "Description: Wheat & Honey Bread & Roll Mix is a mixture of rolled oats, barley, wheat and sunflower seeds with just the right amount of honey.\nSuggested Application: Use Wheat & Honey Bread & Roll Mix to make a variety of breads and rolls. Add dried fruit or raisins to make tasty Muesli breads.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/1/61032.0120back_a4qnm2hfkbkts2ve.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/31185-komlet-wheathoney-bread-mix"
+    }
+]

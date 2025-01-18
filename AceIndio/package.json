@@ -1,0 +1,16 @@
+{
+  "name": "aceindio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsonToCsv.js",
+  "type": "module",
+  "scripts": {
+    "start": "node jsonToCsv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}

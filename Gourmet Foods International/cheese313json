@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jalapeno Queso-Melt Cuts",
+        "brand": "Queso-Melt",
+        "packSize": "10/8 OZ",
+        "itemNumber": "47353",
+        "description": "Restaurant Style Cheese Dip with Jalapeno. Serve as an appetizer with homemade chips, this is a staple in most restaurants, or add to many dishes to create an unique flavor. Serve as an appetizer with a salted pretzel to give that pretzel a kick.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/7/47353_main_20220315-093559_wqa4nw4hy8pf6hej.jpg",
+        "contentUrl": "https://www.gfifoods.com/47353-queso-melt-queso-melt-jalapeno"
+    },
+    {
+        "name": "Asiago Quarter Wheel",
+        "brand": "Grande",
+        "packSize": "4/6 LB",
+        "itemNumber": "4405846",
+        "description": "Aged over 6 months, Grande Asiago has a delicate, earthy flavor with fresh buttery notes. Its rich texture and smooth, creamy appearance make it ideal for pizzas, salads, pastas, dips and sandwiches.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00852m_20220322-121320_grkhbwryxur2w8qm.jpg",
+        "contentUrl": "https://www.gfifoods.com/4405846-grande-asiago-quarter-4405846"
+    },
+    {
+        "name": "Hatch Chile Cream Cheese Dip",
+        "brand": "Terrapin Ridge",
+        "packSize": "6/10.2 OZ",
+        "itemNumber": "691117",
+        "description": "Terrapin Ridge's Hatch Chile Cream Cheese Dip. Prized Chilies from Hatch, New Mexico are folded into whipped cream cheese for a rich delectable dip! Delight your bagels and wraps, whisk into scrambled eggs, or simply dip a chip!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/1/911120hatch20chile20cream20cheese20dip20-20product20image_20230404-084841_dubzov49gc9myqra.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/691117-terrapin-ridge-hatch-chile-cream-cheese-dip-691117"
+    },
+    {
+        "name": "Truffle D'Affinois Mini Wheel",
+        "brand": "Fromager d’ Affinois",
+        "packSize": "8/8.48 OZ",
+        "itemNumber": "51620",
+        "description": "The delicacy and soft texture of Fromager D'affinois combined with the nobility of Black Truffles from the Perigord region. A unique creamy texture under a thin white rind.The perfect addition for enhancing festivities and meals with family or friends.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/e/petit20daffinois20truffes2024020lma_20190619_1634644_uchgnoaaonjwvlp6.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/51620-guilloteau-fromager-d-affinois-with-truffle"
+    },
+    {
+        "name": "Gorgonzola DOP Prelibato Quarter Wheel",
+        "brand": "Ciresa",
+        "packSize": "2/3 LB",
+        "itemNumber": "66634",
+        "description": "Ciresa Gorgonzola PDO \"Dolce\" is a cow milk cheese, with a soft, almost spreadable, creamy paste.\nIts crumbly interior is ivory, mottled with greenish-blue veins spreading through the cheese. These veins are due to the presence of mold in the cheese, which matures during the ripening process.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/6/66634_item20side120copy_20211025_1411839_g7z0ufzxj7trlkry.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/66634-ciresa-prelibato-gorgonzola"
+    },
+    {
+        "name": "Cajun Cheddar Cheese Curds",
+        "brand": "Ellsworth",
+        "packSize": "12/5 OZ",
+        "itemNumber": "20691",
+        "description": "Cajun Cheese Curds uses classic white cheddar cheese curds that are rubbed with classic Cajun spices with just the right amount of kick. This product is high in calcium, protein, contain no added sugars, no carbs, zero trans fats, and is gluten-free.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/0/20691_beauty_aoiicz2kcy4qlzdn.jpg",
+        "contentUrl": "https://www.gfifoods.com/20691-ellsworth-cajun-cheese-curds"
+    },
+    {
+        "name": "Youngsters Mesquite BBQ Gouda",
+        "brand": "Artikaas",
+        "packSize": "12/6 OZ",
+        "itemNumber": "103364",
+        "description": "This gouda tastes just like grilling on a hot summer day! Mesquite BBQ is a great snacking cheese, with bold flavors like garlic, onion, smoked chili, and paprika. It's also ideal to use on a burger, in a sandwich, or melted into a dip.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/e/mesquitebbqew-front_20240228-143844_azspefr9e9qxjbg5.jpg",
+        "contentUrl": "https://www.gfifoods.com/103364-artikaas-youngsters-mesquite-bbq-gouda-103364"
+    },
+    {
+        "name": "Feta",
+        "brand": "Mt Vikos",
+        "packSize": "12/7 OZ",
+        "itemNumber": "111",
+        "description": "This Traditional Feta is made authentically by a small family dairy in central Greece using fresh milk from sheep and goats. MT VIKOS contains no preservatives, additives, or calcium chloride and is Non-GMO.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/111_beauty_ghn6jvbmto5nncvs.jpg",
+        "contentUrl": "https://www.gfifoods.com/111-mt-vikos-feta"
+    },
+    {
+        "name": "Baby Swiss Wheel",
+        "brand": "Swiss Valley",
+        "packSize": "2/5 LB",
+        "itemNumber": "4760",
+        "description": "Baby Swiss is an excellent choice for those who prefer a mild-flavored cheese. Baby Swiss is a natural cheese with small eyes, targeting ¼” in diameter, with a mild, sweet buttery flavor and creamy texture.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10000000220368_main_20240703-154539_dfnknixhp3cqollo.jpg",
+        "contentUrl": "https://www.gfifoods.com/4760-swiss-valley-baby-swiss-wheel"
+    },
+    {
+        "name": "Mozzarella",
+        "brand": "Nonno Nanni",
+        "packSize": "6/7.05 OZ",
+        "itemNumber": "5761",
+        "description": "Fresh, wholesome, preservative-free delight created using only 100% Italian milk, lots of passion and full expertise in the art of cheesemaking, matured in over 70 years by Nonno Nanni. Nonno Nanni Mozzarella is a unique delight, with rich flavor and its own unique identity.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/o/mozz_busta_200g_render20singoli_20230303-093501_umhlmv54valolu8n.jpg",
+        "contentUrl": "https://www.gfifoods.com/dairy/5761-nonno-nanni-mozzarella-5761"
+    },
+    {
+        "name": "Irish Cheddar with Porter",
+        "brand": "Tipperary",
+        "packSize": "12/5.1 OZ",
+        "itemNumber": "1022111",
+        "description": "Aged Irish Cheddar permeated with dark Porter that results in a strikingly beautiful brown mosaic and rich, toasty flavor with hints of chocolate hops. Try melted on a burger, or simply paired with its namesake Porter!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/8/28241_tipperary_irish_ched_with_porter_20231116-164024_3s6yujkebqvjuokt.jpg",
+        "contentUrl": "https://www.gfifoods.com/1022111-tipperary-irish-cheddar-with-porter-1022111"
+    },
+    {
+        "name": "Bulgarian Sheep's Milk Feta",
+        "brand": "Imported",
+        "packSize": "1/15.4 LB",
+        "itemNumber": "46732",
+        "description": "The history of Feta cheese, though often under debate, has been traced to the Balkan Peninsula in modern-day Bulgaria. Bulgarian Feta is made from pure sheep milk from ewes that graze in the Rhodope Mountains and features a stark white color and slightly salty flavor with a refreshing, tangy finish.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/2/923087_img_front_atalanta_feta_pail_7kg20high20res_20210329_1437325_c7cflqsy9awsxf6h.jpg",
+        "contentUrl": "https://www.gfifoods.com/46732-imported-bulgarian-sheep-s-milk-feta"
+    }
+]

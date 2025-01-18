@@ -1,0 +1,20 @@
+{
+  "name": "ralphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "node jsontocsv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

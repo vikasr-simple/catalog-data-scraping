@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Cheese Blintz",
+          "brand": "Old Fashioned Kitchen",
+          "packSize": "72/2.25 OZ",
+          "itemNumber": "591741",
+          "description": "A delicious blend of all natural ingredients wrapped in a light crepe. Great as a main dish, side dish, appetizer or tasty snack All Natural, Low Fat, No Trans Fat, Low Cholesterol, Low Sodium, No Preservatives",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/cheeseblinz_20231107-072222_kkdhdunhf6d58j4j.jpg",
+          "contentUrl": "https://www.gfifoods.com/591741-old-fashioned-kitchen-cheese-blintz-591741"
+     },
+     {
+          "name": "Palmier",
+          "brand": "C'Est Gourmet",
+          "packSize": "90/4 OZ",
+          "itemNumber": "105027",
+          "description": "C'est Gourmet Classic Palmiers 90/4oz/Case Freezer to Oven - Natural Clean Ingredients including European Style Hormone Free Butter and high protein flour, kosher certified",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10-502720classic20palmier_20190319_1202717_pxhz0pnd3xhv4feh.jpg",
+          "contentUrl": "https://www.gfifoods.com/105027-c-est-gourmet-palmier"
+     },
+     {
+          "name": "Pastel de Nata Salted Caramel 4 Count",
+          "brand": "Nata Pura",
+          "packSize": "14/240 GR",
+          "itemNumber": "983671",
+          "description": "Pastel de Nata, a tasty and iconic Portuguese pastry. Made with natural, familiar, simple ingredients that are easy to recognize, with no artificial ingredients or synthetic chemicals.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/n/p/np20pack20420caramel20top20view20hr_fkaavqkng9722phz.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/983671-nata-pura-pastel-de-nata-salted-caramel-983671"
+     },
+     {
+          "name": "Seville Orange Tortas",
+          "brand": "Bella Maria - José Andrés Selection",
+          "packSize": "10/6.3 OZ",
+          "itemNumber": "4849",
+          "description": "These traditional handmade tortas are light and crispy with a touch of citrus. The addition of Seville oranges are perfect for snacking on its own or paired with fresh cheeses.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/2/820581048495_ecommerce_l6pz2hwsj7ht7pce.jpg",
+          "contentUrl": "https://www.gfifoods.com/4849-bella-maria-seville-orange-torta"
+     },
+     {
+          "name": "Straight Croissant RTB Vegan",
+          "brand": "Bridor",
+          "packSize": "80/2.8 OZ",
+          "itemNumber": "527790",
+          "description": "RTB STRAIGHT VEGAN CROISSANT 2.8 Oz\nCOMBINING OUR KNOW-HOW IN FRENCH PASTRY-MAKING WITH PREMIUM INGREDIENTS TO ENSURE A DELICATE TASTE AND OUTSTANDING FLAKINESS WITH BEAUTIFUL LAYERS",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/5277920main20rtb_20230124-071205_nxd5eesz5hthvw4o.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/527790-bridor-straight-croissant-rtb-vegan-527790"
+     },
+     {
+          "name": "Pimento Cheese Fritter",
+          "brand": "Kabobs",
+          "packSize": "200/1 OZ",
+          "itemNumber": "8166",
+          "description": "Pimento Cheese Mac Fritter",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/c/screen20shot202022-10-1920at203.12.5620pm_20220919-152709_3uyzfhge5jwtgidw.jpg",
+          "contentUrl": "https://www.gfifoods.com/8166-kabobs-pimento-cheese-fritter"
+     },
+     {
+          "name": "Danish Dough",
+          "brand": "Lecoq Cuisine",
+          "packSize": "2/19 LB",
+          "itemNumber": "90026",
+          "description": "Bulk Danish Dough made with 100% butter\n304 oz. per piece, 2 pieces per case\nDIY Pastry, fully customizable. Zero Trans fat. 150 day shelf life from date of production.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/0/90026_main_20220314-105601_ny0rhwnnv3rsthcp.jpg",
+          "contentUrl": "https://www.gfifoods.com/90026-lecoq-cuisine-bulk-danish-dough"
+     },
+     {
+          "name": "Rosemary Crackers",
+          "brand": "Top Seedz",
+          "packSize": "12/5 OZ",
+          "itemNumber": "663093",
+          "description": "Top Seedz Rosemary Crackers have an unmistakable fragrance of delicious rosemary and a crispy crunch you will love. Your go-to for delicious, healthy crackers packed full of nutrition and bursting with flavor.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/r/front_05989_topseedz_crackersrosemary_20230404-161954_hnbcn8zppp1ysjqk.jpg",
+          "contentUrl": "https://www.gfifoods.com/663093-top-seedz-rosemary-crackers-663093"
+     },
+     {
+          "name": "Almondine Butter Croissant RTB",
+          "brand": "Bridor",
+          "packSize": "60/3.5 OZ",
+          "itemNumber": "52387",
+          "description": "This almond croissant contains a home-style creamy almond filling and this gives this delicacy its rich flavor while the sliced almonds topping provides a delightful crunch.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/2/52387_20210929_1217466_gvxjiud9b8fwgvlz.jpg",
+          "contentUrl": "https://www.gfifoods.com/52387-bridor-croissant-almondine-butter-rtb"
+     },
+     {
+          "name": "Basque Burnt Cheesecake Sample",
+          "brand": "Casa Eceiza",
+          "packSize": "4/1.32 LB",
+          "itemNumber": "9940211",
+          "description": "With a burnt caramelized top and a lush creamy filling, the Burnt Basque Cheesecake is made in the Basque Country by Casa Eceiza, near San Sebastian. Simply leave out of the freezer for 6 hours or in the fridge overnight and serve.",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/9940211-casa-eceiza-basque-burnt-cheesecake-sample-9940211"
+     },
+     {
+          "name": "Assorted Mini Croccantini Shipper",
+          "brand": "La Panzanella",
+          "packSize": "64/6 OZ",
+          "itemNumber": "741201",
+          "description": "64 ct - 6 oz Mini croccantini mix shipper 4 flavors Original, Rosemary, Cracked Pepper and Roasted Garlic. Sixteen of each flavor. Non GMO verified, Kosher, Low Fat",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/4/7412020mix20shipper20image_20210322_1520413_vkhtykybihoje0zp.jpg",
+          "contentUrl": "https://www.gfifoods.com/741201-la-panzanella"
+     },
+     {
+          "name": "Almond Biscotti",
+          "brand": "Cookies United",
+          "packSize": "1/6 LB",
+          "itemNumber": "106111",
+          "description": "Almond Biscotti 6lb Bulk.  Slow Baked Vanilla Biscotti Filled With Chunks Of Almonds. Approx. 19 Per Lb.  Ready To Eat - Open Case And Tray And Serve. Store In A Cool Dry Place.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00037695803012_main_20240924_0902630.jpg",
+          "contentUrl": "https://www.gfifoods.com/106111-sesame-biscotti"
+     }
+]

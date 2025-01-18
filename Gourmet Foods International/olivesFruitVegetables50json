@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Yellow Gigandes Lupin Beans",
+        "brand": "Fresh Pack",
+        "packSize": "12/6 OZ",
+        "itemNumber": "87908",
+        "description": "Gigandes, or Yellow Lupin Beans come packed in sunflower oil. Yummy & Crunchy. These delicious beans are best paired with nuts and salami. These veggies are usually consumed as snack but are an excellent addition to salads",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/o/f/ofluco170_p_20190621_0310894_a3aycny9je7mesr6.jpg",
+        "contentUrl": "https://www.gfifoods.com/87908-fresh-pack-gigandes-yellow-lupin-beans"
+    },
+    {
+        "name": "Artichokes Grilled Marinated With Stem",
+        "brand": "Frutto D'Italia",
+        "packSize": "2/3.1 LB",
+        "itemNumber": "50822",
+        "description": "Prepared in a traditional Roman fashion, each artichoke is trimmed from the heart down, leaving the stem attached. Their flavor is enhanced with slightly smoky notes from slow-roasting over hot coals. Each plump artichoke is harvested from four fertile regions of Italy during the peak of the season.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/5/05082220frutto20artichokes20grilled20wstem20320lb_20190627_1436261_7mffqmdng4yhsai4.jpg",
+        "contentUrl": "https://www.gfifoods.com/50822-frutto-d-italia-grilled-marinated-artichokes-w-stem"
+    },
+    {
+        "name": "Red Pickled Onion",
+        "brand": "Doux South",
+        "packSize": "1/5 GA",
+        "itemNumber": "407337",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/e/red-onion_20201019_1550692_kiquzllffue2itrs.jpg",
+        "contentUrl": "https://www.gfifoods.com/407337-doux-south-onion-red-pickled"
+    },
+    {
+        "name": "Baby Pears in Light Syrup Whole",
+        "brand": "Roland",
+        "packSize": "12/15 OZ",
+        "itemNumber": "63300",
+        "description": "Whole baby pears, white in color, have a juicy taste bursting with pear flavor.  After opening, transfer product to an airtight container and store in the refrigerator.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/main_20230317-142236_gogo1ganew1h6ztj.jpg",
+        "contentUrl": "https://www.gfifoods.com/63300-roland-whole-baby-pears-in-light-syrup"
+    },
+    {
+        "name": "Olives Stuffed with Green Garlic",
+        "brand": "Divina",
+        "packSize": "2/5 LB",
+        "itemNumber": "276",
+        "description": "Zesty pickled garlic complements plump, fruity Halkidiki olives from Mt. Athos in this savory snack. These olives are a great way to crank traditional Mediterranean flavors up a notch in a hearty farro salad or alongside cheese, hummus and pita.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d027620dv20pro-large_20211102-134121_zrqnobzuiy4gdc4f.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/276-divina-stuffed-olives-with-green-garlic"
+    },
+    {
+        "name": "Sundried Tomato Julienne RTE",
+        "brand": "Great Lakes",
+        "packSize": "1/5 LB",
+        "itemNumber": "164637",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/164637_main20copy_20211018-101208_gujzyr2xqyv2tncm.jpg",
+        "contentUrl": "https://www.gfifoods.com/164637-packer-julienne-sundried-tomato-ready-to-eat"
+    },
+    {
+        "name": "Sweet Georgia Red Pepper Relish",
+        "brand": "Doux South",
+        "packSize": "1/2 GA",
+        "itemNumber": "407401",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/407401_item20side201_20220020-143336_0spkriv7vkmqrno3.jpg",
+        "contentUrl": "https://www.gfifoods.com/407401-doux-south-relish-sweet-georgia-red-pepper"
+    },
+    {
+        "name": "Roasted Red Peppers",
+        "brand": "Divina",
+        "packSize": "6/4 LB",
+        "itemNumber": "53520",
+        "description": "Our oven-roasted Peruvian red peppers are meaty, sweet and smoky - everything you love about a roasted pepper with none of the DIY hassle. Try them layered into a lasagna or as the star ingredient of a roasted veggie sandwich.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/3/53520-2_20200825_1257746_ezf9nryurrwrsgqz.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/53520-divina"
+    },
+    {
+        "name": "Cherries",
+        "brand": "Premium",
+        "packSize": "6/105 OZ",
+        "itemNumber": "51132",
+        "description": "Pitted Dark Sweet Cherries in Heavy Syrup.  These cherries are sealed in a can to help them last longer. Each one is already pitted, making them easy to use and saving prep work in the kitchen. Use the Oregon canned cherries as an ingredient in baking.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/51132-premium"
+    },
+    {
+        "name": "Antipasto Mushroom Salad",
+        "brand": "Solestado",
+        "packSize": "2/6.5 LB",
+        "itemNumber": "903010",
+        "description": "A delightful and flavorful mix of marinated mushrooms, sundried tomatoes and olives. This antipasto salad is perfect served on its own for a snack or tossed with grains, rice or pasta for a Mediterranean meal in minutes",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/0/90301-20main_20210602_1341871_lwraiiev6zcrekon.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/903010-solestado-antipasto-mushroom-salad"
+    },
+    {
+        "name": "Baby Kalamata Olives Pitted",
+        "brand": "Divina",
+        "packSize": "2/5 LB",
+        "itemNumber": "50226",
+        "description": "Good things come in small packages and our baby pitted Kalamata olives are no exception. These authentic olives are smoky and fruity with notes of red wine. A perfect solution for chefs, these pint-size olives provide optimal plate coverage across applications such as salad and pizza.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0226-baby_kalamata_pitted-packaging_20200825_1235382_a9uhvogbluu3frck.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/50226-divina"
+    },
+    {
+        "name": "Cut Okra",
+        "brand": "Savor",
+        "packSize": "12/3 LB",
+        "itemNumber": "389496",
+        "description": "Savor's cut okra is quick frozen and ready to be added to your favorite soups or stews. Ready-to-cook, cut okra.   It is a good source of minerals, vitamins, antioxidants, and fiber.[",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/8/389496main_20210511_1539420_bshajtb6n63oshse.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/389496-savor"
+    }
+]

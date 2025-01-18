@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Tuna Empanadas",
+        "brand": "José Andrés",
+        "packSize": "12/8 OZ",
+        "itemNumber": "1036331",
+        "description": "Galician style pastries filled with Tuna and Vegetables. Our dough contains gourmet Spanish Olive oil and our famous paprika or \"pimenton\" and the filling is the perfect mix of wild tuna and slowly cooked vegetables.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/j/a/jatunaempanadaretailboxpic_20240321-205059_itvcarjtwfzaedal.jpg",
+        "contentUrl": "https://www.gfifoods.com/1036331-jose-andres-tuna-empanadas-1036331"
+    },
+    {
+        "name": "Soul Warming Chili Vegan",
+        "brand": "Soupergirl",
+        "packSize": "6/16 OZ",
+        "itemNumber": "104141",
+        "description": "Relax into the warming comfort of a bowl of chili. Seriously, no judgements if you want to literally dive into the actual bowl. The silly amount of plant-based protein and fiber has that effect on people. Relax, be zen, eat soup. Discuss!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/g/sg_soulwarmingchili_front_20240612-161226_uar5stcc4m4at4oh.jpg",
+        "contentUrl": "https://www.gfifoods.com/104141-soupergirl-soul-warming-chili-vegan-104141"
+    },
+    {
+        "name": "Cranberry Goat Cheese in Puff Pastry Dough",
+        "brand": "Laura Chenel",
+        "packSize": "18/8.2 OZ",
+        "itemNumber": "105117",
+        "description": "Laura Chenel's fresh and creamy goat cheese is swirled with ripe cranberries and dusted with cinnamon before folding into a decadent pastry crust. Each bite is the perfect combination of golden, flaky crunch and luscious, velvety cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/_/8.2oz_cran_chevre_en_croute_product_image_front_high-res_png_-_transparent_background_20240613-154228.jpg",
+        "contentUrl": "https://www.gfifoods.com/105117-laura-chenel"
+    },
+    {
+        "name": "Bacon Wrapped Scallop",
+        "brand": "Van Lang",
+        "packSize": "200/1 OZ",
+        "itemNumber": "104375",
+        "description": "Our 224400 Scallop Wrapped in Bacon has succulent scallops wrapped in flavorful bacon and accented with a bit of parmesan cheese & panko breadcrumbs for added texture and flavor.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/104375-van-lang"
+    },
+    {
+        "name": "Homestyle Mac & Cheese",
+        "brand": "Myles Comfort Foods",
+        "packSize": "4/5 LB",
+        "itemNumber": "104372",
+        "description": "Decadent & gooey three cheese sauce consisting of heavy cream, milk, butter, gruyere, colby jack, & cheddar over classic elbow macaroni noodles with a sprinkle of Italian inspired seasoning.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/00860012089406_homestylemainimage_20240724-165334.jpg",
+        "contentUrl": "https://www.gfifoods.com/104372-myles-comfort-foods"
+    },
+    {
+        "name": "Creamy Chicken and Rice Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700952",
+        "description": "Creamy Chicken and Rice Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700952-town-and-country-creamy-chicken-and-rice-soup-700952"
+    },
+    {
+        "name": "Potato & Truffle Pierogi",
+        "brand": "Severino",
+        "packSize": "12/14 OZ",
+        "itemNumber": "700168",
+        "description": "Severino Pasta is known as the place to find authentic and richly-flavored pasta! Our pierogi line has Vegetarian options only. Serves well pan fried or boiled with a side of sour cream.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/picture_20240207-145431_g7lgjmelczbikbpn.jpg",
+        "contentUrl": "https://www.gfifoods.com/700168-severino-potatotruffle-pierogi-700168"
+    },
+    {
+        "name": "Asian Style BBQ Pork Sliced",
+        "brand": "JIN HWA",
+        "packSize": "1/10 LB",
+        "itemNumber": "104854",
+        "description": "Sliced / Ready to Eat / Good for Deli / Tender / Juicy / Flavorful / Fully Cooked / Truly Marinated / Minimal Added Preservatives / Cured / Vacuum Packed",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_7056_20240517-195142_dj7oaekyhzxxr24q.jpg",
+        "contentUrl": "https://www.gfifoods.com/104854-royal-meat-asian-style-bbq-pork-sliced-104854"
+    },
+    {
+        "name": "Black Pepper Steak",
+        "brand": "Innovasian",
+        "packSize": "6/2.59 LB",
+        "itemNumber": "901253",
+        "description": "Fully cooked seasoned beef with a blend of green beans, red bell peppers, and onion tossed with a peppery soy sauce. Crunchy vegetables with a delicious black pepper sauce combined with seasoned beef. \nCONTAINS: SOY, WHEAT.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/1/41233_blackpeppersteak_display_2400x2400_20230831-170532_acs5uk6fxozeblb7.jpg",
+        "contentUrl": "https://www.gfifoods.com/901253-innovasian-black-pepper-steak-901253"
+    },
+    {
+        "name": "Vegetable Thai Red Noodles Entree Vegan",
+        "brand": "SRSLY Health",
+        "packSize": "6/13 OZ",
+        "itemNumber": "900242",
+        "description": "With a clever blend of low carb noodles and fresh vegetables wrapped in a medium spiced coconut, lemongrass and red chilli curry sauce, you'll not only feel like you've had a delicious meal, you'll also feel full. And to top all that, this meal contains just 18g carbs and 320 calories per portion.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/e/vegthairedskilletmockup_20240116-124501_y7ngleaaucorwaeg.jpg",
+        "contentUrl": "https://www.gfifoods.com/900242-srsly-low-carb-vegetable-thai-red-noodles-entree-vegan-900242"
+    },
+    {
+        "name": "Sous-Vide Egg Bite Prosciutto & Gruyere",
+        "brand": "Trois Petits Cochons",
+        "packSize": "6/8.4 OZ",
+        "itemNumber": "198502",
+        "description": "4 Pack Sous-Vide Egg Bite with Prosciutto & Gruyere.\nContains 4 Egg Bites 2.1 oz each.\nPerfectly cooked, cage-free sous-vide eggs with sweet, buttery aged Prosciutto and nutty, complex Gruyère cheese. C'est magnifique!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/p/ep4_20230107-115410_l0iykzbsnxo4zaci.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/198502-trois-petits-cochons-sous-vide-egg-bite-prosciuttogruyere-198502"
+    },
+    {
+        "name": "Vegetable Lasagna",
+        "brand": "Drake's",
+        "packSize": "9/38 OZ",
+        "itemNumber": "28038",
+        "description": "Complete Meal - Made with Fresh Hand cut Vegetables - Parmesan, Romano and whole milk mozzarella cheeses - Ricotta Impastata cheese - Authentic Italian Style - Made from scratch marinara",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/a/parlapasta_10inx10in_amazon_veggielasagna_packaged_20200611_1112288_wxpdzq9nfhpo8wx9.jpg",
+        "contentUrl": "https://www.gfifoods.com/28038-drake-s-vegetable-lasagna"
+    }
+]

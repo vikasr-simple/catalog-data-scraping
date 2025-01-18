@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Chicken & Dumpling Casserole",
+        "brand": "Dirt Road",
+        "packSize": "6/2 LB",
+        "itemNumber": "43061",
+        "description": "From Dirt Road Gourmet, we bring you our Better Than Chicken and Dumplings Casserole. Our buttermilk dumpling and rich chicken mixture will send the most sentimental aroma throughout your kitchen, reminding you of home.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chickendumplings_20211008_1001713_gwlqt05z4myhomwn.jpg",
+        "contentUrl": "https://www.gfifoods.com/43061-dirt-road-chicken-and-dumpling-casserole"
+    },
+    {
+        "name": "Butternut Squash Soup",
+        "brand": "Herban Fresh",
+        "packSize": "6/23.5 OZ",
+        "itemNumber": "30677",
+        "description": "Herban Fresh is a line of premium refrigerated soups featuring all-natural, non-GMO ingredients. Two percent from every sale directly supports urban farming initiatives. Our butternut squash soup is vegan and gluten free, with a velvety texture and a spicy and sweet balance of flavors.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/7145hf2420herban20fresh20butternut20squash20soup20cup_20210301-142009_1wnzg9w1qa9v1cl1.jpg",
+        "contentUrl": "https://www.gfifoods.com/30677-herban-fresh-butternut-squash-soup"
+    },
+    {
+        "name": "Chicken Tetrazzini Casserole",
+        "brand": "Dirt Road",
+        "packSize": "6/2 LB",
+        "itemNumber": "40337",
+        "description": "From Dirt Road Gourmet, please enjoy our Chicken Tetrazzini Casserole. A creamy and tasty blend of penne pasta, mushrooms and parmesan cheese, with a hint of Italian seasoning, topped with mozzarella cheese and butter cracker crumbs.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/40337-dirt-road"
+    },
+    {
+        "name": "Saag Paneer With Saffron Rice Gluten Free",
+        "brand": "Cafe Spice",
+        "packSize": "6/16 OZ",
+        "itemNumber": "12355",
+        "description": "Eat (and enjoy) your greens with Cafe Spice's protein and iron-rich Saag Paneer. A delicious, vitamin packed North Indian dish, prepared with perfectly spiced spinach, tomatoes and onions that are slowly cooked and topped with cubes of low-fat paneer, a traditional Indian farmer-style cheese.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/2/825120004024_main_20200305_1355736_ltq4qj3jzeciuuje.jpg",
+        "contentUrl": "https://www.gfifoods.com/12355-cafe-spice-saag-paneer-with-saffron-rice"
+    },
+    {
+        "name": "Chick'n Orzo Soup Vegan",
+        "brand": "Herban Fresh",
+        "packSize": "6/23.5 OZ",
+        "itemNumber": "30680",
+        "description": "Herban Fresh is a line of premium soups featuring all-natural, non-GMO ingredients. Two percent from every purchase of Herban Fresh soups directly supports urban farming initiatives. Our vegan chick'n orzo soup is a comfort food classic with plenty of that homemade taste.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/2/7232hf2420herban20fresh20vegan20chickn20orzo20soup20cup_20210301-164956_gcecv5apsrusbf31.jpg",
+        "contentUrl": "https://www.gfifoods.com/30680-herban-fresh-vegan-chicken-orzo-soup"
+    },
+    {
+        "name": "Shrimp & Sausage Gumbo",
+        "brand": "PGI",
+        "packSize": "6/23.5 OZ",
+        "itemNumber": "30672",
+        "description": "Our Gumbo is a creole classic with shrimp, all-natural andouille sausage, rice, okra, celery and green peppers. Each 23.5 oz package provides two generous servings in an attractive package with tamper-proof film seal.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/0/2052bc2420boston20chowda20shrimp2020sausage20gumbo20cup_20210301-111819_pzauh0lev86o8b7h.jpg",
+        "contentUrl": "https://www.gfifoods.com/30672-pgi-shrimpsausage-gumbo"
+    },
+    {
+        "name": "Stuffed Chicken Florentine",
+        "brand": "Kabobs",
+        "packSize": "45/7.5 OZ",
+        "itemNumber": "2993",
+        "description": "Florentine Stuffed Chicken Breast.  A deliciously marinated chicken breast, split and stuffed with a creamy blend of cheese and spinach.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/2993-kabobs-stuffed-chic"
+    },
+    {
+        "name": "Low Country Boil Kabob Made to Order",
+        "brand": "Kabobs",
+        "packSize": "100/0.9 OZ",
+        "itemNumber": "4361",
+        "description": "Low Country Boil Kabob",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/o/low20country20boil20main_20191007_1344153_hydmtfnjf8no3kkv.jpg",
+        "contentUrl": "https://www.gfifoods.com/4361-kabobs-kabob-low-country-boil-k4361"
+    },
+    {
+        "name": "Chili Lime Salmon Satay Gluten Free",
+        "brand": "Kabobs",
+        "packSize": "100/0.75 OZ",
+        "itemNumber": "440",
+        "description": "Chili Lime Salmon Satay",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/440-kabobs-chili-lime-salmon-satay"
+    },
+    {
+        "name": "Chicken Poppy Seed Casserole",
+        "brand": "Dirt Road",
+        "packSize": "6/2 LB",
+        "itemNumber": "43041",
+        "description": "From Dirt Road Gourmet, we bring you our Poppy Seed Chicken Casserole. A rich blend of chicken, poppy seeds, cream of chicken soup and sour cream topped with a buttery cracker and poppy seed mixture that'll send your taste buds hopping and hoping for more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/poopyseedchicken_20211008_1000895_znivd4gtx4uebhdv.jpg",
+        "contentUrl": "https://www.gfifoods.com/43041-dirt-road-chicken-poppy-seed-casserole"
+    },
+    {
+        "name": "Ground Pork Brochettes",
+        "brand": "Solera",
+        "packSize": "10/2.82 OZ",
+        "itemNumber": "23990",
+        "description": "Great for everyday snacking, packed for a quick lunch, appetizer, or parties on traditional Spanish Tapas plates. Imported from the Catalonia region of North East Spain. Merchandise with party and snacking items.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/tapas208020gram.20paprika_20190201_1701969_ckj4zejciwkogj9x.jpg",
+        "contentUrl": "https://www.gfifoods.com/23990-solera-spanish-tapas-ground-pork-brochettes"
+    },
+    {
+        "name": "Sweet Potato + Kale Chowder",
+        "brand": "Herban Fresh",
+        "packSize": "6/23.5 OZ",
+        "itemNumber": "30679",
+        "description": "Herban Fresh is a line of premium all-natural, non-GMO ingredients. Two percent from every purchase of Herban Fresh soups directly supports urban farming initiatives. Our hearty sweet potato and kale chowder is vegan, gluten free, non-GMO and packed with flavor.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/7164hf2420herban20fresh20sweet20potato2020kale20chowder20cup_20210301-162747_dlgdxvkeea1q4awk.jpg",
+        "contentUrl": "https://www.gfifoods.com/30679-herban-fresh-sweet-potato-kale-chowder"
+    }
+]

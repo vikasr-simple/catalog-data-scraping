@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Bonded Apricot Halves in Light Syrup",
+        "brand": "Premium",
+        "packSize": "6/105 OZ",
+        "itemNumber": "B31321",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b31321-dogtown-pizza"
+    },
+    {
+        "name": "Bonded Pear Halves in Light Syrup",
+        "brand": "Premium",
+        "packSize": "6/105 OZ",
+        "itemNumber": "B31331",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b31331-komplet"
+    },
+    {
+        "name": "Bonded Fruit Cocktail in Light Syrup",
+        "brand": "Premium",
+        "packSize": "6/105 OZ",
+        "itemNumber": "B51162",
+        "description": "Premium brand Fruit Cocktail is consistently produced and handled under conditions meeting Codex General Principles of Food Hygiene, FDA Good Manufacturing Practices and complies with all current national and international food legislation and all applicable laws and regulatory codes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b51162-forward-provision"
+    },
+    {
+        "name": "Black Olives Sliced",
+        "brand": "Premium",
+        "packSize": "6/106 OZ",
+        "itemNumber": "B99690",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/l/slicedolives_20211129_0948327_fwdc0ab5fkrjxszj.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/b99690-premium-sliced-black-olives"
+    },
+    {
+        "name": "Quartered Artichoke Hearts",
+        "brand": "Premium",
+        "packSize": "6/5 LB",
+        "itemNumber": "B75320",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b75320-borgo-de-medici-quartered-artichoke-hearts"
+    },
+    {
+        "name": "Bonded Sweet Potatoes Cut in Light Syrup",
+        "brand": "Premium",
+        "packSize": "6/100 OZ",
+        "itemNumber": "B31413",
+        "description": "Our Sweet Potatoes are Golden Yellow and packed in Light Syrup. The sweet potatoes\nare prepared from clean sweet potato plants, packed in hermetically sealed containers and\nsufficiently processed by heat to assure preservation.\nPremium or Golden Harvest Brand",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b31413-old-quebec"
+    },
+    {
+        "name": "Bonded Pumpkin",
+        "brand": "Premium",
+        "packSize": "6/105 OZ",
+        "itemNumber": "B31319",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/b31319-borgo-de-medici"
+    },
+    {
+        "name": "Pitted Morello Cherries - IQF",
+        "brand": "Ravifruit",
+        "packSize": "1/11 LB",
+        "itemNumber": "12546",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/a/rav840rev_20210331_1140207_7xrorozy8pprq22f.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/12546-ravifruit-pitted-morello-cherries-iqf"
+    },
+    {
+        "name": "Raisin Zante Currant Natural",
+        "brand": "Culinary Master",
+        "packSize": "1/5 LB",
+        "itemNumber": "162467",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/162467_main_20210309_0938624_sieyfpderuep1bbd.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/162467-culinary-master-raisin-zante-currant-natural"
+    },
+    {
+        "name": "Long Stem Artichokes",
+        "brand": "Divina",
+        "packSize": "6/5.5 LB",
+        "itemNumber": "407000",
+        "description": "A timeless staple of the Italian antipasto tradition, our robust and meaty long-stem artichokes are picked, trimmed, cleaned and sorted by hand. Steeped in tradition and bursting with flavor, these seasoned artichokes shine when split and grilled with fresh Parmigiano and a squeeze of lemon.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60700-1_8zkiqwnavbkatos1.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/407000-divina-long-stem-artichokes"
+    }
+]

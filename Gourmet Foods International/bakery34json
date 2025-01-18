@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Chocolate Rugelach Vegan",
+        "brand": "Lilly's",
+        "packSize": "12/8.00 OZ",
+        "itemNumber": "162034",
+        "description": "Lilly's Chocolate Rugelach - Decadent chocolate rolled inside multi-layered laminated dough provides a soft inside, but a crispy outside.  Dairy Free, Hand Made, Peanut Free, Vegan, Kosher.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolate20rugelach_kroger201_20210927_1837274_igalx0buw6yxaqt0.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/162034-lilly-s-chocolate-rugelach-162034"
+    },
+    {
+        "name": "Hatch Green Chile Corn and Wheat Tortillas",
+        "brand": "La Tortilla Factory",
+        "packSize": "12/11.5 OZ",
+        "itemNumber": "51018002",
+        "description": "La Tortilla Factory Handmade Style Hatch Green Chile Tortillas are a unique blend corn and wheat flour.  Soft and flexible with a genuine ‘homemade’ taste and texture! All of our Handmade Style tortillas are also Non-GMO Project Verified.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/7/078858510187_front_20240509-160241_zza6douicnyrvvpl.jpg",
+        "contentUrl": "https://www.gfifoods.com/51018002-la-tortilla-factory-hatch-green-chile-corn-and-wheat-tortillas-51018002"
+    },
+    {
+        "name": "Authentic Artisan Baguette",
+        "brand": "Bakery de France",
+        "packSize": "24/10 OZ",
+        "itemNumber": "100338",
+        "description": "An Artisan Baguette that features a crispy crust and aromatic earthy, sourdough undertones. Dive into the sourdough flavor by dippin in oil, slicing for sandwiches or crostini.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/4/5400authenticartisanbaguette_20240515-051055_uqhdhxnzstpoodeb.jpg",
+        "contentUrl": "https://www.gfifoods.com/100338-bakery-de-france-authentic-artisan-baguette-100338"
+    },
+    {
+        "name": "Tandoori Naan",
+        "brand": "Indianlife",
+        "packSize": "12/17.6 OZ",
+        "itemNumber": "104666",
+        "description": "Naan can be cut into pieces and eaten with curry or rolled into sandwiches, used for a pizza, souvlaki, gyro or a pancake. Naan can be used or served with toppings such as salsa, apple sauce, pie filling and shredded salad and cheese or rolled up with your favorite fixings",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/a/tandoorinaan1_20240510-150518_qyjj1rvfnvjk6ttu.jpg",
+        "contentUrl": "https://www.gfifoods.com/104666-indianlife-tandoori-naan-104666"
+    },
+    {
+        "name": "Fig Cake With Walnuts Gluten Free Vegan",
+        "brand": "Murciana",
+        "packSize": "2/5.5 LB",
+        "itemNumber": "402635",
+        "description": "Natural fig cake with walnuts",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/4/0/402635_main_20211113-082916_g1cdrhpcpjmm26rb.jpg",
+        "contentUrl": "https://www.gfifoods.com/402635-murciana-fig-cake-with-walnuts-bulk"
+    },
+    {
+        "name": "Chocolate Tartufo Cake 12 Slices",
+        "brand": "Lawler's",
+        "packSize": "4/81 OZ",
+        "itemNumber": "146043",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/4/146043_chocolate_tartufo_20240321-122746_tn7ffwu1o0zrqh1n.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/146043-lawler-s-chocolate-tartufo-cake-sliced-146043"
+    },
+    {
+        "name": "Franks In A Blanket",
+        "brand": "Kabobs",
+        "packSize": "100/0.5 OZ",
+        "itemNumber": "24362",
+        "description": "Franks in a Blanket.  Miniature beef frankfurters wrapped in a blanket of puff pastry.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k70020franks20blankets_20220305-005835_cjfruuefc4qzbhwj.jpg",
+        "contentUrl": "https://www.gfifoods.com/24362-kabobs-franks-in-a-blanket"
+    },
+    {
+        "name": "Double Chocolate Chip Cookie Dough Puck",
+        "brand": "Dogwood Dessert",
+        "packSize": "240/1.5 OZ",
+        "itemNumber": "11280",
+        "description": "Dogwood Desserts Double Chocolate Chip Cookie Dough Pucks give you in-store freshness as a ready-to-bake item.  An extra chocolaty soft cookie with plenty of chocolate chips, this is a go-to item for any bakery display.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/1/11280_main_nwyl0rifpxk1p77h.jpg",
+        "contentUrl": "https://www.gfifoods.com/11280-dogwood-dessert-double-chocolate-chip-cookie-dough-puck-11280"
+    },
+    {
+        "name": "Banquet Butter Croissants Mini",
+        "brand": "Bridor",
+        "packSize": "225/.88 OZ",
+        "itemNumber": "32181",
+        "description": "Our mini croissant from the ‘Les Savoureux’ collection is light, crispy, flaky and buttery. It is the perfect choice for breakfast or a sweet treat to complement your afternoon tea or coffee.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/3/33370_jq8tg3hhfpbv9uij.jpg",
+        "contentUrl": "https://www.gfifoods.com/32181-bridor-croissant-mini-butter-banquet"
+    },
+    {
+        "name": "Vegetable Empanada Large",
+        "brand": "Kabobs",
+        "packSize": "48/3 OZ",
+        "itemNumber": "105902",
+        "description": "Large Vegetable Empanada filled with fresh blend of vegetables paired with cheeses in a jalapeno flavored dough. Enjoy fried or baked as appetizer or entrée.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/l/r/lrgemp_20240830-142145_k9rhudxr70auejw3.jpg",
+        "contentUrl": "https://www.gfifoods.com/105902-kabobs"
+    },
+    {
+        "name": "Red Velvet French Macarons Gluten Free",
+        "brand": "Duverger",
+        "packSize": "6/12 CT",
+        "itemNumber": "13019",
+        "description": "Red Velvet French Macarons\nWe are 100% all-natural and all our macarons are handmade with the highest quality ingredients in a Gluten Free facility. Our products do not contain any artificial colors, preservatives, flavorings or compounds.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/e/red20velvet20v2_7yhapbkmn8fbo1s3.jpg",
+        "contentUrl": "https://www.gfifoods.com/13019-duverger-french-red-velvet-macarons"
+    },
+    {
+        "name": "Mini raisin danish roll",
+        "brand": "EK Ivry",
+        "packSize": "150/2.12 OZ",
+        "itemNumber": "1047141",
+        "description": "The mini version of our raisins danish roll. Our pain aux raisins is filled with a rich, delicate pastry cream. Its delicate pastry layers, made using our special levain, are expertly laminated by our dough-makers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/n/ensembleviennoiseries_20240514-143142_l5skig79rq2sr98m.jpg",
+        "contentUrl": "https://www.gfifoods.com/1047141-ek-ivry-mini-raisin-danish-roll-1047141"
+    }
+]

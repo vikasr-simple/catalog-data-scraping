@@ -1,0 +1,110 @@
+[
+     {
+          "name": "Garlic Naan",
+          "brand": "Indianlife",
+          "packSize": "12/17.6 OZ",
+          "itemNumber": "104622",
+          "description": "Naan can be cut into pieces and eaten with curry or rolled into sandwiches, used for a pizza, souvlaki, gyro or a pancake. Naan can be used or served with toppings such as salsa, apple sauce, pie filling and shredded salad and cheese or rolled up with your favorite fixings",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/g/a/garlicnaanimage_20240619-145738_2fhh0w5cqdcibnmp.jpg",
+          "contentUrl": "https://www.gfifoods.com/104622-indianlife-garlic-naan-104622"
+     },
+     {
+          "name": "Coconut Macaroons",
+          "brand": "Mrs Crimble's",
+          "packSize": "12/6.7 OZ",
+          "itemNumber": "994581",
+          "description": "Mrs. Crimble's Coconut Macaroons, Gluten Free & Made in Belgium. Ingredients: Sugar* coconut, glucose syrup*, egg white, dextrose*, potato starch*, vegetable oil (palm kernel, palm, coconut), fat reduced cocoa powder, sorbitan tristearate, soya lecithin., Rice flour.  *No Bioengineered Ingredient",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/994581-coconut-macaroons"
+     },
+     {
+          "name": "Original Baked Tortilla Chips",
+          "brand": "Rose Sisters Chips",
+          "packSize": "8/4.33 OZ",
+          "itemNumber": "105239",
+          "description": "Our chips are ready to serve. Eat them plain, pair them with a favorite dip, use them as a cracker, or crumble our BBQ Mesquite with a touch of heat onto your chili. They are intensely experiential and delicious. Life changing!",
+          "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+          "contentUrl": "https://www.gfifoods.com/105239-rose-sisters-chips"
+     },
+     {
+          "name": "French Silk Cream Pie Topped 9 Inch",
+          "brand": "Cyrus O'Leary's",
+          "packSize": "6/34 OZ",
+          "itemNumber": "515600",
+          "description": "Cyrus 9\" Topped French Silk Pie - It offers a tender, flaky pie crust with smooth chocolate silk, topped with whip topping & chocolate shavings. It has 180 days of frozen shelf life and 5 days refrigerated shelf life.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/1/5156_20240513-133424_ydyi8g6b0rratvdw.jpg",
+          "contentUrl": "https://www.gfifoods.com/515600-cyrus-o-leary-s-french-silk-cream-pie-topped-9-inch-515600"
+     },
+     {
+          "name": "Ojarascas Shortbread Cookies",
+          "brand": "Southland Baking",
+          "packSize": "9/2 LB",
+          "itemNumber": "950201",
+          "description": "N/A",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/h/o/hold20for20image_20210520_162316_82rrsbenbrn3gquz.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/950201-southland-baking-ojarascas-cky-950201"
+     },
+     {
+          "name": "Cripsy Oatmeal Raisin Cookies Bite Sized",
+          "brand": "Fancypants Baking",
+          "packSize": "6/5 OZ",
+          "itemNumber": "322111",
+          "description": "Fancypants Baking Co. Oatmeal Raisin Cookies, 5oz, Women-Owned, Non-GMO Project Verified, Upcycled Certified, How2Recycle Certified Packaging, Peanut Free, Tree Nut Free, Sesame Free, Certified Kosher Dairy",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/p/fp_oatmealraisin_5oz_front_20240415-093908_3fdcaehfi1huj8bw.jpg",
+          "contentUrl": "https://www.gfifoods.com/322111-fancypants-baking-cripsy-oatmeal-raisin-cookies-bite-sized-322111"
+     },
+     {
+          "name": "Black Forest Cheesecake",
+          "brand": "Symphony Usa",
+          "packSize": "2/3.4 LB",
+          "itemNumber": "377241",
+          "description": "Creamy New York style cheesecake topped with bitter chocolate mousse with poached cherries and chocolate shavings. Manufactured by Symphony in New Jersey.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/s/dsp241forest_20240130-165221_p8vbq1k7nn4vfbqq.jpg",
+          "contentUrl": "https://www.gfifoods.com/377241-symphony-pastry-black-forest-cheesecake-377241"
+     },
+     {
+          "name": "Belgian Chocolate Brownies Gluten Free",
+          "brand": "The Bake Shed",
+          "packSize": "8/12 CT",
+          "itemNumber": "102217",
+          "description": "Our gluten-free Belgian chocolate brownie is made with crunchy chocolate chunks and is the best fudging brownie ever. It is finished with a Belgian dark chocolate drizzle.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/102217_main_6mm2jpa7cix2og87.jpg",
+          "contentUrl": "https://www.gfifoods.com/102217-the-bake-shed-belgian-chocolate-brownies-gluten-free-102217"
+     },
+     {
+          "name": "Peppermint Cheesecake 3 Inch",
+          "brand": "Chuckanut Bay",
+          "packSize": "12/3.5 OZ",
+          "itemNumber": "293412",
+          "description": "At Chuckanut Bay Foods, we use only the finest all-natural real ingredients. You will never find high fructose corn syrup in our cheesecakes. Each cheesecake is handmade from scratch by real people.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/6/0/60381202934_20240517-122032_jqzeljvseugkakgq.jpg",
+          "contentUrl": "https://www.gfifoods.com/293412-chuckanut-bay-peppermint-cheesecake-3-inch-293412"
+     },
+     {
+          "name": "Olive Oil & Sel Gris Classic Flatbread",
+          "brand": "Rustic Bakery",
+          "packSize": "8/6 OZ",
+          "itemNumber": "332101",
+          "description": "Light and flaky flatbread crackers, made with extra virgin olive oil and grey sea salt from France. Pairs great with your favorite cheese. Perfect for snacking!",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/a/caseimage_20230531-144007_oc2ltsgw9xx3tzb1.jpg",
+          "contentUrl": "https://www.gfifoods.com/bakery/332101-rustic-bakery-olive-oilsel-gris-classic-flatbread-332101"
+     },
+     {
+          "name": "Demi Baguette",
+          "brand": "Bread Man Baking Co",
+          "packSize": "72/7 IN",
+          "itemNumber": "103453",
+          "description": "Introducing our Hinged Sliced Demi Baguette: convenient, versatile, and oh-so-delicious. Perfectly sliced and hinged for effortless serving. Enjoy the classic taste of a baguette with ease.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/r/bread_man_baking_12-11-20_full_res_final_edit-33_20240307-123523_zd3lqzuocpx47yyn.jpg",
+          "contentUrl": "https://www.gfifoods.com/103453-bread-man-baking-co-demi-baguette"
+     },
+     {
+          "name": "Lemon Meringue Pie 9 Inch",
+          "brand": "Cyrus O'Leary's",
+          "packSize": "4/41 OZ",
+          "itemNumber": "515000",
+          "description": "Cyrus Lemon Meringue 9\" Topped Pie - Made from scratch using the freshest & highest quality ingredients. This lemon meringue sits on top of a tender & flaky crust, while offering a 5 day refrigerated shelf life.",
+          "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/5/1/5150_20240513-095050_mwujstmpdriearzq.jpg",
+          "contentUrl": "https://www.gfifoods.com/515000-cyrus-o-leary-s-lemon-meringue-pie-9-inch-515000"
+     }
+]

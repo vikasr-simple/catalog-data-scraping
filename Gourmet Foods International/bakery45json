@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Mummy Cookie",
+        "brand": "Starbucks",
+        "packSize": "30/2.24 OZ",
+        "itemNumber": "100247",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/100247-starbucks-mummy-cookie-100247"
+    },
+    {
+        "name": "Ham & Cheese Croissant RTB",
+        "brand": "Lecoq Cuisine",
+        "packSize": "45/3 OZ",
+        "itemNumber": "90035",
+        "description": "Ready to bake Ham & cheese Croissant Contains a homemade ham and Swiss cheese filling Zero grams Trans fat 3.00 oz. per piece, 45 pieces per case Ready in less than 15 minutes",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/0/90035_main_20220319-154120_j6p8n1wtzdw0dwhw.jpg",
+        "contentUrl": "https://www.gfifoods.com/90035-lecoq-cuisine-hamcheese-croissant-rtb"
+    },
+    {
+        "name": "Pie Crust 10.5 Inch",
+        "brand": "C'Est Gourmet",
+        "packSize": "36/10.5 IN",
+        "itemNumber": "600109",
+        "description": "(40) 4.2oz sheets are contained in one package for a net product weight per package of 10.5lbs and a gross package weight of 11.2lbs. Use for single or double-crusted pies.  Fill and bake as desired, following your favorite pie recipes.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/e/cest20gourmet2010.5in20pie_round_azkrtvnjqbully08.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/600109-c-est-gourmet-pie-crust-rounds-10-5in"
+    },
+    {
+        "name": "Rainbow Cake",
+        "brand": "Laromme",
+        "packSize": "24/11 OZ",
+        "itemNumber": "191323",
+        "description": "Laromme rainbow cake is  a true delicacy. Three colored cake layers red, yellow and green topped with a chocolate ganache with a fine layer of apricot spread between the layers",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/9/19132320rainbow20cakes_20210606-190007_ergbz3ujxcvexuw9.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/191323-laromme-rainbow-cake"
+    },
+    {
+        "name": "Assorted Macarons",
+        "brand": "Bridor",
+        "packSize": "96/0.4 OZ",
+        "itemNumber": "37838",
+        "description": "ASSORTED MACARONS LENOTRE 96 PIECES (6 DIFFERENT FLAVORS: Chocolate, raspberry, vanilla, coffee, salted caramel, lemon) Traditional recipe on a butter cream, ganache, or fruit compote base. Best before date: 12 months.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/h/photo2037838-ftv120petits20macarons20assortiment20usa_20181203_1624761_e69kxanyd7xtqiyi.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/37838-bridor-assorted-macarons"
+    },
+    {
+        "name": "Artisan Square Sandwich Roll 4 Inch",
+        "brand": "Bakery de France",
+        "packSize": "60/3.25 OZ",
+        "itemNumber": "100342",
+        "description": "The Artisan Square sandwich roll offers a subtle hint of olive oil and crisp crust that’s perfect for any mealtime masterpiece. Use as a gourmet burger bun or paired with premium meats and cheeses.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/5/f5202artisansquare4x4_20240515-192729_do4zo588fs4l5ob1.jpg",
+        "contentUrl": "https://www.gfifoods.com/100342-bakery-de-france-artisan-square-sandwich-roll-4-inch-100342"
+    },
+    {
+        "name": "Red Velvet Tea Cakes",
+        "brand": "Bite",
+        "packSize": "12/9.0 OZ",
+        "itemNumber": "7110134",
+        "description": "A delicious Red Velvet teacake, or mini cake, drizzled with icing and covered in sprinkles. that had a  The product keeps up to 1 year frozen or 30-days life from thaw. Simply remove from the freezer and serve.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/1/7110134_terry20main_mkewgrsqhapfiori.jpg",
+        "contentUrl": "https://www.gfifoods.com/7110134-bite-red-velvet-tea-cakes"
+    },
+    {
+        "name": "Cinnamon Raisin Bagels Take & Toast",
+        "brand": "Einstein Bros",
+        "packSize": "6/18.5 OZ",
+        "itemNumber": "807540",
+        "description": "CINNAMON RAISIN: Sweet, juicy raisings paired with aromatic cinnamon - it's a match made in heaven.\nBagels arrive frozen to maximize shelf life and are ready to sell - designed to thaw & sell on shelf.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/b/ebb-taketoast-cinnamonraisinfrontnew_20201103-114755_hzkspwkoontdrczm.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/807540-einstein-bros-cinnamon-raisin-bagels-take-and-toast-807540"
+    },
+    {
+        "name": "Mini Green Olive Baguette",
+        "brand": "Bridor",
+        "packSize": "45/1.6 OZ",
+        "itemNumber": "329150",
+        "description": "Our triangle shaped mini ciabatta brings a delightful touch of the Mediterranean cuisine to your menu. Rich in green olives and olive oil, it convinces with an intense taste profile.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/2/32915020green20olive20mini20bread_20210927_114355_2zxf56r0gskgivka.jpg",
+        "contentUrl": "https://www.gfifoods.com/329150-bridor-baguette-green-olive-mini"
+    },
+    {
+        "name": "Truffle Crisps Vegan",
+        "brand": "Sabatino",
+        "packSize": "12/5 OZ",
+        "itemNumber": "26937",
+        "description": "Truffle crisps are artisan-crafted, crunchy crisps made with black summer truffles and in small batches to preserve their authentic flavor and signature seasoning. Serve as an easy appetizer, enjoy on a salad, mix into soup, or simply eat them straight out of the bag!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/t/r/trufflecrisps_5oz_gfi1_20201222_1234400_rstzu4w7bnni8ylt.jpg",
+        "contentUrl": "https://www.gfifoods.com/26937-sabatino-truffle-crisps"
+    },
+    {
+        "name": "Assorted Crisps Shipper",
+        "brand": "2S Company",
+        "packSize": "1/72 CT",
+        "itemNumber": "173001",
+        "description": "Gourmet Specialty Crackers. One shipper - three different flavoured Specialty Crisps. Packed full of natural ingredients including nuts, seeds & fruit. Ideal with cheese, dips and other condiments.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/s/2s20company20spec20shipper_20200731_084558_4cf8abtycegtamc1.jpg",
+        "contentUrl": "https://www.gfifoods.com/173001-2s-company-assorted-shipper"
+    },
+    {
+        "name": "Bacon & Egg Croissant RTB",
+        "brand": "Lecoq Cuisine",
+        "packSize": "45/3 OZ",
+        "itemNumber": "90037",
+        "description": "Ready to Bake Bacon and Egg Croissant \nContains homemade smoked bacon, cheddar and egg filling with a hint of chive  \nZero grams Trans fat\n3.00 oz. per piece, 45 pieces per case \nReady in less than 15 minutes \nPerfect for breakfast or lunch",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/0/90037_main_20220314-103910_emanzmmlef3qns6b.jpg",
+        "contentUrl": "https://www.gfifoods.com/90037-lecoq-cuisine-rtb-baconegg-croissant"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Spicy Peanut Stew",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700489",
+        "description": "Spicy Peanut Stew. Keep refrigerated, heat and serve, ready to eat. Manufactured exclusively for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700489-town-and-country-spicy-peanut-stew-700489"
+    },
+    {
+        "name": "Tuscan Style White Bean and Italian Sausage Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "701102",
+        "description": "Tuscan Style White Bean Italian Sausage Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701102-town-and-country-tuscan-style-white-bean-and-italian-sausage-soup-701102"
+    },
+    {
+        "name": "Beef Carne Guisada Fully Cooked",
+        "brand": "Supreme Meat Purveyors",
+        "packSize": "2/5 LB",
+        "itemNumber": "1102655",
+        "description": "Supreme Meat Purveyors Classic Carne Guisada (Beef & Gravy), 1/2 in, Fully Cooked - Supreme Meat Purveyors performs a comprehensive range of co-packing and custom product development capabilities that give our food service and retail customers an authentic advantage.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/u/supreme-meat-purveyors-logo-pantone-cmyk_20240111-155803_f9zi4gmqfidtu1fk.jpg",
+        "contentUrl": "https://www.gfifoods.com/1102655-supreme-meat-purveyors-beef-carne-guisada-fully-cooked-1102655"
+    },
+    {
+        "name": "Peruvian Corn Chowder",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "701043",
+        "description": "Peruvian Corn Chowder. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701043-town-and-country-peruvian-corn-chowder-701043"
+    },
+    {
+        "name": "Tikka Masala Style Chicken Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "701045",
+        "description": "Tikka Masala Style Chicken Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/701045-town-and-country-tikka-masala-style-chicken-soup-701045"
+    },
+    {
+        "name": "Chicken And Andouille Gumbo",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700606",
+        "description": "Chicken Andouille Gumbo. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700606-town-and-country-chicken-and-andouille-gumbo-700606"
+    },
+    {
+        "name": "Thai Coconut Chicken Soup",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700722",
+        "description": "Thai Coconut Chicken Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700722-town-and-country-thai-coconut-chicken-soup-700722"
+    },
+    {
+        "name": "Vegan Bolognese EU",
+        "brand": "Cuisine Solutions",
+        "packSize": "30/6 OZ",
+        "itemNumber": "729473EU",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/729473eu-729473eu"
+    },
+    {
+        "name": "Vegetable Spring Roll Cocktail Size",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "461112",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/o/cocktail_size_vegetable_spring_roll_main_pvyj2na6bfedgp9p.jpg",
+        "contentUrl": "https://www.gfifoods.com/461112-gourmet-kitchen-vegetable-spring-roll-cocktail-size-461112"
+    },
+    {
+        "name": "Chicken Tikka Masala Gluten Free",
+        "brand": "Cafe Spice",
+        "packSize": "1/10 LB",
+        "itemNumber": "27921",
+        "description": "With bright ingredients and freshly ground spices, our authentic Chicken Tikka Masala recipe won the Specialty Food Association’s Sofi Award on numerous occasions!  Tender pieces of chicken are marinated, roasted, and then simmered in our signature Tikka Masala sauce",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chicken-tikka-masala_20230815-123745_hamyqfawz22zfkfy.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/27921-cafe-spice-chicken-tikka-masala-27921"
+    },
+    {
+        "name": "Beer Battered Cheese Curds",
+        "brand": "Ellsworth",
+        "packSize": "4/2.5 LB",
+        "itemNumber": "993751",
+        "description": "From the Cheese Curd Capital® Ellsworth Cooperative Creamery’s All-Natural Cheddar Cheese Curds. These are pre-battered and then frozen for convenient foodservice applications. Our white cheddar cheese curds coated with an exclusive beer batter made with a local Wisconsin lager.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_6395_20230223-143233_hqdubbtctiztoarr.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/993751-ellsworth-beer-battered-cheese-curds-993751"
+    },
+    {
+        "name": "Seared Beef Short Ribs EU",
+        "brand": "Cuisine Solutions",
+        "packSize": "90/6 OZ",
+        "itemNumber": "729223EU",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/729223eu-729223eu"
+    }
+]

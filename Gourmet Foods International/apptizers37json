@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Buffalo Style Chicken Crunch Roll",
+        "brand": "Crunch Factory",
+        "packSize": "48/3.35 OZ",
+        "itemNumber": "768388",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/r/productimage_20240521-104936_j6gogmq61atq2khf.jpg",
+        "contentUrl": "https://www.gfifoods.com/768388-crunch-factory-buffalo-style-chicken-crunch-roll-768388"
+    },
+    {
+        "name": "Bolognase Vegan",
+        "brand": "Cuisine Solutions",
+        "packSize": "8/2 LB",
+        "itemNumber": "718433",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/e/veganbolognase_20221021-152135_d3w3prdmlxlsoao4.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/718433-cuisine-solutions-bolognase-vegan718433"
+    },
+    {
+        "name": "Bone-In Short Rib Seared Gluten Free",
+        "brand": "Cuisine Solutions",
+        "packSize": "4/5 LB",
+        "itemNumber": "35040",
+        "description": "Our seared bone-in short ribs are slow-cooked and simply seasoned with salt and black pepper. Cooked Sous Vide which provides unparalleled food safety.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/n/snag_22380a8e_20210617_0741362_wdnvfhcugf8zwdfo.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/35040-cuisine-solutio-seared-bone-in-short-rib"
+    },
+    {
+        "name": "Goat Cheese & Honey Triangle Phyllo",
+        "brand": "Kabobs",
+        "packSize": "200/.65 OZ",
+        "itemNumber": "736",
+        "description": "Goat Cheese and Honey Phyllo Triangle.  A creamy blend of goat cheese, accented with honey, hand wrapped in buttery phyllo pastry, and topped with a brown sugar crumble.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/k/7/k73620goat20cheese20honey20phyllo_20220305-010052_mkybyy4rbcrrymb6.jpg",
+        "contentUrl": "https://www.gfifoods.com/736-kabobs-goat-cheese-and-honey-triangle-phyllo"
+    },
+    {
+        "name": "Palak Paneer",
+        "brand": "Mona's Curryations",
+        "packSize": "8/22.9 OZ",
+        "itemNumber": "36520",
+        "description": "Mona's Curryations Palak Paneer - It's all in the bag! Creamy paneer cheese cubes in a pureed spinach with fenugreek and traditional aromatic spices like cumin and garam masala are all mixed in and ready for you to cook.  Warm up the naan and enjoy this restaurant inspired meal right at home!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/c/mc20-20palak20paneer20front20-2008-600068238120gs1_20220125-144207_koir2slfzi8uwwkx.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/36520-mona-s-curryations-palak-paneer-36520"
+    },
+    {
+        "name": "Pommes Souffle",
+        "brand": "Gourmet Potato",
+        "packSize": "4/200 CT",
+        "itemNumber": "70111",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/po1000_pomes20souffle20600px_20201102_160359_n8s19otpp8o8mijd.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/70111-gourmet-potato-pommes-souffle"
+    },
+    {
+        "name": "Mediterranean Red Lentil",
+        "brand": "Soupergirl",
+        "packSize": "6/16 OZ",
+        "itemNumber": "104285",
+        "description": "We feature this soup all year long because it is perfect for every season, every day, every hour. That's right. This classic, creamy, light, fabulous soup is perfect at 3am in August and 1pm in December. Don't believe us? Set your alarm!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/g/sg_mediterraneanredlentil_front_20240503-132408_070nguesuoz6pj1f.jpg",
+        "contentUrl": "https://www.gfifoods.com/104285-soupergirl-mediterranean-red-lentil-104285"
+    },
+    {
+        "name": "Red Wine Braised Beef",
+        "brand": "Trois Petits Cochons",
+        "packSize": "6/16 OZ",
+        "itemNumber": "103828",
+        "description": "Three little pigs Gourmet Meals, Sous Vide Red Wine Braised Beef Sous-Vide Red Wine Braised Beef - Boeuf Bourguignon with Mushrooms, Onions and Carrots.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/e/rebb_main_20240321-230233.jpg",
+        "contentUrl": "https://www.gfifoods.com/103828-trois-petits-cochons"
+    },
+    {
+        "name": "Halloumi Burgers",
+        "brand": "Dodoni",
+        "packSize": "10/7.05 OZ",
+        "itemNumber": "131010",
+        "description": "Dodoni Halloumi Burgers Authentic Halloumi originates from the\nMediterranean island of Cyprus. Our delicious\nHalloumi is produced by combining traditional\nCypriot cheese-making methods with\nthe know-how and experience of DODONI,",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/o/dodoni20haloumi20burgers207.05z_f92cmtlqf725xfbc.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/131010-dodoni-halloumi-burgers"
+    },
+    {
+        "name": "Meat Lasagna",
+        "brand": "Drake's",
+        "packSize": "9/38 OZ",
+        "itemNumber": "280111",
+        "description": "Complete Meal- Lean hormone free ground beef- Parmesan, Romano and whole milk mozzarella cheeses - Ricotta Impastata cheese - Authentic Italian Style - Made from scratch marinara - Pasta made with whole egg",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/a/parlapasta_10inx10in_amazon_lasagnawithmeatsauce_packaged_20200618_1215464_u7wjxlxbowpnhqeu.jpg",
+        "contentUrl": "https://www.gfifoods.com/280111-drake-s-meat-lasagna"
+    },
+    {
+        "name": "Potato Pierogi",
+        "brand": "Severino",
+        "packSize": "12/14 OZ",
+        "itemNumber": "700130",
+        "description": "Severino Potato Pierogi taste typical of a fresh cooked pasta with filling, free from excessive saltiness or lack of taste. Filling tastes like boiled mashed potatoes. The texture of the dough to be firm but not chewy. Filling to be soft.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/o/potato20pierogi20retail_20200810_1405659_lmnczlza3xqx2imr.jpg",
+        "contentUrl": "https://www.gfifoods.com/700130-severino"
+    },
+    {
+        "name": "Chicken & Vegetable Spring Roll",
+        "brand": "Les Chateaux",
+        "packSize": "96/1.5 OZ",
+        "itemNumber": "49400",
+        "description": "These Chicken vegetable  Spring Rolls are  light with crisp-crackly skin and small enough to enjoy in 4 bites. The filling is also light, full of tender-crisp vegetables and you should be able to taste and distinguish every single ingredient in the filling. Delicious and authentic!",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/all-products/49400-les-chateaux-chicken-vegetable-spring-roll"
+    }
+]

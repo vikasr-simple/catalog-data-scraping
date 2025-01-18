@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Malibu Coconut Shrimp 21/25",
+        "brand": "Gourmet Kitchen",
+        "packSize": "100/1 OZ",
+        "itemNumber": "465002",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/m/a/malibucoconutshrimp_a77jnbka2ysakpxa.jpg",
+        "contentUrl": "https://www.gfifoods.com/465002-gourmet-kitchen-malibu-coconut-shrimp-21-25-465002"
+    },
+    {
+        "name": "Ethiopian Lentil Combo Vegan",
+        "brand": "Global Village Foods",
+        "packSize": "6/11.5 OZ",
+        "itemNumber": "100138",
+        "description": "Two Ethiopian inspired vegan stews: a green split pea stew with flax, fenugreek  and earthy spices, and red lentil stew with ginger,  cardamom and Ethiopian Berebere spice,  served with  hearty brown rice  with nutrient-rich millet. Sell from frozen shelf or slack & date 7 days for PFD Grab & Go.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/e/t/ethiopian-vegan-lentil-combo_20230018-062527_mtryskdifrgni0gu.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100138-global-village-foods-ethiopian-lentil-combo-vegan-100138"
+    },
+    {
+        "name": "Sautéed Chicken & Peaches",
+        "brand": "Global Village Foods",
+        "packSize": "2/5 LB",
+        "itemNumber": "100156",
+        "description": "Sauteed Chicken & Peaches (BULK ENTREE) \n• GLUTEN FREE / Dairy, Egg, Nut, Sesame & Seafood FREE  \n• Boneless chicken seasoned with tarragon, basil and other herbs, sauteéd and simmered in a sweet-zesty sauce of citrus, garlic and sliced peaches. Ready to heat and serve from boil/steam bag.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chicken2020peahes20-bowl_20230012-151222_9zx4yjmf729ne1hx.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/100156-global-village-foods-sauteed-chickenpeaches-100156"
+    },
+    {
+        "name": "Coconut Milk and Chia Seeds Oatmeal",
+        "brand": "Cuisine Solutions",
+        "packSize": "8/2 LB",
+        "itemNumber": "102246",
+        "description": "Coconut Chia Oatmeal enjoyed hot or cold. Our Lightly sweetened mix of steel cut oatmeal, chia seeds, and coconut milk is a creative alternative to refresh any breakfast or dessert menu",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/102246-cuisine-solutions"
+    },
+    {
+        "name": "Creamy Chicken and Rice Soup",
+        "brand": "Town and Country",
+        "packSize": "2/8 LB",
+        "itemNumber": "700952",
+        "description": "Creamy Chicken and Rice Soup. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700952-town-and-country-creamy-chicken-and-rice-soup-700952"
+    },
+    {
+        "name": "Split Pea Soup With Uncured Bacon",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700650",
+        "description": "Soup Split Pea with uncured Bacon. Keep refrigerated, heat and serve, ready to eat. Manufactured for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700650-town-and-country-split-pea-soup-with-uncured-bacon-700650"
+    },
+    {
+        "name": "Chorizo Paella Kit with Pan",
+        "brand": "Carmencita",
+        "packSize": "5/9.35 OZ",
+        "itemNumber": "102644",
+        "description": "MEAT & CHORIZO PAELLA KIT 2 SERVINGS, CARMENCITA BRAND, ORIGIN SPAIN. Gluten free, no glutamate, no preservatives & no artificial flavor. Paella pan suitable for electric, gas, induction and ceramic. Bring to your home the real chorizo paella flavor from Spain.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/3/03477_20240112-093213_u8obuwcpeqa4xnsf.jpg",
+        "contentUrl": "https://www.gfifoods.com/102644-carmencita-chorizo-paella-kit-with-pan-102644"
+    },
+    {
+        "name": "St. Louis Style Deluxe Pizza",
+        "brand": "Imo's",
+        "packSize": "12/21.8 OZ",
+        "itemNumber": "100309",
+        "description": "The original Imo's St Louis Style Deluxe Pizza with edge to edge toppings, crispy thin crust, our signature sauce and our unique Provel Cheese, which is a blend between cheddar, swiss, and smoked provolone.  Our pizza is loaded with full slices of bacon, sausage, peppers and onions.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/e/deluxe_1000x1000_imos2022_20240409-123036_evszmfmsjqjhljef.jpg",
+        "contentUrl": "https://www.gfifoods.com/100309-imo-s-st-louis-style-deluxe-pizza-100309"
+    },
+    {
+        "name": "Lemon and Herb Chicken",
+        "brand": "Trois Petits Cochons",
+        "packSize": "6/16 OZ",
+        "itemNumber": "103831",
+        "description": "Sous-Vide Lemon & Herb Chicken Breasts - Poulet aux Herbes de Provence with Peppers, Olives, and Shallot. Sous-Vide, All Natural, No Antibiotics, GlutenFree, 20g of Protein Per Serving, 1g of Sugar per Serving, Ready in 5 min, Handcrafted, Fully Cooked.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/r/e/rech_main_20240321-234427_gnwp2xuziaaoixzl.jpg",
+        "contentUrl": "https://www.gfifoods.com/103831-trois-petits-cochons"
+    },
+    {
+        "name": "Spicy Peanut Stew",
+        "brand": "Town and Country",
+        "packSize": "16/22 OZ",
+        "itemNumber": "700652",
+        "description": "Spicy Peanut Stew. Keep refrigerated, heat and serve, ready to eat. Manufactured exclusively for Town and Country Markets. It cannot be sold to other customers.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/700652-town-and-country-spicy-peanut-stew-700652"
+    },
+    {
+        "name": "Bacon Wrapped Quail Breast",
+        "brand": "Texas Quail Farms",
+        "packSize": "5/1 LB",
+        "itemNumber": "102682",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/i/m/img_1349_20240131-151555_d4f3u2n0iqicdoik.jpg",
+        "contentUrl": "https://www.gfifoods.com/102682-texas-quail-farms-bacon-wrapped-quail-breast-102682"
+    },
+    {
+        "name": "Quail Eggs",
+        "brand": "Texas Quail Farms",
+        "packSize": "10/24 CT",
+        "itemNumber": "1101557",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/f/r/fresh_quail_eggs_20240112_1649726_qvma16bgk0jfx1va.jpg",
+        "contentUrl": "https://www.gfifoods.com/1101557-texas-quail-farms-quail-eggs-1101557"
+    }
+]

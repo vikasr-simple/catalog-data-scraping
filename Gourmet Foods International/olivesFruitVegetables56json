@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Sundried Strawberries",
+        "brand": "Culinary Master",
+        "packSize": "1/5 LB",
+        "itemNumber": "162486",
+        "description": "These delicious Sundried Strawberries from Culinary Masters are made from 100% USA grown strawberries, and are the perfect thing for baking and recipes or snacking!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/6/162486_main_20210406_1230901_szbdmcr6m2kfdmxk.jpg",
+        "contentUrl": "https://www.gfifoods.com/162486-culinary-master-strawberries-sundried-usa"
+    },
+    {
+        "name": "Hearts Of Palm",
+        "brand": "Savor",
+        "packSize": "12/28 OZ",
+        "itemNumber": "103388",
+        "description": "Hearts of palm bring a lot to the table when added to a salad, pureed into a creamy dip or turned into a gluten-free pasta. Pan fry as a vegan substitute",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10684476002712_main_20240301_102808_u41mpllkbsmbhz4r.jpg",
+        "contentUrl": "https://www.gfifoods.com/103388-savor-hearts-of-palm-103388"
+    },
+    {
+        "name": "Roasted & Marinated Red Tomatoes",
+        "brand": "Divina",
+        "packSize": "6/64 OZ",
+        "itemNumber": "70200",
+        "description": "All-natural red tomatoes picked at peak ripeness and slow-roasted for a deep, rich flavor. Summer-fresh and juicy all year-round!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/7/0/70200-2_20190819_1805190_nmi59hurehbrk6qw.jpg",
+        "contentUrl": "https://www.gfifoods.com/70200-divina-roastedmarinated-red-tomatoes"
+    },
+    {
+        "name": "Spicy Bomb",
+        "brand": "Ficacci",
+        "packSize": "6/10.2 OZ",
+        "itemNumber": "100592",
+        "description": "We recommend trying a delightful spread consisting of aubergines, artichokes, champignon mushrooms, and spices. This spread is ideal for bread or pasta.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/v/s/vsbopi290_front_20230630-164010_i8brhte7e3pnkthl.jpg",
+        "contentUrl": "https://www.gfifoods.com/100592-ficacci-spicy-bomb-100592"
+    },
+    {
+        "name": "Pepperazzi",
+        "brand": "Delallo",
+        "packSize": "2/6.5 LB",
+        "itemNumber": "10568",
+        "description": "DeLallo Pepperazzi Peppers are squat, sturdy red peppers from Peru, boasting a hot and tangy flavor accented by its sweet vinegar marinade. Pepperazzi are perfect for stuffing with creamy cheeses, Italian sausage, crabmeat or try them on salads, pizzas, pasta, and more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10568_pepperazzi_nzef0gpeon0qivim.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/10568-delallo-pepperazzi"
+    },
+    {
+        "name": "French Fries 3/8\" Regular Cut",
+        "brand": "Stealth",
+        "packSize": "6/5 LB",
+        "itemNumber": "37147",
+        "description": "These Fries Stay Hotter And Crispier Up To Twice As Long As Traditional Fries Due To Our Invisible Potato Starch Coating. This Popular Cut Is The Perfect Balance Of Potato Texture And Flavor While Providing Great Yield.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/7/37147m_20220321-135214_gw3hwnrxfuh5vx6g.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/37147-stealth-3-8-regular-cut-french-fries-37147"
+    },
+    {
+        "name": "Frescatrano Olives Pitted",
+        "brand": "Divina",
+        "packSize": "4/2.2 LB",
+        "itemNumber": "970",
+        "description": "Exclusive to FOODMatch, these vibrant, sweet and crowd-pleasing Halkidiki olives are cured in refrigeration (unpasteurized and unfermented) and perfect tossed with grains, greens or pasta.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0970-2_20190821_1445984_v8vmsryvqy7v0qkh.jpg",
+        "contentUrl": "https://www.gfifoods.com/970-divina-frescatrano-pitted-olives"
+    },
+    {
+        "name": "Barrel Cured Full Sour Pickles",
+        "brand": "Natural Harvest",
+        "packSize": "12/32 OZ",
+        "itemNumber": "330700",
+        "description": "Natural Harvest carefully observes our cucumbers throughout this process as they soak in our signature brine of purified water, salt, garlic and vinegar with a hint of bay leaf, black peppercorn, coriander, mustard seed, all spice, dill, and cinnamon bark.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/0/0/0008_barrel-cured-full-sour_20230620-144740_dojbqk30tfyu1vxu.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/330700-natural-harvest-barrel-cured-full-sour-pickles-330700"
+    },
+    {
+        "name": "Olive Tapenade Plain",
+        "brand": "Delallo",
+        "packSize": "6/6 OZ",
+        "itemNumber": "103648",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/103648-delallo"
+    },
+    {
+        "name": "Sushi Ginger Pink Gari",
+        "brand": "Greenland",
+        "packSize": "4/5 LB",
+        "itemNumber": "705844",
+        "description": "Sushi Ginger Pink Gari Ready-to-Eat for sushi & sashimi raw fish.  Already pre-sliced, drain liquid and serve.  Condiment; Asian Category, Cleanse Palate; Seafood",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/u/sushi20ginger_20221018-111936_gkixkzgskieoskwd.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/705844-greenland-sushi-ginger-pink-gari-705844"
+    },
+    {
+        "name": "Kalamata Olives Wedges",
+        "brand": "Divina",
+        "packSize": "2/5 LB",
+        "itemNumber": "2223",
+        "description": "Our Kalamata wedges (a vertical slice of the olive as opposed to the traditional ring) offer time and labor savings to chefs looking to incorporate these smoky and fruity olives into dishes like quesadillas, wraps, pasta, salad and more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/d/0/d0222_dv_pac-large_20240605-154657_n9vmaostxnpnnbkq.jpg",
+        "contentUrl": "https://www.gfifoods.com/2223-divina-kalamata-olives-wedges-2223"
+    },
+    {
+        "name": "Spicy Pickle Spears",
+        "brand": "Mcclure's",
+        "packSize": "6/32 OZ",
+        "itemNumber": "30152",
+        "description": "McClure's Spicy Pickle Spears, all-natural and top 8 allergen free",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/2/0/2014_mccluresproducts-42000220main_ytthh575mynwsyam.jpg",
+        "contentUrl": "https://www.gfifoods.com/all-products/30152-mcclure-s-pickle-spear"
+    }
+]

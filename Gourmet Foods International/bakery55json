@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Multi-Seed Roasted Garlic Cracker Gluten Free",
+        "brand": "Crunchmaster",
+        "packSize": "12/4 OZ",
+        "itemNumber": "40006",
+        "description": "MULTI-SEED ROASTED GARLIC",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/i/picture3_20190228_1352499_wvqqj2uqckkm0omq.jpg",
+        "contentUrl": "https://www.gfifoods.com/40006-crunchmaster-gluten-free-multi-seed-roasted-garlic-cracker"
+    },
+    {
+        "name": "Chocolate Overload Cake Sliced",
+        "brand": "David's Cookies",
+        "packSize": "24/7.4 OZ",
+        "itemNumber": "95621",
+        "description": "Dark Chocolate cake layers with sweet milk chocolate mousse filling covered in chocolate ganache with chcolate shavings.  Labels included to apply in store.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/c/h/chocolate-overload-2_20220217-113444_hbnbgiupav9lwzkl.jpg",
+        "contentUrl": "https://www.gfifoods.com/95621-david-s-cookies95621"
+    },
+    {
+        "name": "Briochelle Rolls",
+        "brand": "Bakerly",
+        "packSize": "8/9.88 OZ",
+        "itemNumber": "100075",
+        "description": "An authentic French brioche roll recipe that will elevate your family’s dinner time favorites and appetizers with our signature subtle sweetness. Includes 8 brioche rolls per pack. Happiness is just a bite away!",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/b/a/bakerly20brioche20rolls20vdef_20220815-123130_iawfqvvsmi1egfxs.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/100075-bakerly-briochelle-rolls-100075"
+    },
+    {
+        "name": "Chocolate Bun",
+        "brand": "Laromme",
+        "packSize": "20/14 OZ",
+        "itemNumber": "12868",
+        "description": "Chocolate buns are made with the highest quality ingredients and carrying the highest Kosher certification. Can be served as a breakfast pastry, snack, or anytime for a dessert.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/9/19130020chocolate20buns_20211106-202715_vsum8uzbxar73v3l.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/12868-kretschmar"
+    },
+    {
+        "name": "Sweet Pan Sabao Bread Baked",
+        "brand": "Cidrines",
+        "packSize": "28/7.1 OZ",
+        "itemNumber": "1061139",
+        "description": "Cidrines offers you an exquisite and tasty variety of breads. Among its most recognized products are: Sobao bread , Creole, integral and frozen. Satisfying the tastes and variety that our consumers like so much.",
+        "image": "https://www.gfifoods.com/media/catalog/product/placeholder/default/default_product_image_base.png",
+        "contentUrl": "https://www.gfifoods.com/bakery/1061139-cidrines-pan-sobao-fb-us-1061139"
+    },
+    {
+        "name": "Pumpkin Cream Cheese Muffin",
+        "brand": "Starbucks",
+        "packSize": "12/4 OZ",
+        "itemNumber": "12464",
+        "description": "FGF BRANDS",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/2/12464silo_l5skd4qjzu1fco7v.jpg",
+        "contentUrl": "https://www.gfifoods.com/12464-starbucks"
+    },
+    {
+        "name": "Classic Cheesecake",
+        "brand": "Cheesecake Factory",
+        "packSize": "2/10 IN",
+        "itemNumber": "200122",
+        "description": "Our legendary creamy California cheesecake baked on a golden graham cracker crumb. The Cheesecake Factory Bakery® is a place where delicate flavors, classic techniques and whimsical imagination come together to create some of the most innovative and irresistible desserts in the world.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/0/10012220classic20cheesecake20whole_ayfvlsn3hrvefchf.jpg",
+        "contentUrl": "https://www.gfifoods.com/200122-cheesecake-factory-classic-cheesecake-200122"
+    },
+    {
+        "name": "Chocolate Chunk Cookie Dough",
+        "brand": "Chippery",
+        "packSize": "214/1.5 OZ",
+        "itemNumber": "33202",
+        "description": "N/A",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/3/3/33202_7yciy3qmswak459p.jpg",
+        "contentUrl": "https://www.gfifoods.com/33202-chippery-chocolate-chunk-cookie-dough"
+    },
+    {
+        "name": "Sugar Cookie Dough Vegan",
+        "brand": "Bear's",
+        "packSize": "396/1 OZ",
+        "itemNumber": "96530",
+        "description": "preformed 1oz frozen cookie dough",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/9/6/9653_box_20211230_1600362_fbbowdd4c5vbwcji.jpg",
+        "contentUrl": "https://www.gfifoods.com/96530-bear-s"
+    },
+    {
+        "name": "Classic Plain Bagels",
+        "brand": "Toufayan",
+        "packSize": "12/6 CT",
+        "itemNumber": "558937",
+        "description": "Our Pitas are convenient, versatile and less splitting than the leading brand. They can be filled with meats, salad or cheese. They are also great for tacos, sloppy joes, fajitas, deli meat and so much more.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/s/n/snag_67054167_20210630_1619942_dgsu99cdyqyokh7d.jpg",
+        "contentUrl": "https://www.gfifoods.com/bakery/558937-toufayan-classic-plain-bagels"
+    },
+    {
+        "name": "Original Croccantini Bites Vegan",
+        "brand": "La Panzanella",
+        "packSize": "12/8 OZ",
+        "itemNumber": "8789",
+        "description": "Food Service 6lb bulk mini cracker original. 12 sleeves per case. Non GMO verified, Kosher Parve, no preservatives or artificial ingredients. Artisan Crafted, crispy lightness for snack or appetizer.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/8/7/8789_main_20200716_1124453_oiaowyyxwyntk1nu.jpg",
+        "contentUrl": "https://www.gfifoods.com/8789-la-panzanella-original-croccantini-bites-bulk"
+    },
+    {
+        "name": "Pecan Biscuits",
+        "brand": "Effie's Homemade",
+        "packSize": "12/7.2 OZ",
+        "itemNumber": "55525",
+        "description": "We combined the sweetness of Southern pecans with stone-ground whole wheat and wildflower honey to create these irresistible nutty tea biscuits. Effie's Pecan Nutcakes have a buttery texture that make them perfect paired with your favorite beverage.",
+        "image": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/p/e/pecanfront_20240626-144250.jpg",
+        "contentUrl": "https://www.gfifoods.com/55525-effies-homemade-pecan-nutcakes"
+    }
+]
