@@ -106,7 +106,7 @@ import { parse } from "json2csv";
 
 try {
   // Read the JSON file
-  const jsonData = JSON.parse(fs.readFileSync("./bona_products.json", "utf8"));
+  const jsonData = JSON.parse(fs.readFileSync("./bona_products.json", "utf8")); //add your json file
   console.log("JSON Data Length:", jsonData.length);
 
   function jsonToCSV(jsonArray) {
@@ -192,7 +192,7 @@ try {
 
   // Convert JSON to CSV and save it
   const csvString = jsonToCSV(jsonData);
-  saveCSV(csvString, "bona_products.csv");
+  saveCSV(csvString, "bona_products.csv"); // give the csv name
 } catch (error) {
   console.error("Error processing the file:", error.message);
 }

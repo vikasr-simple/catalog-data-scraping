@@ -3,7 +3,7 @@ import { parse } from 'json2csv';
 
 try {
   // Read the JSON file
-  const jsonData = JSON.parse(fs.readFileSync('../corinatha/all_products_details.json', 'utf8'));
+  const jsonData = JSON.parse(fs.readFileSync('../corinatha/all_products_details.json', 'utf8')); // add the json file 
 
   function jsonToCSV(jsonArray) {
     // Define the fields for the CSV
@@ -85,7 +85,7 @@ try {
 
   // Convert JSON to CSV and save it
   const csvString = jsonToCSV(jsonData);
-  saveCSV(csvString, 'all_products.csv');
+  saveCSV(csvString, 'all_products.csv');// give the name of csv
 
 } catch (error) {
   console.error("Error processing the file:", error.message);

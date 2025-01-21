@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node scraper.js"
+    "start": "node scraper.js",
+    "dev": "node jsoncd2csv.js"
+
   },
   "keywords": [],
   "author": "",

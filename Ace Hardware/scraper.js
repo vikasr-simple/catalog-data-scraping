@@ -3,7 +3,7 @@ const fs = require('fs');
 
 (async () => {
   console.log('Launching browser...');
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: False });
   console.log('Browser launched.');
 
   const page = await browser.newPage();

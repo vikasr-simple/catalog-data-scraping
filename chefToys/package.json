@@ -4,12 +4,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node jsontocsv.js "
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
     "puppeteer": "^23.9.0"
   }
 }

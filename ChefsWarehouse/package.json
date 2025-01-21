@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node getIdsScript.js",
-    "dev": "node scriptForDetails.js"
+    "dev": "node scriptForDetails.js",
+    "script": "node index.js"
   },
   "author": "",
   "license": "ISC",
